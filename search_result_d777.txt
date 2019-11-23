@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta name="applicable-device" content="pc,mobile" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="keywords" content="天亮了歌词,天亮了歌词搜索,天亮了歌词大全" />
+<meta name="description" content="D777歌词大全:天亮了歌词,天亮了歌词搜索,天亮了歌词大全。" />
+<title>天亮了歌词_天亮了歌词搜索_歌词大全_D777查询</title>
+<link href="http://www.d777.com/css/page.css" rel="stylesheet" type="text/css" />
+<link href="http://www.d777.com/favicon.ico" rel="shortcut icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+<link href="http://www.d777.com/css/gc.css" rel="stylesheet" type="text/css" media="screen and (max-width:800px)" />
+<script language ="javascript" type="text/javascript">
+    function Submit(){
+      if (document.forms['sf']['k'].value.replace(/\s/g,'').length == 0){
+        document.forms['sf']['k'].focus();
+        return false;
+      }else{
+        document.forms['sf'].action = './' + filer(document.forms['sf']['k'].value) + '_s.html';
+        document.forms['sf'].submit();
+    }
+  }
+  function filer(word) {
+      word = word.replace(/[\'\"\\\/\b\f\n\r\t]/g, '');
+//alert(word);
+      return encodeURIComponent(word);
+    }
+</script>
+
+</head>
+<body>
+
+<div class="topbg"><div class="w950"><div class="logot"><img border="0" src="http://www.d777.com/pic/1/0.jpg"></div><div class="logo"><a href="http://www.d777.com/"><img border="0" src="http://www.d777.com/pic/1/logo.jpg" title="第七空间" width="154" height="87"></a><img border="0" src="http://www.d777.com/pic/1/2.jpg" width="154" height="87"><img border="0" src="http://www.d777.com/pic/1/3.jpg" width="154" height="87"><img border="0" src="http://www.d777.com/pic/1/4.jpg" width="154" height="87"><img border="0" src="http://www.d777.com/pic/1/5.jpg" width="154" height="87"></div>
+</div></div>
+
+
+<div id="main">
+<div id="left" class="kuang">
+<div id="maintitle" class="ktitle">
+<div class="flo_l"><a href="http://www.d777.com/">D777查询</a> &gt;</div><div class="flo_l">&nbsp;<a href="http://geci.d777.com/">歌词大全</a></div>
+</div>
+<h1 class="h1title">天亮了歌词</h1>
+
+<hr>
+
+<div class="neirong">
+<div class="neirong"><strong>D777歌词大全找到相关  <font color="#c60a00">天亮了</font> 的歌词26个！</strong></div><ul class="list"><li><a href="/gWsTuAEbA.html" title="天亮了歌词-周亮"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-周<span class=dred>亮</span></a> - [<a href="/%E5%91%A8%E4%BA%AE_1.html">周亮</a>]</li><li><a href="/dCsx6BEbB.html" title="天亮了鸡叫了歌词-陈泓志"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>鸡叫<span class=dred>了</span>-陈泓志</a> - [<a href="/%E9%99%88%E6%B3%93%E5%BF%97_1.html">陈泓志</a>]</li><li><a href="/duTxbEA8b.html" title="天亮了梦醒了歌词-冷酷"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>梦醒<span class=dred>了</span>-冷酷</a> - [<a href="/%E5%86%B7%E9%85%B7_1.html">冷酷</a>]</li><li><a href="/F1MME88Ab.html" title="动了情伤了心歌词-饶天亮">动<span class=dred>了</span>情伤<span class=dred>了</span>心-饶<span class=dred>天</span><span class=dred>亮</span></a> - [<a href="/%E9%A5%B6%E5%A4%A9%E4%BA%AE_1.html">饶天亮</a>]</li><li><a href="/FCOWA8bc8.html" title="忘了我忘不了你歌词-饶天亮">忘<span class=dred>了</span>我忘不<span class=dred>了</span>你-饶<span class=dred>天</span><span class=dred>亮</span></a> - [<a href="/%E9%A5%B6%E5%A4%A9%E4%BA%AE_1.html">饶天亮</a>]</li><li><a href="/dsTb8KAKK.html" title="天亮了歌词-马一涵"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-马一涵</a> - [<a href="/%E9%A9%AC%E4%B8%80%E6%B6%B5_1.html">马一涵</a>]</li><li><a href="/dMWbxxEAb.html" title="天亮了你还在想我吗歌词-张书姚"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>你还在想我吗-张书姚</a> - [<a href="/%E5%BC%A0%E4%B9%A6%E5%A7%9A_1.html">张书姚</a>]</li><li><a href="/dOCbxxEb6.html" title="天亮了你还在想我吗歌词-张书姚"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>你还在想我吗-张书姚</a> - [<a href="/%E5%BC%A0%E4%B9%A6%E5%A7%9A_1.html">张书姚</a>]</li><li><a href="/du3xQQAKx.html" title="天亮了，幸福还在歌词-吴运清(嗯哪）"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>，幸福还在-吴运清(嗯哪）</a> - [<a href="/%E5%90%B4%E8%BF%90%E6%B8%85%28%E5%97%AF%E5%93%AA%EF%BC%89_1.html">吴运清(嗯哪）</a>]</li><li><a href="/Fu1wBccE8.html" title="天亮了我还是不是你的女人歌词-张馨戈"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>我还是不是你的女人-张馨戈</a> - [<a href="/%E5%BC%A0%E9%A6%A8%E6%88%88_1.html">张馨戈</a>]</li><li><a href="/FT1C6E6KB.html" title="天亮了,我的姑娘歌词-庹志"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>,我的姑娘-庹志</a> - [<a href="/%E5%BA%B9%E5%BF%97_1.html">庹志</a>]</li><li><a href="/FM3sKAEcB.html" title="天亮了歌词-徐健淇"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-徐健淇</a> - [<a href="/%E5%BE%90%E5%81%A5%E6%B7%87_1.html">徐健淇</a>]</li><li><a href="/FC1OEb688.html" title="天亮了歌词-S.H.E"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-S.H.E</a> - [<a href="/S.H.E_1.html">S.H.E</a>]</li><li><a href="/FuWCAK8AA.html" title="天亮了（完整版）歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>（完整版）-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/FOWCAK8Ac.html" title="天亮了歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/FwWTAK8A8.html" title="天亮了  韩红歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>  韩红-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/F1sTccEbK.html" title="天亮了歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/Fw1s8E88K.html" title="天歌词-快亮了"><span class=dred>天</span>-快<span class=dred>亮</span><span class=dred>了</span></a> - [<a href="/%E5%BF%AB%E4%BA%AE%E4%BA%86_1.html">快亮了</a>]</li><li><a href="/FswW8cQAA.html" title="天亮了歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/FuMT8QQQB.html" title="天亮了歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/F3TTbB6EQ.html" title="天亮了歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/gu333KbEE.html" title="天亮了歌词-韩红"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-韩红</a> - [<a href="/%E9%9F%A9%E7%BA%A2_1.html">韩红</a>]</li><li><a href="/gOsMsEBxb.html" title="天亮了歌词-斯琴格日乐"><span class=dred>天</span><span class=dred>亮</span><span class=dred>了</span>-斯琴格日乐</a> - [<a href="/%E6%96%AF%E7%90%B4%E6%A0%BC%E6%97%A5%E4%B9%90_1.html">斯琴格日乐</a>]</li><li><a href="/dwObbA8KE.html" title="天都亮了你还没有回家歌词-周至贤"><span class=dred>天</span>都<span class=dred>亮</span><span class=dred>了</span>你还没有回家-周至贤</a> - [<a href="/%E5%91%A8%E8%87%B3%E8%B4%A4_1.html">周至贤</a>]</li><li><a href="/FuW3B6Kxb.html" title="为了这一天歌词-王铮亮">为<span class=dred>了</span>这一<span class=dred>天</span>-王铮<span class=dred>亮</span></a> - [<a href="/%E7%8E%8B%E9%93%AE%E4%BA%AE_1.html">王铮亮</a>]</li><li><a href="/FsM3ABB8c.html" title="天就快亮了歌词-JS"><span class=dred>天</span>就快<span class=dred>亮</span><span class=dred>了</span>-JS</a> - [<a href="/JS_1.html">JS</a>]</li></ul></div>
+<div class="bdshare magL10"><div class="bdsharebuttonbox" id="bds"></div></div>
+<div id="gg1" class="gg"></div>
+
+<div class="searchbox">
+<form name="sf" action="./" method="post" onsubmit="return Submit(this);">歌词搜索： <input name="k" class="txtboxsfz" type="text" size="18" delay="0" value="" /> <input type="submit" class="button1" value=" 搜索 " /></form>
+</div>
+<div class="searchintro f13">输入歌名的相关关键字,然后按搜索即可</div>
+
+</div>
+
+
+
+<div id="right">
+<div id="gg2" class="gg"></div>
+<div class="kuang texta_l">
+<div class="ktitle">其他访客正在查询</div>
+<ul class="tooll3">
+<li><a href="/%E5%A4%A9%E4%BA%AE%E4%BA%86_s.html">天亮了歌词</a></li><li><a href="/%E7%8E%8B%E6%8B%93_1.html">王拓歌词</a></li><li><a href="/dCMbb6EAc.html">我是中国人歌词</a> - <a href="/%E7%AC%91%E5%A4%A9%E6%AD%8C_1.html">笑天歌</a></li><li><a href="/FTuOcEQEK.html">淡入淡出歌词</a> - <a href="/%E9%BB%8E%E6%98%8E_1.html">黎明</a></li><li><a href="/FT1OEbbBB.html">毒药歌词</a> - <a href="/%E8%83%A1%E5%BD%A6%E6%96%8C_1.html">胡彦斌</a></li><li><a href="/FCMMxxKxQ.html">依依不舍歌词</a> - <a href="/%E5%BC%A0%E4%BF%A1%E5%93%B2_1.html">张信哲</a></li><li><a href="/dwubbQB6A.html">安又琪 别嫁了歌词</a> - <a href="/%E6%9D%A8%E8%87%A3%E5%88%9A_1.html">杨臣刚</a></li><li><a href="/F31CbAEAx.html">幸福海歌词</a> - <a href="/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6_1.html">动力火车</a></li><li><a href="/dMTxKB8AQ.html">童年(live)歌词</a> - <a href="/%E9%BB%91%E8%B1%B9%E4%B9%90%E9%98%9F_1.html">黑豹乐队</a></li><li><a href="/%E8%8B%8F%E5%BF%B5%E7%91%BE_1.html">苏念瑾歌词</a></li></ul>
+</div>
+
+<div id="gg3" class="gg"></div>
+<div class="kuang texta_l">
+<div class="ktitle">常用工具</div>
+<ul class="tooll">
+<li><a href="http://suanming.d777.com/" target="_blank">免费算命</a></li><li><a href="http://nongli.d777.com/" target="_blank">老黄历</a></li><li><a href="http://www.d777.com/weixingditu/" target="_blank">卫星地图</a></li><li><a href="http://www.d777.com/shouji/" target="_blank">手机号码查询</a></li><li><a href="http://ip.d777.com/" target="_blank">IP地址查询</a></li><li><a href="http://www.d777.com/shenfenzheng/" target="_blank">身份证号大全</a></li><li><a href="http://wangsu.d777.com/" target="_blank">网速测试</a></li><li><a href="http://huilv.d777.com/" target="_blank">汇率换算查询</a></li><li><a href="http://meng.d777.com/" target="_blank">周公解梦</a></li><li><a href="http://pinyin.d777.com/" target="_blank">中文转拼音</a></li><li><a href="http://zhuge.d777.com/" target="_blank">诸葛神算</a></li><li><a href="http://guanyin.d777.com/" target="_blank">观音灵签</a></li><li><a href="http://youbian.d777.com/" target="_blank">邮编查询</a></li><li><a href="http://huoche.d777.com/" target="_blank">列车时刻表</a></li><li><a href="http://www.d777.com/fangjia/" target="_blank">2015年放假安排</a></li><li><a href="http://tizhong.d777.com/" target="_blank">身高体重比例表</a></li>
+</ul>
+</div>
+</div>
+<div class="ieclearfloat"></div>
+</div>
+<script src="http://www.d777.com/inc11/gggc.js"></script>
+<span id="gg1_box"><script>showbox("gg1","728","90");</script></span>
+<span id="gg2_box"><script>showbox("gg2","250","250");</script></span>
+<span id="gg3_box"><script>showbox("gg3","250","250");</script></span>
+
+<div id="ft">
+<div class="footer"><font face="Verdana,sans-serif helvetica, arial" color="#000000" style="font-size:10.7px">Copyright &copy; <b style="font-weight:bold">www.<font color="#cc0000">D</font><font color="#000000">777.com</b></font> 2003-2016 All Rights Reserved.</font></div>
+<div class="midi0"><script src="http://www.d777.com/inc/footer.js"></script></div>
+</div></body></html>
