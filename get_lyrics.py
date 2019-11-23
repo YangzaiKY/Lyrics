@@ -13,16 +13,19 @@ class GetLyrics:
                          ]
         self.current_website = None
         self.song_name = song_name
+
+        ssl._create_default_https_context = ssl._create_unverified_context
+        self.headers = {
+                        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) '
+                                      'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36'
+                        }
                 
     def get_html(self, url):
         for i in range(len(self.websites)):
             if self.websites[i] in url:
                  self.current_website = self.websites[i]
-        ssl._create_default_https_context = ssl._create_unverified_context
-        headers = {
-                   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36'
-                  }
-        html_request = urllib.request.Request(url, headers=headers)
+
+        html_request = urllib.request.Request(url, headers=self.headers)
         html = urllib.request.urlopen(html_request)
         charset = 'utf-8'
         charset_test = html.read(2000).decode(charset, errors='ignore')
@@ -41,6 +44,64 @@ class GetLyrics:
                 f.write(new_data)
             else:
                 f.write(data)
+
+    def get_options_from_mojim(self, url):
+        html_request = urllib.request.Request(url, headers=self.headers)
+        html = urllib.request.urlopen(html_request)
+
+        charset = 'utf-8'
+        get_charset = html.read(2000).decode(charset, errors='ignore')
+        if 'charset' in get_charset.lower():
+            temp = re.search(r'(?<=charset=).+?(?=")', get_charset, re.I)
+            if temp:
+                charset = temp.group().strip('"')
+                print('网站所用数据集：', charset)
+
+        html = urllib.request.urlopen(html_request)
+        data = html.read().decode(charset, errors='ignore')
+
+        with open('search_result.txt', 'w') as f:
+            f.write(data)
+
+        contents = []
+        lyrics_websites = []
+        with open('search_result.txt', 'r') as f:
+            temp_content = None
+            is_content = False
+            is_result = False
+            for line in f:
+                if '</dd>' in line:
+                    is_content = False
+                    is_result = False
+                if '<dd class="mxsh_dd' in line:
+                    temp = re.search(r'(?<=<dd class="mxsh_dd).+?(?=")', line)
+                    if temp and temp.group() == '0':
+                        menu = []
+                        is_content = True
+                    if temp and temp.group() != '0':
+                        if temp_content:
+                            contents.append(temp_content)
+                        temp_content = {}
+                        is_result = True
+                if is_content and '<span class="mxsh_ss' in line and '<span class="mxsh_ss1">' not in line:
+                    temp = re.search(r'(?<=>)[^>]+?(?=<)', line)
+                    if temp:
+                        menu.append(temp.group().strip())
+                if is_result and '<span class="mxsh_ss' in line and '<span class="mxsh_ss1">' not in line:
+                    temp = re.search(r'(?<=<span class="mxsh_ss).+?(?=")', line)
+                    if '<span class="mxsh_ss4">' in line:
+                        temp_ = re.search(r'(?<=>)[^>.]+?(?=<)', line)
+                        temp_href = re.search(r'(?<=href=").+?(?=")', line)
+                        if temp_href:
+                            lyrics_websites.append('http://mojim.com'+temp_href.group())
+                    else:
+                        temp_ = re.search(r'(?<=>)[^>]+?(?=<)', line)
+                    if temp and temp_:
+                        temp_content[menu[int(temp.group().strip())-2]] = temp_.group().strip()
+            contents.append(temp_content)
+        for i, j in zip(contents, lyrics_websites):
+            print(i)
+            print(j)
 
     def get_lyrics(self):
         lyrics = False

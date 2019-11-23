@@ -1,27 +1,27 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
 <head>
-<title>【 不找了 】 【 歌名 】共有 1笔相关歌名</title>
+<title>【 感谢你曾来过 】 【 歌名 】共有 2笔相关歌名</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="keywords" content="不找了 歌词, 歌词 不找了, 不找了, 歌词" />
-<meta name="description" content="不找了 歌词 " />
+<meta name="keywords" content="感谢你曾来过 歌词, 歌词 感谢你曾来过, 感谢你曾来过, 歌词" />
+<meta name="description" content="感谢你曾来过 歌词 感谢你曾来过 歌词 " />
 <meta name="robots" content="all" />
 <meta name="distribution" content="GLOBAL" />
 <meta name="rating" content="general" />
 <LINK REL="SHORTCUT ICON" HREF="/favicon-g.ico">
-<link rel="alternate" hreflang="zh-Hans" href="https://mojim.com/不找了.html?g3" />
-<link rel="alternate" hreflang="zh-Hant" href="https://mojim.com/不找了.html?t3" />
-<link rel="alternate" hreflang="ja" href="https://mojim.com/不找了.html?j3" />
-<link rel="alternate" hreflang="en" href="https://mojim.com/不找了.html?u3" />
+<link rel="alternate" hreflang="zh-Hans" href="https://mojim.com/感谢你曾来过.html?g3" />
+<link rel="alternate" hreflang="zh-Hant" href="https://mojim.com/感谢你曾来过.html?t3" />
+<link rel="alternate" hreflang="ja" href="https://mojim.com/感谢你曾来过.html?j3" />
+<link rel="alternate" hreflang="en" href="https://mojim.com/感谢你曾来过.html?u3" />
 <base target="_blank">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, user-scalable=yes"/>
 </head>
 <body>
 <script>
 var AdxUU = ",ad_end,";
-var sexA = "";var sexB = "0";var nA = "1";
+var sexA = "";var sexB = "0";var nA = "2";
 var LGx0="cn";var LGx1="g";var LGx2="sh";
-var seaA = "";var modeA = "3";var keyA = "不找了";</script>
+var seaA = "";var modeA = "3";var keyA = "感谢你曾来过";</script>
 <script type="text/javascript" src="/js_home_LG.js"></script>
 <script type="text/javascript" src="/js_home_isearch.js?20171228"></script>
 <table border="0" cellpadding="0" cellspacing="0" style="max-width:800px;width:auto;border-collapse: collapse" ><tr><td>
@@ -39,7 +39,7 @@ var seaA = "";var modeA = "3";var keyA = "不找了";</script>
 <script>document.write(f2);</script>
 <table width="100%" align="center"><tr>
 <td>
-<p align="center">【<b><font color="#D34805"> <font size="5">不找了</font> </font></b>】 【<font color=#D34805> 歌名 </font>】 共有 <font color="#D34805">1</font>笔相关歌名 </p>
+<p align="center">【<b><font color="#D34805"> <font size="5">感谢你曾来过</font> </font></b>】 【<font color=#D34805> 歌名 </font>】 共有 <font color="#D34805">2</font>笔相关歌名 </p>
 </td></tr>
 </table>
 					<table width="100%" align="center">
@@ -57,9 +57,16 @@ var seaA = "";var modeA = "3";var keyA = "不找了";</script>
 </dd>
 <dd class="mxsh_dd1">
 <span class="mxsh_ss1">1</span>
-<span class="mxsh_ss2"><a href="/cnh217980.htm" title="歌词" >郁欢</a></span>
-<span class="mxsh_ss3"><a href="/cn217980x1.htm" title="暂存 歌词 郁欢" >暂存</a></span>
-<span class="mxsh_ss4"><a href="/cny217980x1x2.htm" title="不找了 歌词 郁欢" >2.<font color="#D34805">不找了</font></a></span>
+<span class="mxsh_ss2"><a href="/cnh218931.htm" title="歌词" >Ayo97</a></span>
+<span class="mxsh_ss3"><a href="/cn218931x1.htm" title="感谢你曾来过 歌词 Ayo97" >感谢你曾来过</a></span>
+<span class="mxsh_ss4"><a href="/cny218931x1x1.htm" title="感谢你曾来过 歌词 Ayo97" >1.<font color="#D34805">感谢你曾来过</font></a></span>
+<span class="mxsh_ss5">2017-11</span>
+</dd>
+<dd class="mxsh_dd2">
+<span class="mxsh_ss1">2</span>
+<span class="mxsh_ss2"><a href="/cnh202390.htm" title="歌词" >阿涵</a></span>
+<span class="mxsh_ss3"><a href="/cn202390x1.htm" title="暂存 歌词 阿涵" >暂存</a></span>
+<span class="mxsh_ss4"><a href="/cny202390x1x8.htm" title="感谢你曾来过 歌词 阿涵" >8.<font color="#D34805">感谢你曾来过</font></a></span>
 <span class="mxsh_ss5"></span>
 </dd>
 </dl>
