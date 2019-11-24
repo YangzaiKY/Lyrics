@@ -8,12 +8,12 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <meta name="referrer" content="always" />
-<meta name="description" content="隔壁老樊个人包揽词曲的原创歌曲《姬和不如》。...">
-<title>姬和不如_百度百科</title>
+<meta name="description" content="阴天（overcast）：天空中，低云总云量在8/10及以上，阳光很少或不能透过云层， 天色阴暗的天空状况。 ...">
+<title>阴天（一种天气现象）_百度百科</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
 
-<meta name="keywords" content="姬和不如 姬和不如歌曲信息 姬和不如歌曲歌词">
+<meta name="keywords" content="阴天 overcast sky">
 <meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
 <script type="text/javascript">
   // 配置 PD 监控。
@@ -46,7 +46,7 @@
   void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
 </script>
 <meta name="csrf-token" content="">
-<meta itemprop="dateUpdate" content="2019-08-11 16:40:02" />
+<meta itemprop="dateUpdate" content="2018-09-07 13:48:05" />
 
 <!--[if lte IE 9]>
 <script>
@@ -121,7 +121,7 @@
 <div class="search">
 <div class="form">
 <form id="searchForm" action="/search/word" method="GET" target="_self">
-<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="姬和不如" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="阴天" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
 </form>
 <form id="searchLemmaForm" action="/search" method="GET" target="_self">
 <input id="searchLemmaQuery" name="word" type="hidden" />
@@ -226,6 +226,23 @@
 
 <div class="body-wrapper">
 <div class="before-content">
+<div class="polysemant-list polysemant-list-normal">
+<div class="polysemantList-header">
+<div class="polysemantList-header-title">
+<b class="polysemant-list-lemma-title">阴天</b>是一个<a href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%A4%9A%E4%B9%89%E8%AF%8D" target="_blank">多义词</a>，请在下列<a href="/item/%E4%B9%89%E9%A1%B9" target="_blank">义项</a>上选择浏览（<a href="/item/%E9%98%B4%E5%A4%A9?force=1" target="_blank">共4个义项</a>）<span class="polysemant-separator"></span>
+<a class="polysemant-button polysemant-button--add J-polysemant-button--add" href="javascript:;" data-href="/createsub/%E9%98%B4%E5%A4%A9">
+<span class="polysemant-button__text J-polysemant-button__text">添加义项</span>
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add polysemant-button__icon J-polysemant-button__icon"></em>
+</a>
+</div>
+</div>
+<ul class="polysemantList-wrapper cmn-clearfix" >
+<li class="item">▪<span class="selected">一种天气现象</span></li>
+<li class="item">▪<a title="李宗盛演唱歌曲" href='/item/%E9%98%B4%E5%A4%A9/13832688#viewPageContent'>李宗盛演唱歌曲</a></li>
+<li class="item">▪<a title="李尚朝诗歌" href='/item/%E9%98%B4%E5%A4%A9/4844240#viewPageContent'>李尚朝诗歌</a></li>
+<li class="item">▪<a title="莫文蔚演唱歌曲" href='/item/%E9%98%B4%E5%A4%A9/16124#viewPageContent'>莫文蔚演唱歌曲</a></li>
+</ul>
+</div>
 </div>
 <div class="content-wrapper">
 <div class="content">
@@ -233,12 +250,6 @@
 </div>
 <div class="main-content">
 <div class="top-tool ">
-<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
-<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
-</a>
-<a href="/divideload/%E5%A7%AC%E5%92%8C%E4%B8%8D%E5%A6%82" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
-<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
-</a>
 <div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
 <em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
 <span class="collect-text">收藏</span>
@@ -282,159 +293,71 @@
 </div>
 <div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
 <dd class="lemmaWgt-lemmaTitle-title">
-<h1 >姬和不如</h1>
+<h1 >阴天</h1>
+<h2>（一种天气现象）</h2>
 <a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
 <a class="lock-lemma" nslog-type="10003105" target="_blank" href="javascript:;" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
-<a href="/planet/talk?lemmaId=23258902" target="_blank" class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" nslog-type="90000102"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num"></span></a>
+<a href="/planet/talk?lemmaId=10924880" target="_blank" class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" nslog-type="90000102"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num"></span></a>
 </dd>
 </dl><div class="promotion-declaration">
 </div><div class="lemma-summary" label-module="lemmaSummary">
-<div class="para" label-module="para"><a target=_blank href="/item/%E9%9A%94%E5%A3%81%E8%80%81%E6%A8%8A/23231834" data-lemmaid="23231834">隔壁老樊</a>个人包揽词曲的原创歌曲《姬和不如》。<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
-[1]</sup><a class="sup-anchor" name="ref_[1]_23805656">&nbsp;</a>
-</div>
+
 </div>
 <div class="configModuleBanner">
 </div><div class="basic-info cmn-clearfix">
 <dl class="basicInfo-block basicInfo-left">
-<dt class="basicInfo-item name">中文名称</dt>
+<dt class="basicInfo-item name">中文名</dt>
 <dd class="basicInfo-item value">
-姬和不如<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
-[1]</sup><a class="sup-anchor" name="ref_[1]_23805656">&nbsp;</a>
+阴天
 </dd>
-<dt class="basicInfo-item name">所属专辑</dt>
+<dt class="basicInfo-item name">外文名</dt>
 <dd class="basicInfo-item value">
-姬和不如<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
-[2]</sup><a class="sup-anchor" name="ref_[2]_23805656">&nbsp;</a>
-</dd>
-<dt class="basicInfo-item name">发行时间</dt>
-<dd class="basicInfo-item value">
-2018-11-15<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
-[1]</sup><a class="sup-anchor" name="ref_[1]_23805656">&nbsp;</a>
-</dd>
-<dt class="basicInfo-item name">歌曲原唱</dt>
-<dd class="basicInfo-item value">
-隔壁老樊<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
-[1]</sup><a class="sup-anchor" name="ref_[1]_23805656">&nbsp;</a>
+overcast
 </dd>
 </dl><dl class="basicInfo-block basicInfo-right">
-<dt class="basicInfo-item name">填&nbsp;&nbsp;&nbsp;&nbsp;词</dt>
+<dt class="basicInfo-item name">类&nbsp;&nbsp;&nbsp;&nbsp;别</dt>
 <dd class="basicInfo-item value">
-隔壁老樊
+一种天气现象
 </dd>
-<dt class="basicInfo-item name">谱&nbsp;&nbsp;&nbsp;&nbsp;曲</dt>
+<dt class="basicInfo-item name">释&nbsp;&nbsp;&nbsp;&nbsp;义</dt>
 <dd class="basicInfo-item value">
-隔壁老樊
-</dd>
-<dt class="basicInfo-item name">编&nbsp;&nbsp;&nbsp;&nbsp;曲</dt>
-<dd class="basicInfo-item value">
-张楚弦<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
-[2]</sup><a class="sup-anchor" name="ref_[2]_23805656">&nbsp;</a>
-</dd>
-<dt class="basicInfo-item name">歌曲语言</dt>
-<dd class="basicInfo-item value">
-普通话
+天空中，<a target=_blank href="/item/%E4%BD%8E%E4%BA%91">低云</a>总云量在8/10及以上
 </dd>
 </dl></div>
-<div class="lemmaWgt-lemmaCatalog">
-<div class="lemma-catalog">
-<h2 class="block-title">目录</h2>
-<div class="catalog-list column-1">
-<ol>
-<li class="level1">
-<span class="index">1</span>
-<span class="text"><a href="#1">歌曲信息</a></span>
-</li>
-<li class="level1">
-<span class="index">2</span>
-<span class="text"><a href="#2">歌曲歌词</a></span>
-</li>
-</ol>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E9%98%B4%E5%A4%A9/10924880/0/a686c9177f3e67097f2f8ad336c79f3df8dc55eb?fr=lemma&ct=single" target="_blank"
+		title="天气-阴天" style="width:220px;height:164px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://g.hiphotos.baidu.com/baike/s%3D220/sign=c0d45df3c31b9d168ec79d63c3deb4eb/a686c9177f3e67097f2f8ad336c79f3df8dc55eb.jpg"  alt="天气-阴天" style="width:220px;height:164px;"/>
+</a>
+<span class="description">
+天气-阴天
+</span>
+</div><b>阴天（overcast）</b>：天空中，低云总云量在8/10及以上，阳光很少或不能透过云层， 天色阴暗的<a target=_blank href="/item/%E5%A4%A9%E7%A9%BA%E7%8A%B6%E5%86%B5">天空状况</a>。</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a name="rs_6279745_35006" class="anchor-2"></a>
+<div id="rs-container-6279745-35006" class="rslazy rs-container" lazy-init="lemmars.tableAction(baidu.g('rs-6279745-35006'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":35006,"fentryTableName":"\u5927\u6c14","fentryTableType":1,"entryId":2633743,"templateId":0,"entryTitle":"\u5927\u6c14","isManual":0,"isExpand":1}],"top":[]};
 
-</div>
-</div>
-</div>
-<div class="anchor-list">
-<a name="1" class="lemma-anchor para-title" ></a>
-<a name="sub23805656_1" class="lemma-anchor " ></a>
-<a name="歌曲信息" class="lemma-anchor " ></a>
-</div><div class="para-title level-2" label-module="para-title">
-<h2 class="title-text"><span class="title-prefix">姬和不如</span>歌曲信息</h2>
-<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
-</div>
-<div class="para" label-module="para">歌曲:姬和不如</div>
-<div class="para" label-module="para">作曲 : 隔壁老樊</div>
-<div class="para" label-module="para">作词 : 隔壁老樊</div>
-<div class="para" label-module="para">制作人：胡皓</div>
-<div class="para" label-module="para">编曲：张楚弦</div>
-<div class="para" label-module="para">吉他 &amp; Bass：张楚弦</div>
-<div class="para" label-module="para">Vocal录音：李水泽宁</div>
-<div class="para" label-module="para">Mixing &amp; Mastering：张楚弦<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
-[2]</sup><a class="sup-anchor" name="ref_[2]_23805656">&nbsp;</a>
-</div><div class="anchor-list">
-<a name="2" class="lemma-anchor para-title" ></a>
-<a name="sub23805656_2" class="lemma-anchor " ></a>
-<a name="歌曲歌词" class="lemma-anchor " ></a>
-</div><div class="para-title level-2" label-module="para-title">
-<h2 class="title-text"><span class="title-prefix">姬和不如</span>歌曲歌词</h2>
-<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
-</div>
-<div class="para" label-module="para">踏过青山昨日的落寞</div>
-<div class="para" label-module="para">你扶楼阁弹一曲青涩</div>
-<div class="para" label-module="para">念及昨夜那场翻云覆雨的痛彻</div>
-<div class="para" label-module="para">你说人间苦难命也难逃折磨</div>
-<div class="para" label-module="para">苦难生活日日的落寞</div>
-<div class="para" label-module="para">我说万般皆是命是生活所迫</div>
-<div class="para" label-module="para">不如菩提树下割肉喂鹰</div>
-<div class="para" label-module="para">不如剃度出家斩断七情</div>
-<div class="para" label-module="para">不如别相逢不如别相遇</div>
-<div class="para" label-module="para">不如万劫不复了断性命</div>
-<div class="para" label-module="para">不如日照大地无天下四季</div>
-<div class="para" label-module="para">都不如都不如陪着你</div>
-<div class="para" label-module="para">踏过青山昨日的落寞</div>
-<div class="para" label-module="para">你扶楼阁弹一曲青涩</div>
-<div class="para" label-module="para">念及昨夜那场翻云覆雨的痛彻</div>
-<div class="para" label-module="para">你说人间苦难命也难逃折磨</div>
-<div class="para" label-module="para">苦难生活日日的落寞</div>
-<div class="para" label-module="para">我说万般皆是命是生活所迫</div>
-<div class="para" label-module="para">不如菩提树下割肉喂鹰</div>
-<div class="para" label-module="para">不如剃度出家斩断七情</div>
-<div class="para" label-module="para">不如别相逢不如别相遇</div>
-<div class="para" label-module="para">不如万劫不复了断性命</div>
-<div class="para" label-module="para">不如日照大地无天下四季</div>
-<div class="para" label-module="para">都不如都不如陪着你</div>
-<div class="para" label-module="para">不如菩提树下割肉喂鹰</div>
-<div class="para" label-module="para">不如剃度出家斩断七情</div>
-<div class="para" label-module="para">不如别相逢不如别相遇</div>
-<div class="para" label-module="para">不如万劫不复了断性命</div>
-<div class="para" label-module="para">不如日照大地无天下四季</div>
-<div class="para" label-module="para">都不如都不如陪着你</div>
-<div class="para" label-module="para">都不如都不如陪着你<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
-[2]</sup><a class="sup-anchor" name="ref_[2]_23805656">&nbsp;</a>
-</div>
-<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
-<dt class="reference-title">参考资料</dt>
-<dd class="reference-list-wrap">
-<ul class="reference-list">
-<li class="reference-item reference-item--type1 " id="reference-[1]-23805656-wrap">
-<span class="index">1.</span>
-<a class="gotop anchor"  name="refIndex_1_23805656" id="refIndex_1_23805656" title="向上跳转" href="#ref_[1]_23805656">&nbsp;&nbsp;</a>
-<a rel="nofollow" href="/reference/23258902/dbeblF7pZh_fjmmw3u1YEtsGxM6VelCxKtZqd92LlE3yrboE_jRm2TewEqAnoamV-iokqKVuBY3gVX68JMHjb_YT9DogIA" target="_blank" class="text">姬和不如 - 隔壁老樊 - 专辑 - 网易云音乐<span class="linkout">&nbsp;</span></a>
-<span class="site">．网易云音乐</span><span>．2018-11-15</span><span>&#91;引用日期2019-01-16&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-23805656-wrap">
-<span class="index">2.</span>
-<a class="gotop anchor"  name="refIndex_2_23805656" id="refIndex_2_23805656" title="向上跳转" href="#ref_[2]_23805656">&nbsp;&nbsp;</a>
-<a rel="nofollow" href="/reference/23258902/ebafjKZvPUWkC_Xq8VH-42I1WiwlCn38Q8lKzNy8XLFPpW6L3mkWURmFIg1zeoMGfiqCjqLDvn4mfmtkxwwUOZXn5oxrPPY" target="_blank" class="text">姬和不如 - 隔壁老樊 - 单曲 - 网易云音乐<span class="linkout">&nbsp;</span></a>
-<span class="site">． 网易云音乐</span><span>&#91;引用日期2019-01-16&#93;</span></li></ul>
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([6279745, rsdataList]);
+        }
+    </script>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+文化
+</span>
 </dd>
-</dl>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
 </div>
 <div class="side-content">
-<div class="summary-pic">
-<a href="/pic/%E5%A7%AC%E5%92%8C%E4%B8%8D%E5%A6%82/23258902/0/8644ebf81a4c510f341b851e6e59252dd52aa5d3?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
-<img src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=153e8334b4a1cd1105b675268129afc1/8644ebf81a4c510f341b851e6e59252dd52aa5d3.jpg" />
-<button class="picAlbumBtn"><em></em><span>图集</span></button>
-<div>姬和不如图册</div>
-</a>
-</div>
 <div class="lemmaWgt-promotion-vbaike">
 <div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
 <div class="promotion_viewport">
@@ -442,9 +365,9 @@
 </dl>
 <div class="promotion_viewport_pager"></div>
 </div>
-</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="23258902" data-lemmaTitle="姬和不如"></div><div class="lemmaWgt-sideRecommend">
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="10924880" data-lemmaTitle="阴天"></div><div class="lemmaWgt-sideRecommend">
 <a name="zhixinWrap" class="qnAnchor"></a>
-<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="23258902">
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="10924880">
 </div>
 <form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
 <input class="js-url" name="fb_html_url" type="hidden" />
@@ -467,12 +390,12 @@
 <dd class="description split-line">
 <ul>
 <li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
-<li>编辑次数：4次<a href="/historylist/%E5%A7%AC%E5%92%8C%E4%B8%8D%E5%A6%82/23258902" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>编辑次数：5次<a href="/historylist/%E9%98%B4%E5%A4%A9/10924880" class="nslog:1021" target="_blank">历史版本</a></li>
 <li>
 <span class="latest-title">最近更新：</span>
 <span class="latest-content">
-<a class="show-userCard" data-uid="3836109112" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85TM&from=lemma"
-                    nslog-type="1022">乌兰图雅TM</a><span class="j-modified-time" style="display:none">（2019-08-11）</span>
+<a class="show-userCard" data-uid="11995809" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=w_ou&from=lemma"
+                    nslog-type="1022">w_ou</a><span class="j-modified-time" style="display:none">（2018-09-07）</span>
 </span>
 </li>
 </ul>
@@ -481,7 +404,7 @@
 <dd class="description excellent-description">
 <ul>
 <li>
-<a title="查看此用户资料" class="usercard show-userCard" data-uid="404804466" username="初晨刺眼" target="_blank" href="/usercenter/userpage?uname=%E5%88%9D%E6%99%A8%E5%88%BA%E7%9C%BC&from=lemma">初晨刺眼</a>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="289443346" username="百科拆分专员" target="_blank" href="/usercenter/userpage?uname=%E7%99%BE%E7%A7%91%E6%8B%86%E5%88%86%E4%B8%93%E5%91%98&from=lemma">百科拆分专员</a>
 <div class="right">
 <a target="_blank" href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC"><img align="absmiddle" alt="创建版本" title="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png"></a>
 </div>
@@ -496,24 +419,6 @@
 </div>
 <div class="catalog-scroller">
 <dl class="catalog-list">
-<dt class="catalog-title level1">
-<em class="pointer"></em>
-<a href="#1" class="title-link">
-<span class="text">
-<span class="title-index">1</span>
-<span class="title-link" nslog-type="10002802">歌曲信息</span>
-</span>
-</a>
-</dt>
-<dt class="catalog-title level1">
-<em class="pointer"></em>
-<a href="#2" class="title-link">
-<span class="text">
-<span class="title-index">2</span>
-<span class="title-link" nslog-type="10002802">歌曲歌词</span>
-</span>
-</a>
-</dt>
 <a class="arrow" href="javascript:void(0);"></a>
 </dl>
 </div>
@@ -556,7 +461,7 @@
 <dl class="question">
 <dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
 <dd>
-<div><a id="J-bk-feedback-query" data-lemma="姬和不如" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
+<div><a id="J-bk-feedback-query" data-lemma="阴天" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
 <div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
 <div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
 <div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
@@ -592,7 +497,7 @@
 <div class="search">
 <div class="form">
 <form id="searchForm" action="/search/word" method="GET" target="_self">
-<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="姬和不如" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="阴天" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
 </form>
 <form id="searchLemmaForm" action="/search" method="GET" target="_self">
 <input id="searchLemmaQuery" name="word" type="hidden" />
@@ -611,7 +516,7 @@
 </div>
 <div class="tool-buttons">
 <a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
-<a class="toolButtons-discussion button j-discussion-link" href="/planet/talk?lemmaId=23258902" target="_blank" nslog-type="90000103"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-hollow"></em>讨论&nbsp;<span class="num"></span></a>
+<a class="toolButtons-discussion button j-discussion-link" href="/planet/talk?lemmaId=10924880" target="_blank" nslog-type="90000103"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-hollow"></em>讨论&nbsp;<span class="num"></span></a>
 <a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
 <a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
 </div>
@@ -655,7 +560,7 @@
 <script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script>
 
 </body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
-<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_e7172a1.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_d400227.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_d400227.js"></script>
 <script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_73e487b.js"></script>
 <script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_ea4d2ff.js"></script>
 <script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
@@ -700,49 +605,20 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
   $('.wgt-navbar').removeClass('wgt-navbar-hover');
 });
 }();
-!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
-                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
-
-                // 展现策略
-                rightCheck.editView('23258902', function(res) {
-                    if (!res.errno) {
-                        if (res.data.edit) {
-                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
-                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
-                        }
-                    } else {
-                        if ('1') {
-                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
-                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
-                        }
-                    }
-                });
-                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '23258902',                    lemmaTitle:"\u59ec\u548c\u4e0d\u5982",                    lemmaDesc:null,                    versionId: '139546170',                    subLemmaId: '23805656'                });
-            }();
-!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
-        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
-
-        // 展现策略
-        rightCheck.editView('23258902', function(res) {
-            if (!res.errno) {
-                if (res.data.divide) {
-                    $('.top-tool .split-icon').css('display', 'block');
-                }
-            }
-        });
+!function(){        require('wiki-lemma:widget/lemma_content/mainContent/polysemantList/polysemantList')('阴天');
     }();
 !function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
 	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
 		collect({
-            newLemmaId:"23258902",
-			lemmaId:"21886456",
-			subLemmaId:"23805656"
+            newLemmaId:"10924880",
+			lemmaId:"344341",
+			subLemmaId:"6279745"
 		});
 	});
 }();
 !function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
         topShare({
-            newLemmaId: '23258902'
+            newLemmaId: '10924880'
         });
     });
 }();
@@ -752,7 +628,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
     var Dialog = require("wiki-common:widget/ui/dialog/dialog");
     
     // 展现策略
-    rightCheck.editView('23258902', function(res) {
+    rightCheck.editView('10924880', function(res) {
         if (!res.errno) {
             if (res.data.edit) {
                 $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
@@ -818,13 +694,13 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
                 ],
                 onBtnClick: function(btnKey){
                     if (btnKey === 'discussion') {
-                        window.location.href = '/planet/talk?lemmaId=23258902&category=1';
+                        window.location.href = '/planet/talk?lemmaId=10924880&category=1';
                     }
                 }
             }).show();
         });
         // 获取讨论数
-        $.get('/discussion/api/getdiscussioncount?lemmaId=23258902', function (res) {
+        $.get('/discussion/api/getdiscussioncount?lemmaId=10924880', function (res) {
             if (res && res.errno === 0 && res.data.discussionCount > 0) {
                 var numText = res.data.discussionCount <= 99 ? res.data.discussionCount : '99+';
                 $('.j-discussion-link .num').text(numText).show();
@@ -835,70 +711,47 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         });
         // 讨论按钮展现量
         nsLog(90000101, window.location.href, {
-            lemmaid: 23258902
+            lemmaid: 10924880
         });
     }
 }();
 !function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
 }();
-!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
-    var nslog = require('wiki-common:widget/component/nslog/nslog');
-    nslog(10002701);
-    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
-           nslog(10002702);
-    });
-}();
-!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
-    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
-
-    // 展现策略
-    rightCheck.editView('23258902', function(res) {
-        if (!res.errno) {
-            if (res.data.edit) {
-                $('.para-title .edit-icon').css('display', 'block');
+!function(){        require.async(['wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert'], function(init) {
+            init({ // 关系化统计需求--传参  shangwenbin
+                lemmaId: "344341",
+                newLemmaId: "10924880",
+                subLemmaId: "6279745",
+                lemmaTitle: "阴天"
+            });
+        });
+    }();
+!function(){        require.async(["wiki-common:widget/lib/jquery/jquery"],function($){
+            function openTagToggle(node) {
+                if ($(node).hasClass("collapse")) {
+                    $(node).removeClass("collapse");
+                    $("#open-tag").css("height", '22px');
+                } else {
+                    $(node).addClass("collapse");
+                    $("#open-tag").css("height", $("#open-tag-item").css("height"));
+                }
             }
-        } else {
-            if ('1') {
-                $('.para-title .edit-icon').css('display', 'block');
+            if (parseInt($("#open-tag-item").css("height")) <= 30) {
+                $('#open-tag-collapse').hide();
             }
-        }
-    });
-}();
-!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
-    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
-
-    // 展现策略
-    rightCheck.editView('23258902', function(res) {
-        if (!res.errno) {
-            if (res.data.edit) {
-                $('.para-title .edit-icon').css('display', 'block');
-            }
-        } else {
-            if ('1') {
-                $('.para-title .edit-icon').css('display', 'block');
-            }
-        }
-    });
-}();
-!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
-			new Reference({
-				subLemmaId:"23805656"
-			});
-			new ReferenceTip({
-				subLemmaId:"23258902",
-				lemmaTitle:"姬和不如",
-				reference:[{"type":"1","title":"\u59ec\u548c\u4e0d\u5982 - \u9694\u58c1\u8001\u6a0a - \u4e13\u8f91 - \u7f51\u6613\u4e91\u97f3\u4e50","url":"\/reference\/23258902\/dbeblF7pZh_fjmmw3u1YEtsGxM6VelCxKtZqd92LlE3yrboE_jRm2TewEqAnoamV-iokqKVuBY3gVX68JMHjb_YT9DogIA","site":"\u7f51\u6613\u4e91\u97f3\u4e50","publishDate":"2018-11-15","refDate":"2019-01-16","index":1,"count":"5"},{"type":"1","title":"\u59ec\u548c\u4e0d\u5982 - \u9694\u58c1\u8001\u6a0a - \u5355\u66f2 - \u7f51\u6613\u4e91\u97f3\u4e50","url":"\/reference\/23258902\/ebafjKZvPUWkC_Xq8VH-42I1WiwlCn38Q8lKzNy8XLFPpW6L3mkWURmFIg1zeoMGfiqCjqLDvn4mfmtkxwwUOZXn5oxrPPY","site":" \u7f51\u6613\u4e91\u97f3\u4e50","publishDate":"","refDate":"2019-01-16","index":2,"count":"2"}]
-			});
-		});
-	}();
+            $("#open-tag-collapse").on("click", function () {
+                openTagToggle($("#open-tag")[0]);
+            });
+        });
+    }();
 !function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
-            23258902,
-            '姬和不如'
+            10924880,
+            '阴天'
         );
     }();
 !function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
         init({
-            newLemmaIdEnc:"03557a8f8dd6499327d3e44d"
+            newLemmaIdEnc:"ab5d18ce594a7385fb136691"
         });
     });
 }();
@@ -908,9 +761,9 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 }();
 !function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
             init({
-                newLemmaId: "23258902",
-                lemmaTitle: "姬和不如",
-                encodeLemmaTitle: "%BC%A7%BA%CD%B2%BB%C8%E7",
+                newLemmaId: "10924880",
+                lemmaTitle: "阴天",
+                encodeLemmaTitle: "%D2%F5%CC%EC",
                 adManager: null
             }, {
                 errFn: unionAd,
@@ -920,7 +773,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
     }();
 !function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
             app.init({
-                lemmaTitle: '姬和不如',
+                lemmaTitle: '阴天',
                 adManager: null
             });
         });
@@ -936,8 +789,8 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         var enterpriseOwnerUserId = 0;
     
     var userId = 0;
-    var editUrl = '/edit/' + encodeURIComponent('姬和不如') + '/' + '23258902';
-    var pgcUrl = '/enterprise/editpgc?lemmaId=23258902';
+    var editUrl = '/edit/' + encodeURIComponent('阴天') + '/' + '10924880';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=10924880';
     var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
 
     userLogin.regist({
@@ -1048,7 +901,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
                         btns: btns,
                         onBtnClick: function(btnKey){
                             if (btnKey === 'discussion') {
-                                window.location.href = '/planet/talk?lemmaId=23258902&category=1';
+                                window.location.href = '/planet/talk?lemmaId=10924880&category=1';
                             } else if (btnKey === 'task') {
                                 window.location.href = '/usercenter#guide';
                             } else if (btnKey === 'join') {
@@ -1095,7 +948,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
                         btns: btns,
                         onBtnClick: function(btnKey){
                             if (btnKey === 'discussion') {
-                                window.location.href = '/planet/talk?lemmaId=23258902&category=1';
+                                window.location.href = '/planet/talk?lemmaId=10924880&category=1';
                             } else if (btnKey === 'task') {
                                 window.location.href = '/usercenter#guide';
                             } else if (btnKey === 'join') {
@@ -1136,7 +989,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
             var url = editUrl;
         }
 
-        rightCheck.preeditCheck('23258902', '姬和不如', '隔壁老樊演唱歌曲', '139546170', '', function(res) {
+        rightCheck.preeditCheck('10924880', '阴天', '一种天气现象', '133008837', '', function(res) {
             if (!checkUserLegal(res)) {
                 return;
             }
@@ -1176,9 +1029,9 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
   }();
 !function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
         init({
-            lemmaId:"21886456",
-            subLemmaId:"23805656",
-            newLemmaId:"23258902"
+            lemmaId:"344341",
+            subLemmaId:"6279745",
+            newLemmaId:"10924880"
         });
     });
 }();
@@ -1239,13 +1092,13 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 !function(){    require.async(['wiki-lemma:widget/tools/newSideShare/qzopensl']);
     require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
         taskShare.init({
-            title: '姬和不如',
-            desc: "\u9694\u58c1\u8001\u6a0a\u4e2a\u4eba\u5305\u63fd\u8bcd\u66f2\u7684\u539f\u521b\u6b4c\u66f2\u300a\u59ec\u548c\u4e0d\u5982\u300b\u3002",
-            pic: 'https:\/\/gss1.bdstatic.com\/-vo3dSag_xI4khGkpoWK1HF6hhy\/baike\/w%3D268\/sign=bace43eba7ec8a13141a50e6cf029157\/8644ebf81a4c510f341b851e6e59252dd52aa5d3.jpg',
+            title: '阴天',
+            desc: "\u9634\u5929\uff08overcast\uff09\uff1a\u5929\u7a7a\u4e2d\uff0c\u4f4e\u4e91\u603b\u4e91\u91cf\u57288\\\/10\u53ca\u4ee5\u4e0a\uff0c\u9633\u5149\u5f88\u5c11\u6216\u4e0d\u80fd\u900f\u8fc7\u4e91\u5c42\uff0c \u5929\u8272\u9634\u6697\u7684\u5929\u7a7a\u72b6\u51b5\u3002 ",
+            pic: '',
             url: '',
-            qqPic: 'https:\/\/gss1.bdstatic.com\/-vo3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D500%2C500%2C50\/sign=61b6c6dafe1f3a295a9d868eff188901\/8644ebf81a4c510f341b851e6e59252dd52aa5d3.jpg',
-            newLemmaId: '23258902',
-            lemmaTitle: '姬和不如'
+            qqPic: '',
+            newLemmaId: '10924880',
+            lemmaTitle: '阴天'
         });
     });
 }();
@@ -1269,10 +1122,10 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 
     require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery'], function(nslog, $) {
         nslog().setGlobal({
-            lemmaId: "21886456",
-            newLemmaId: "23258902",
-            subLemmaId: "23805656",
-            lemmaTitle: "姬和不如"
+            lemmaId: "344341",
+            newLemmaId: "10924880",
+            subLemmaId: "6279745",
+            lemmaTitle: "阴天"
         });
 
         // 词条页 pv
@@ -1400,7 +1253,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         api: 'lemma-ad',
         action: 'request'
     });
-    var tags = [];
+    var tags = [{"tagId":0,"tagName":"\u6587\u5316"}];
     var tagsArray = [];
     for (var key in tags) {
         tagsArray.push(tags[key].tagName);
@@ -1409,7 +1262,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         type: 'GET',
         url: '/api/wikiad/getsquirrels',
         data: {
-            lemmaId: 23258902,
+            lemmaId: 10924880,
             tags: tagsArray.join()
         },
         cache: false,
@@ -1550,9 +1403,9 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 
     // 设置分享内容
     window.BKShare.setCommon({
-        bdText: "\u3010\u59ec\u548c\u4e0d\u5982_\u767e\u5ea6\u767e\u79d1\u3011\u9694\u58c1\u8001\u6a0a\u4e2a\u4eba\u5305\u63fd\u8bcd\u66f2\u7684\u539f\u521b\u6b4c\u66f2\u300a\u59ec\u548c\u4e0d\u5982\u300b\u3002.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdText: "\u3010\u9634\u5929_\u767e\u5ea6\u767e\u79d1\u3011\u9634\u5929\uff08overcast\uff09\uff1a\u5929\u7a7a\u4e2d\uff0c\u4f4e\u4e91\u603b\u4e91\u91cf\u57288\/10\u53ca\u4ee5\u4e0a\uff0c\u9633\u5149\u5f88\u5c11\u6216\u4e0d\u80fd\u900f\u8fc7\u4e91\u5c42\uff0c \u5929\u8272\u9634\u6697\u7684\u5929\u7a7a\u72b6\u51b5\u3002 .....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
         bdDesc: '',
-        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E5%A7%AC%E5%92%8C%E4%B8%8D%E5%A6%82\/23258902',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E9%98%B4%E5%A4%A9\/10924880',
         bdPic: '',
         onBeforeClick: function (){
             $('.bdshare_dialog_box').hide();
@@ -1562,7 +1415,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
     // 底部投诉带入当前页面 url
     var map = [1, 2, 6, 5];
     $('.wgt-footer-main .suggestion').find('a').each(function(i) {
-        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E5%A7%AC%E5%92%8C%E4%B8%8D%E5%A6%82' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E9%98%B4%E5%A4%A9' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
     });
 
     // 为超出预设内容的表格添加table-responsive控制

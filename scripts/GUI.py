@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import ttk
+from tkinter import messagebox
 from urllib.parse import quote
 
 from get_lyrics import GetLyrics
@@ -62,6 +63,7 @@ class LyricsGUI:
         self.lyrics_text.insert(END, '欢迎使用本软件～')
 
     def start_search(self):
+        self.song_list_var.set('')
         song_name = self.song_name_entry.get()
         self.GL.set_song_name(song_name)
         encode_name = quote(song_name, encoding='utf-8')
@@ -73,27 +75,32 @@ class LyricsGUI:
             self.GL.get_data_from_baidu(website)
             self.lyrics_text.delete('1.0', END)
             self.lyrics_text.insert(END, self.song_name_entry.get()+'\n\n')
-            with open('lyrics.txt', 'r') as f:
+            with open('../data/lyrics.txt', 'r') as f:
                 for line in f:
                     self.lyrics_text.insert(END, re.sub('<br/>', '\n', line))
         elif source == 1:
             # 在魔镜歌词网找歌词
             website = 'http://mojim.com/%s.html?g3' % encode_name
             self.GL.get_options_from_mojim(website)
+            if not self.GL.contents:
+                messagebox.showwarning(message='抱歉在此搜索源没有找到歌词，请尝试其它搜索源！')
+            for item in self.GL.contents:
+                self.song_list.insert(END, item)
         elif source == 2:
             # 在第七空间找歌词
             website = 'http://geci.d777.com/%s_s.html' % encode_name
             self.GL.get_options_from_d777(website)
-
-        for item in self.GL.contents:
-            self.song_list.insert(END, item)
+            if not self.GL.contents:
+                messagebox.showwarning(message='抱歉在此搜索源没有找到歌词，请尝试其它搜索源！')
+            for item in self.GL.contents:
+                self.song_list.insert(END, item)
 
     def open_lyrics(self, event):
         index = self.song_list.curselection()
         if self.GL.get_option_from_user(index[0]):
             self.lyrics_text.delete('1.0', END)
             self.lyrics_text.insert(END, self.song_name_entry.get()+'\n\n')
-            with open('lyrics.txt', 'r') as f:
+            with open('../data/lyrics.txt', 'r') as f:
                 for line in f:
                     self.lyrics_text.insert(END, re.sub('<br/>', '\n', line))
 

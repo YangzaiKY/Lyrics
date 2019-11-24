@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta name="applicable-device" content="pc,mobile" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="keywords" content="阴天歌词,阴天歌词搜索,阴天歌词大全" />
+<meta name="description" content="D777歌词大全:阴天歌词,阴天歌词搜索,阴天歌词大全。" />
+<title>阴天歌词_阴天歌词搜索_歌词大全_D777查询</title>
+<link href="http://www.d777.com/css/page.css" rel="stylesheet" type="text/css" />
+<link href="http://www.d777.com/favicon.ico" rel="shortcut icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+<link href="http://www.d777.com/css/gc.css" rel="stylesheet" type="text/css" media="screen and (max-width:800px)" />
+<script language ="javascript" type="text/javascript">
+    function Submit(){
+      if (document.forms['sf']['k'].value.replace(/\s/g,'').length == 0){
+        document.forms['sf']['k'].focus();
+        return false;
+      }else{
+        document.forms['sf'].action = './' + filer(document.forms['sf']['k'].value) + '_s.html';
+        document.forms['sf'].submit();
+    }
+  }
+  function filer(word) {
+      word = word.replace(/[\'\"\\\/\b\f\n\r\t]/g, '');
+//alert(word);
+      return encodeURIComponent(word);
+    }
+</script>
+
+</head>
+<body>
+
+<div class="topbg"><div class="w950"><div class="logot"><img border="0" src="http://www.d777.com/pic/1/0.jpg"></div><div class="logo"><a href="http://www.d777.com/"><img border="0" src="http://www.d777.com/pic/1/logo.jpg" title="第七空间" width="154" height="87"></a><img border="0" src="http://www.d777.com/pic/1/2.jpg" width="154" height="87"><img border="0" src="http://www.d777.com/pic/1/3.jpg" width="154" height="87"><img border="0" src="http://www.d777.com/pic/1/4.jpg" width="154" height="87"><img border="0" src="http://www.d777.com/pic/1/5.jpg" width="154" height="87"></div>
+</div></div>
+
+
+<div id="main">
+<div id="left" class="kuang">
+<div id="maintitle" class="ktitle">
+<div class="flo_l"><a href="http://www.d777.com/">D777查询</a> &gt;</div><div class="flo_l">&nbsp;<a href="http://geci.d777.com/">歌词大全</a></div>
+</div>
+<h1 class="h1title">阴天歌词</h1>
+
+<hr>
+
+<div class="neirong">
+<div class="neirong"><strong>D777歌词大全找到相关  <font color="#c60a00">阴天</font> 的歌词30个！如没有你想要的结果，请输入较详细或其它关键词继续搜索！</strong></div><ul class="list"><li><a href="/FCCwKEEKb.html" title="怠倦阴天歌词-冷显达 夏天">怠倦<span class=dred>阴</span><span class=dred>天</span>-冷显达 夏<span class=dred>天</span></a> - [<a href="/%E5%86%B7%E6%98%BE%E8%BE%BE%20%E5%A4%8F%E5%A4%A9_1.html">冷显达 夏天</a>]</li><li><a href="/dWCx6xxK6.html" title="晴天阴天雨天歌词-郑中基">晴<span class=dred>天</span><span class=dred>阴</span><span class=dred>天</span>雨<span class=dred>天</span>-郑中基</a> - [<a href="/%E9%83%91%E4%B8%AD%E5%9F%BA_1.html">郑中基</a>]</li><li><a href="/FTM38xAxQ.html" title="晴天、阴天、下雨天歌词-温兆伦">晴<span class=dred>天</span>、<span class=dred>阴</span><span class=dred>天</span>、下雨<span class=dred>天</span>-温兆伦</a> - [<a href="/%E6%B8%A9%E5%85%86%E4%BC%A6_1.html">温兆伦</a>]</li><li><a href="/F3WT8xcBA.html" title="晴天、阴天、下雨天歌词-温兆伦">晴<span class=dred>天</span>、<span class=dred>阴</span><span class=dred>天</span>、下雨<span class=dred>天</span>-温兆伦</a> - [<a href="/%E6%B8%A9%E5%85%86%E4%BC%A6_1.html">温兆伦</a>]</li><li><a href="/gu333BAQB.html" title="晴天 阴天 雨天歌词-郑中基">晴<span class=dred>天</span> <span class=dred>阴</span><span class=dred>天</span> 雨<span class=dred>天</span>-郑中基</a> - [<a href="/%E9%83%91%E4%B8%AD%E5%9F%BA_1.html">郑中基</a>]</li><li><a href="/gMW3WBcQQ.html" title="晴天阴天雨天歌词-郑中基">晴<span class=dred>天</span><span class=dred>阴</span><span class=dred>天</span>雨<span class=dred>天</span>-郑中基</a> - [<a href="/%E9%83%91%E4%B8%AD%E5%9F%BA_1.html">郑中基</a>]</li><li><a href="/d3MbQ6QbK.html" title="阴天雨天歌词-流弃"><span class=dred>阴</span><span class=dred>天</span>雨<span class=dred>天</span>-流弃</a> - [<a href="/%E6%B5%81%E5%BC%83_1.html">流弃</a>]</li><li><a href="/dMwbb6cAA.html" title="不负光阴不负你歌词-笑天">不负光<span class=dred>阴</span>不负你-笑<span class=dred>天</span></a> - [<a href="/%E7%AC%91%E5%A4%A9_1.html">笑天</a>]</li><li><a href="/dTWbbA6AB.html" title="塞班的阴天歌词-带泪的鱼">塞班的<span class=dred>阴</span><span class=dred>天</span>-带泪的鱼</a> - [<a href="/%E5%B8%A6%E6%B3%AA%E7%9A%84%E9%B1%BC_1.html">带泪的鱼</a>]</li><li><a href="/duubQK6cc.html" title="消失的光阴 (Live)歌词-陈小春 郑伊健 谢天华 林晓峰">消失的光<span class=dred>阴</span> (Live)-陈小春 郑伊健 谢<span class=dred>天</span>华 林晓峰</a> - [<a href="/%E9%99%88%E5%B0%8F%E6%98%A5%20%E9%83%91%E4%BC%8A%E5%81%A5%20%E8%B0%A2%E5%A4%A9%E5%8D%8E%20%E6%9E%97%E6%99%93%E5%B3%B0_1.html">陈小春 郑伊健 谢天华 林晓峰</a>]</li><li><a href="/dOTxBKxB8.html" title="阴天歌词-张卓含威"><span class=dred>阴</span><span class=dred>天</span>-张卓含威</a> - [<a href="/%E5%BC%A0%E5%8D%93%E5%90%AB%E5%A8%81_1.html">张卓含威</a>]</li><li><a href="/d1wx6A6cB.html" title="阴天快乐歌词-陈奕迅"><span class=dred>阴</span><span class=dred>天</span>快乐-陈奕迅</a> - [<a href="/%E9%99%88%E5%A5%95%E8%BF%85_1.html">陈奕迅</a>]</li><li><a href="/d3CxE8bx6.html" title="阴天，思念，含著泪歌词-林叶亭"><span class=dred>阴</span><span class=dred>天</span>，思念，含著泪-林叶亭</a> - [<a href="/%E6%9E%97%E5%8F%B6%E4%BA%AD_1.html">林叶亭</a>]</li><li><a href="/d13xAEEAB.html" title="阴天里歌词-美静"><span class=dred>阴</span><span class=dred>天</span>里-美静</a> - [<a href="/%E7%BE%8E%E9%9D%99_1.html">美静</a>]</li><li><a href="/d1OxAcxBc.html" title="阴天歌词-晴悬"><span class=dred>阴</span><span class=dred>天</span>-晴悬</a> - [<a href="/%E6%99%B4%E6%82%AC_1.html">晴悬</a>]</li><li><a href="/duMxx8EQE.html" title="阴天歌词-青果捷"><span class=dred>阴</span><span class=dred>天</span>-青果捷</a> - [<a href="/%E9%9D%92%E6%9E%9C%E6%8D%B7_1.html">青果捷</a>]</li><li><a href="/FsWOBEAEK.html" title="难得阴天歌词-不龙">难得<span class=dred>阴</span><span class=dred>天</span>-不龙</a> - [<a href="/%E4%B8%8D%E9%BE%99_1.html">不龙</a>]</li><li><a href="/F13OKcQcb.html" title="阴天气球歌词-乔任梁"><span class=dred>阴</span><span class=dred>天</span>气球-乔任梁</a> - [<a href="/%E4%B9%94%E4%BB%BB%E6%A2%81_1.html">乔任梁</a>]</li><li><a href="/FusuEcxbc.html" title="阴天假期歌词-卫兰"><span class=dred>阴</span><span class=dred>天</span>假期-卫兰</a> - [<a href="/%E5%8D%AB%E5%85%B0_1.html">卫兰</a>]</li><li><a href="/FC3CAAcA8.html" title="阴天歌词-莫文蔚"><span class=dred>阴</span><span class=dred>天</span>-莫文蔚</a> - [<a href="/%E8%8E%AB%E6%96%87%E8%94%9A_1.html">莫文蔚</a>]</li><li><a href="/FTWTAbKAB.html" title="阴天歌词-S.H.E"><span class=dred>阴</span><span class=dred>天</span>-S.H.E</a> - [<a href="/S.H.E_1.html">S.H.E</a>]</li><li><a href="/FwsubBEEc.html" title="阴天歌词-莫文蔚"><span class=dred>阴</span><span class=dred>天</span>-莫文蔚</a> - [<a href="/%E8%8E%AB%E6%96%87%E8%94%9A_1.html">莫文蔚</a>]</li><li><a href="/FWsCbAAQx.html" title="阴天歌词-梁咏琪"><span class=dred>阴</span><span class=dred>天</span>-梁咏琪</a> - [<a href="/%E6%A2%81%E5%92%8F%E7%90%AA_1.html">梁咏琪</a>]</li><li><a href="/gO1CsA668.html" title="阴天歌词-莫文蔚"><span class=dred>阴</span><span class=dred>天</span>-莫文蔚</a> - [<a href="/%E8%8E%AB%E6%96%87%E8%94%9A_1.html">莫文蔚</a>]</li><li><a href="/dOMx6cA8B.html" title="阴霾的天歌词-施娜"><span class=dred>阴</span>霾的<span class=dred>天</span>-施娜</a> - [<a href="/%E6%96%BD%E5%A8%9C_1.html">施娜</a>]</li><li><a href="/dOuxc88xA.html" title="阴雨天歌词-田松林"><span class=dred>阴</span>雨<span class=dred>天</span>-田松林</a> - [<a href="/%E7%94%B0%E6%9D%BE%E6%9E%97_1.html">田松林</a>]</li><li><a href="/dswxbcb88.html" title="阴雨天歌词-小思"><span class=dred>阴</span>雨<span class=dred>天</span>-小思</a> - [<a href="/%E5%B0%8F%E6%80%9D_1.html">小思</a>]</li><li><a href="/FsCWKcbx6.html" title="雨过天阴歌词-谢安琪">雨过<span class=dred>天</span><span class=dred>阴</span>-谢安琪</a> - [<a href="/%E8%B0%A2%E5%AE%89%E7%90%AA_1.html">谢安琪</a>]</li><li><a href="/F3TsK8BB8.html" title="雨过天阴歌词-谢安琪">雨过<span class=dred>天</span><span class=dred>阴</span>-谢安琪</a> - [<a href="/%E8%B0%A2%E5%AE%89%E7%90%AA_1.html">谢安琪</a>]</li><li><a href="/FwTCcEbQB.html" title="天阴了歌词-张咪"><span class=dred>天</span><span class=dred>阴</span>了-张咪</a> - [<a href="/%E5%BC%A0%E5%92%AA_1.html">张咪</a>]</li></ul></div>
+<div class="bdshare magL10"><div class="bdsharebuttonbox" id="bds"></div></div>
+<div id="gg1" class="gg"></div>
+
+<div class="searchbox">
+<form name="sf" action="./" method="post" onsubmit="return Submit(this);">歌词搜索： <input name="k" class="txtboxsfz" type="text" size="18" delay="0" value="" /> <input type="submit" class="button1" value=" 搜索 " /></form>
+</div>
+<div class="searchintro f13">输入歌名的相关关键字,然后按搜索即可</div>
+
+</div>
+
+
+
+<div id="right">
+<div id="gg2" class="gg"></div>
+<div class="kuang texta_l">
+<div class="ktitle">其他访客正在查询</div>
+<ul class="tooll3">
+<li><a href="/%E9%98%B4%E5%A4%A9_s.html">阴天歌词</a></li><li><a href="/dOOb86cxB.html">最美的回忆送给你歌词</a> - <a href="/%E5%AE%8B%E5%90%91%E6%A5%A0_1.html">宋向楠</a></li><li><a href="/ds3bQBE8A.html">相信我歌词</a> - <a href="/%E9%87%91%E5%AD%A6%E5%B3%B0_1.html">金学峰</a></li><li><a href="/dsWbbQEb6.html">性感小野猫歌词</a> - <a href="/%E5%B2%91%E8%8B%91%E4%B9%8B_1.html">岑苑之</a></li><li><a href="/d1Mxb6KEB.html">爱是一个圆歌词</a> - <a href="/%E9%98%BFBen_1.html">阿Ben</a></li><li><a href="/dW3bQ8ccE.html">罪恶感歌词</a> - <a href="/A-Lin_1.html">A-Lin</a></li><li><a href="/FW3T6cQ6B.html">不必太在意歌词</a> - <a href="/%E9%9D%92%E6%98%A5%E7%BE%8E%E5%B0%91%E5%A5%B3_1.html">青春美少女</a></li><li><a href="/d1wxbBKAc.html">小小蒲公英歌词</a> - <a href="/%E7%BF%81%E7%90%B3_1.html">翁琳</a></li><li><a href="/dTwxAEEBE.html">追寻歌词</a> - <a href="/%E5%A4%A7%E5%B0%8F%E7%99%BE%E5%90%88_1.html">大小百合</a></li><li><a href="/dOuxQxEcb.html">写一半的话歌词</a> - <a href="/%E6%B6%B5%E6%B6%B5_1.html">涵涵</a></li></ul>
+</div>
+
+<div id="gg3" class="gg"></div>
+<div class="kuang texta_l">
+<div class="ktitle">常用工具</div>
+<ul class="tooll">
+<li><a href="http://suanming.d777.com/" target="_blank">免费算命</a></li><li><a href="http://nongli.d777.com/" target="_blank">老黄历</a></li><li><a href="http://www.d777.com/weixingditu/" target="_blank">卫星地图</a></li><li><a href="http://www.d777.com/shouji/" target="_blank">手机号码查询</a></li><li><a href="http://ip.d777.com/" target="_blank">IP地址查询</a></li><li><a href="http://www.d777.com/shenfenzheng/" target="_blank">身份证号大全</a></li><li><a href="http://wangsu.d777.com/" target="_blank">网速测试</a></li><li><a href="http://huilv.d777.com/" target="_blank">汇率换算查询</a></li><li><a href="http://meng.d777.com/" target="_blank">周公解梦</a></li><li><a href="http://pinyin.d777.com/" target="_blank">中文转拼音</a></li><li><a href="http://zhuge.d777.com/" target="_blank">诸葛神算</a></li><li><a href="http://guanyin.d777.com/" target="_blank">观音灵签</a></li><li><a href="http://youbian.d777.com/" target="_blank">邮编查询</a></li><li><a href="http://huoche.d777.com/" target="_blank">列车时刻表</a></li><li><a href="http://www.d777.com/fangjia/" target="_blank">2015年放假安排</a></li><li><a href="http://tizhong.d777.com/" target="_blank">身高体重比例表</a></li>
+</ul>
+</div>
+</div>
+<div class="ieclearfloat"></div>
+</div>
+<script src="http://www.d777.com/inc11/gggc.js"></script>
+<span id="gg1_box"><script>showbox("gg1","728","90");</script></span>
+<span id="gg2_box"><script>showbox("gg2","250","250");</script></span>
+<span id="gg3_box"><script>showbox("gg3","250","250");</script></span>
+
+<div id="ft">
+<div class="footer"><font face="Verdana,sans-serif helvetica, arial" color="#000000" style="font-size:10.7px">Copyright &copy; <b style="font-weight:bold">www.<font color="#cc0000">D</font><font color="#000000">777.com</b></font> 2003-2016 All Rights Reserved.</font></div>
+<div class="midi0"><script src="http://www.d777.com/inc/footer.js"></script></div>
+</div></body></html>

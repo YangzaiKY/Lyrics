@@ -49,7 +49,7 @@ class GetLyrics:
     def get_data_from_baidu(self, url):
         data = self.get_html(url)
 
-        with open('search_result_baidu.txt', 'w') as f:
+        with open('../data/search_result_baidu.txt', 'w') as f:
             # if self.current_website and self.current_website == self.websites[3]:
             #     new_data = re.sub('>', '>\n', data)
             #     f.write(new_data)
@@ -57,12 +57,14 @@ class GetLyrics:
         self.get_lyrics()
 
     def get_options_from_mojim(self, url):
+        self.contents = []
+        self.lyrics_websites = []
         data = self.get_html(url)
 
-        with open('search_result_mojim.txt', 'w') as f:
+        with open('../data/search_result_mojim.txt', 'w') as f:
             f.write(data)
 
-        with open('search_result_mojim.txt', 'r') as f:
+        with open('../data/search_result_mojim.txt', 'r') as f:
             temp_content = ''
             # is_content = False
             is_result = False
@@ -76,7 +78,7 @@ class GetLyrics:
                     #     menu = []
                     #     is_content = True
                     if temp and temp.group() != '0':
-                        if temp_content:
+                        if temp_content and temp_content.strip('--') not in self.contents:
                             self.contents.append(temp_content.strip('--'))
                         temp_content = ''
                         is_result = True
@@ -95,16 +97,18 @@ class GetLyrics:
                         temp_ = re.search(r'(?<=>)[^>]+?(?=<)', line)
                     if temp and temp_:
                         temp_content += temp_.group().strip() + '--'
-            if temp_content:
+            if temp_content and temp_content.strip('--') not in self.contents:
                 self.contents.append(temp_content.strip('__'))
 
     def get_options_from_d777(self, url):
+        self.contents = []
+        self.lyrics_websites = []
         data = self.get_html(url)
 
-        with open('search_result_d777.txt', 'w') as f:
+        with open('../data/search_result_d777.txt', 'w') as f:
             f.write(data)
 
-        with open('search_result_d777.txt', 'r') as f:
+        with open('../data/search_result_d777.txt', 'r') as f:
             for line in f:
                 if '<div class="neirong">' in line and '</div>' in line:
                     temp = re.findall(r'(?<=<li>).+?(?=>)', line)
@@ -116,7 +120,7 @@ class GetLyrics:
         if self.contents:
             url = self.lyrics_websites[option]
             data = self.get_html(url)
-            with open('chosen_result.txt', 'w') as w:
+            with open('../data/chosen_result.txt', 'w') as w:
                 w.write(data)
             self.get_lyrics()
             return True
@@ -125,8 +129,8 @@ class GetLyrics:
 
     @staticmethod
     def get_lyrics_from_baidu():
-        with open('search_result_baidu.txt', 'r') as f:
-            with open('lyrics.txt', 'w', encoding='utf-8') as w:
+        with open('../data/search_result_baidu.txt', 'r') as f:
+            with open('../data/lyrics.txt', 'w', encoding='utf-8') as w:
                 lyrics = False
                 lyrics_found = False
                 temp_file = []
@@ -150,12 +154,12 @@ class GetLyrics:
                         if '<div class="para" label-module="para">' in line and '歌曲歌词' in line:
                             lyrics = True
                         if lyrics and '<div class="para" label-module="para">' in line and '歌曲歌词' not in line:
-                            w.write(re.search(r'(?<=<div class="para" label-module="para">).+?(?=<)', line).group() + '<br/>')
+                            w.write(re.search(r'(?<=<div class="para" label-module="para">).+(?=<)', line).group() + '<br/>')
 
     @staticmethod
     def get_lyrics_from_mojim():
-        with open('lyrics.txt', 'w') as w:
-            with open('chosen_result.txt', 'r') as f:
+        with open('../data/lyrics.txt', 'w') as w:
+            with open('../data/chosen_result.txt', 'r') as f:
                 for line in f:
                     if "<dd id='fsZx3' class='fsZx3'>" in line:
                         temp_lyrics = re.search(r"(?<=<dd id='fsZx3' class='fsZx3'>).+", line).group()
@@ -170,8 +174,8 @@ class GetLyrics:
 
     @staticmethod
     def get_lyrics_from_d777():
-        with open('lyrics.txt', 'w') as w:
-            with open('chosen_result.txt', 'r') as f:
+        with open('../data/lyrics.txt', 'w') as w:
+            with open('../data/chosen_result.txt', 'r') as f:
                 lyrics = False
                 for line in f:
                     if lyrics:
@@ -229,8 +233,8 @@ class GetLyrics:
         #             w.write(re.sub('<br />', '<br/>', line).strip())
 
     def add_style(self, background_url):
-        with open('lyrics.txt', 'r', encoding='utf-8') as f:
-            with open('lyrics_with_style.txt', 'w', encoding='utf-8') as w:
+        with open('../data/lyrics.txt', 'r', encoding='utf-8') as f:
+            with open('../data/lyrics_with_style.txt', 'w', encoding='utf-8') as w:
                 w.write('<section style="background-image:url(' + background_url +
                         ');background-position:center;background-size:100%;background-repeat:repeat-y;">\n')
                 w.write('<p style="text-align:center">\n')
