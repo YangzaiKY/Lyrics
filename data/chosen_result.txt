@@ -1,148 +1,311 @@
-﻿﻿﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
-<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>阴天 歌词 果味VC ※ Mojim.com</title>
-<meta name="keywords" content="阴天, 歌词 阴天, 果味VC, 歌词, 阴天" />
-<meta name="description" content="阴天  作词：李小泉 作曲：李小泉 编曲：果味VC  寻找故事结局 去穿越春夏与秋冬 世界很大 不想孤单 世界很大 不想孤单 彩虹忽然出现 好像是重生的瞬间 这份美丽无语伦比 这份美丽无语伦比  我站在世界的边缘 去呼唤你的名字 却发现时间 已永远地静止 你看忧郁的阴天 是我灰色的眼睛 那些无法告别的过去 消失在中间 " />
-<meta name="robots" content="all" />
-<meta name="distribution" content="GLOBAL" />
-<meta name="rating" content="general" />
-<meta property="og:site_name" content="MOJIM" />
-<meta property="og:image" content="http://mojim.com/logo-fb-g.jpg" /><meta property="og:image" content="http://mojim.com/logo-fb-t.jpg" /><meta property="og:image" content="http://mojim.com/logo-fb.jpg" />
-<meta property="og:image:type" content="image/jpg" />
-<meta property="og:image:width" content="200" />
-<meta property="og:image:height" content="200" />
-<meta property="og:title" content="阴天 歌词 果味VC ※ Mojim.com" />
-<meta property="og:description" content="阴天  作词：李小泉 作曲：李小泉 编曲：果味VC  寻找故事结局 去穿越春夏与秋冬 世界很大 不想孤单 世界很大 不想孤单 彩虹忽然出现 好像是重生的瞬间 这份美丽无语伦比 这份美丽无语伦比  我站在世界的边缘 去呼唤你的名字 却发现时间 已永远地静止 你看忧郁的阴天 是我灰色的眼睛 那些无法告别的过去 消失在中间 " />
-<meta property="og:url" content="http://mojim.com/cny105923x14x1.htm" />
-<meta property="og:type" content="website" />
-<LINK REL="SHORTCUT ICON" HREF="/favicon-g.ico">
-<link rel="alternate" hreflang="zh-Hans" href="https://mojim.com/cny105923x14x1.htm" />
-<link rel="alternate" hreflang="zh-Hant" href="https://mojim.com/twy105923x14x1.htm" />
-<link rel="alternate" hreflang="ja" href="https://mojim.com/jpy105923x14x1.htm" />
-<link rel="alternate" hreflang="en" href="https://mojim.com/usy105923x14x1.htm" />
-<base target="_self" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, user-scalable=yes"/>
-<script>
-var U2x1="?h=105923x14x1";var U2x2="video";var U2x9="果味VC+阴天";var U2x9num="0";var U2xform="0";var U2xembed="";var U2x5a="";var U2x5b="";var U2xEE="f25834160c06";
-var LGx0="cn";var LGx1="g";var LGx2="y";var U2_v3z="";
-var AdxUU = ",f00ytop01,f00yBelow01,f00y01,f00y02,f00y99g,";var AdxPP = "1";var QRzA="果味VC<br />阴天";var RAzA = "99999";var MMsMsM = "";var runMM = "1095a3";
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>大冰的小屋・白亮 孙大剩歌词_365音乐网</title>
+<meta name="keywords" content="大冰的小屋・白亮孙大剩歌词,孙大剩lrc歌词 大冰的小屋・白亮">
+<meta name="Description" content="大冰的小屋・白亮 孙大剩歌词 大冰的小屋・白亮孙大剩lrc歌词">
+<link href="http://zy.yue365.com/css/new/comm.css" rel="stylesheet" type="text/css"/>
+<link href="http://zy.yue365.com/css/new/play_geci.css" rel="stylesheet" type="text/css"/>
+<link href="http://zy.yue365.com/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<script type="text/javascript" src="http://zy.yue365.com/js/jplayer/jquery.min.js"></script>
+<script type="text/javascript" src="http://zy.yue365.com/js/jplayer/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="http://zy.yue365.com/js/common.js"></script>
+<script type="text/javascript" src="http://zy.yue365.com/js/new/fun.js?v=0519"></script>
+<script type="text/javascript" src="http://zy.yue365.com/js/new/jquery.zclip.min.js"></script>
+<script language="javascript">
+var nurl="2006_3629/91784/1.mp3";var sid="3629";var rsid="3629";var zid="91784";var namefor="孙大剩";var MusicId=416299;var GeShouStatus=1; var MusicStatus=1;var nameGs="大冰的小屋・白亮";var zjpic="http://pic.yue365.com/3629/91784_120.jpg";var is_new_geci = true;var HavePower=0;
 </script>
-<script type="text/javascript" src="/js_home_LG.js"></script>
-<script type="text/javascript" src="/js_home_LG_del.js"></script>
-<script type="text/javascript" src="/js_home_iU2.js?20190425"></script>
-<script>var songname="阴天";var commentTG="g";var comNum="0";var lyA="1";</script>
-<script type="text/javascript" src="/js_home_icss.js"></script>
-
 </head>
+
 <body>
-<style type="text/css">
-span.Ac1{color:#885A28;}a.tab1,a.tab2{width:80px;float:left;font-size:14pt; margin:0;line-height:25px;text-indent:3px;text-align:center; padding:5px 10px 5px 10px;}a.tab1{border-color:#E0C5A3; border-style:solid;border-width:1px;background-color: #F0EAE1;}a.tab2{border-color:#E0C5A3; border-style:solid;border-width:1px;border-bottom:none;font-weight: bold;}</style>
-<div id="frame">
+<div class="mainBox">
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/s.js"></script>
+<div id="top">
+	<span class="H1Logo"><a href="/" title="365音乐网(yue365.com) - 最新最好听的网络歌曲分享" >365音乐网</a></span>
+	<div id="search">
+	<input  id="KeyWords" name="KeyWords" class="searchinput" />
+	<input type="button"   value=" " id="searchbotton"  onclick="onSearch();"/>
+	<div id="searchradio">
+		<input name="type"  type="radio" value="album">
+		<span>专辑</span>
+		<input name="type" checked="checked"  type="radio" value="song">
+		<span>歌曲</span>
+		<input name="type"  type="radio" value="artist">
+		<span>歌手</span>
+        <input name="type"  type="radio" value="geci">
+		<span>歌词</span>
+	</div>
+	<div style="display:inline-block; float:left; margin-top:7px;"><script type="text/javascript">BAIDU_CLB_fillSlot("186412");</script> <a href="http://www.yue365.com/tv/" target="_blank">电视剧</a> <a href="http://www.yue365.com/zixun/" target="_blank">资讯</a> </div>
+</div>
+  
+  <div id="login">
+    <script type="text/javascript">BAIDU_CLB_fillSlot("5833562");</script>
+ </div>
+  <ul id="nav">
+    <li><a href="/">首页</a></li>
+    <li><a href="/bang/">排行榜</a></li>
+	<li><a href="/bang/tag13.shtml">好听的歌</a></li>
+    <li><a href="/geci/">歌词搜索</a></li>
+    <li><a href="/mlist/singerlist.shtml">歌手</a></li>
+    <li><a href="/musiclist/ablumlist.shtml">专辑</a></li>
+    <li><a href="/bang/fenlei.shtml">音乐分类</a></li>
+	<span>欢迎来到365音乐网</span>
+  </ul>
+</div>
+<script type="text/javascript">
+function navSel(){var navs=$('#nav li');var urlstr=document.location.toString();$('#nav li .hot').remove();if(urlstr.indexOf("/tag13")!=-1||urlstr.indexOf("/tag9")!=-1||urlstr.indexOf("/tag10")!=-1||urlstr.indexOf("/haoting")!=-1){navs[2].className="navmover";$("#nav li:eq(1)").append("<div class=\"hot\" style=\"margin-left:-25px;\"><img src=\"http://zy.yue365.com/images/hot.gif\" /></div>")}else if(urlstr.indexOf("/geci/")!=-1){navs[3].className="navmover"}else if(urlstr.indexOf("/mlist")!=-1||urlstr.indexOf("/music/")!=-1){navs[4].className="navmover"}else if(urlstr.indexOf("/musiclist")!=-1||urlstr.indexOf("/zlist")!=-1){navs[5].className="navmover"}else if(urlstr.indexOf("/bang/fenlei")!=-1 || urlstr.indexOf("/paihang/fenlei")!=-1){navs[6].className="navmover"}else if(urlstr.indexOf("/bang")!=-1){navs[1].className="navmover";$("#nav li:eq(2)").append("<div class=\"hot\"><img src=\"http://zy.yue365.com/images/hot.gif\" /></div>")}else{navs[0].className="navmover"}if(navs[1].className==""&&navs[2].className==""){$("#nav li:eq(2)").append("<div class=\"hot\"><img src=\"http://zy.yue365.com/images/hot.gif\" /></div>")}}navSel();
+$(document).keypress(function(e){if(e.which==13){onSearch();}})
+</script>
 
-<div id="Ta1">
-<span id="aaCss1"></span>
-<a target="_top" href="/cnznew.htm" title="魔镜歌词网"><img alt="魔镜歌词网" title="魔镜歌词网" border="0" src="/logo-g.jpg" /></a>
-<span id="aaCss2"></span>
-</div>
-<script type="text/javascript">var aT0 = "y";var aT1 = "果味VC";var aT2 = "0";var aT3 = "0";var aT4 = "0";var MMsMsM = "";var aZxZ = "c";var aJPx = "0";</script>
-<script type="text/javascript" src="/js_home_iad.js?20171228"></script>
-<div id="Tb3">
-<script>document.write(AT);</script>
-<div>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-<a href="https://mojim.com/cnznew.htm" itemprop="url" class="X3" title="魔镜歌词网" >
-<span itemprop="title">魔镜歌词网</span>
-</a> >
-</span>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://mojim.com/cnzc1.htm" itemprop="url" class="X3" title="团体歌手 列表" ><span itemprop="title">团体歌手</span></a> > </span>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://mojim.com/cnh105923.htm" itemprop="url" class="X3" title="果味VC 共收藏 14张专辑 65首歌词" ><span itemprop="title">果味VC</span></a> > </span>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://mojim.com/cn105923x14.htm" itemprop="url" class="X3" title="阴天 歌词 果味VC" ><span itemprop="title">阴天</span></a> > </span>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://mojim.com/cny105923x14x1.htm" itemprop="url" class="X3" title="阴天 歌词 果味VC" ><span itemprop="title">阴天</span></a></span>
- <br />
-</div>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-top: 1px solid #E0C5A3; border-left: 1px solid #E0C5A3; border-right: 1px solid #E0C5A3; border-bottom: 1px solid #E0C5A3; ">
-<tr>
-<td colspan="6" style="height:36px;"  bgcolor="#E9DFD1">
-<h1><a href="/cnh105923.htm" title="果味VC 共收藏 14张专辑 65首歌词" >果味VC</a></h1>
-</td>
-</tr>
+<script type="text/javascript">
+	BAIDU_CLB_fillSlot("45023");
+</script>
 
-<tr>
-<td>
-<div id="ss_y_tb3_0_div" valign="top" width="0" ><br /><script>document.write(f00y01);</script><script>document.write(f00y02);</script><hr color="#FFFFFF" width="0"></div>
-<div valign="top" id="ss_y_tb3_1" >
-<table width="0"><tr><td>
-<dl class="tab0">
-	
-	<dd><a class="tab2" href="/cny105923x14x1.htm" title="阴天 歌词 果味VC">歌词</a></dd>
-	<dd><a class="tab1" href="/cnh105923.htm" title="果味VC 共收藏 14张专辑 65首歌词" >专辑列表</a></dd>
-	<dd><a class="tab1" href="/cnk105923xNews.htm" title="果味VC 新闻" >新闻</a></dd>
-	<dd><a class="tab1" href="/cny105923x9999x9999.htm" title="果味VC 歌手介绍">歌手介绍</a></dd>
-	<dd><a class="tab1"  style="width:110px;"  target="youtube" rel="nofollow" href="https://mojim.net/cn_video_u2_.html?h=105923x14x1&U2xE=f25834160c06&U2xZ=1" title="果味VC 相关视频" ><nobr><img style="vertical-align:middle;" src="/gif/favicon-youtube_144.png" width="26" height="26">相关视频</nobr> </a></dd>
-</dl>
-<hr color="#FFFFFF" id="h1xx400" align="left">
-<script>document.write(f00ytop01);</script>
-<div id='fsZ' class='fsZ' >
-<dl><script>document.write(YYsT111);</script></dl>
-<dl id='fsZx1' class='fsZx1' >
-果味VC
-<br /><br />
-<dt id='fsZx2' class='fsZx2' > 阴天</dt><dd id='fsZx3' class='fsZx3'><br />作词：李小泉<br />作曲：李小泉<br />编曲：果味VC<br /><br />寻找故事结局 去穿越春夏与秋冬<br />世界很大 不想孤单 世界很大 不想孤单<br />彩虹忽然出现 好像是重生的瞬间<br />这份美丽无语伦比 这份美丽无语伦比<br /><br />我站在世界的边缘 去呼唤你的名字<br />却发现时间 已永远地静止<br />你看忧郁的阴天 是我灰色的眼睛<br />那些无法告别的过去 消失在中间<br />你看忧郁的阴天 是我灰色的眼睛<br />我把浪漫画在身体上 浪漫画在身体上<br /><br />相遇在阴天 寻找故事结局<br />去穿越春夏与秋冬 世界很大 不想孤单<br />更多更详尽歌词 在 <a href="http://mojim.com" >※ Mojim.com　魔镜歌词网 </a><br />世界很大 不想孤单<br />彩虹忽然出现 好像是重生的瞬间<br />这份美丽无语伦比 这份美丽无语伦比<br /><br />我站在世界的边缘 去呼唤你的名字<br />却发现时间 已永远地静止<br />你看忧郁的阴天 是我灰色的眼睛<br />那些无法告别的过去 消失在中间<br />你看忧郁的阴天 是我灰色的眼睛<br />我把浪漫画在身体上 浪漫画在身体上<br /><br />相遇在阴天 忧郁的阴天<br />灰色的眼睛 无法告别的过去<br />消失在中间 忧郁的阴天<br />灰色的眼睛 浪漫画在身体上<br />浪漫画在身体上 相遇在阴天<br /><br /> 
-</dl>
+    <div class="MbxAndShare">
+        <div class="mbx"><a href="/" title="365音乐网" target="_blank">365音乐网</a>><a href="/mlist/3629.shtml" target="_blank">大冰的小屋・白亮</a>><a href="/play/3629/416299.shtml" title="孙大剩" target="m">孙大剩</a>> <strong>孙大剩歌词完整版</strong></div>
+        <div class="share"><script type="text/javascript" src="http://zy.yue365.com/js/new/fenxiang.js"></script></div>
+    </div>
+    <div class="geciBox">
+        <div class="fl_cont">
+            <h1>孙大剩歌词</h1>
+            <div class="h3"><span id="copyBtn">复制歌词</span><a href="/play/3629/416299.shtml" title="孙大剩在线试听" target="m">孙大剩在线试听</a>&nbsp;歌手：<a href="/mlist/3629.shtml" target="_blank">大冰的小屋・白亮</a>&nbsp;&nbsp;</div>
+            <div class="txtgc" id="txtgc">作曲 : 白亮<BR>
+作词 : 白亮<BR>
+从小你就想当一个盖世英雄<BR>
+逢人便说长大后要大闹天宫<BR>
+可长大后却发现自己是那么平庸<BR>
+你曾经做的那个征服世界的梦<BR>
+就像个玩笑深藏在你记忆之中<BR>
+生活在检验着你到底是龙还是虫<BR>
+你没有学会七十二变的神通<BR>
+也没有学会满嘴鬼话的武功<BR>
+你总是很难挤出一个恰当的笑容<BR>
+三十岁的你内心总还波涛汹涌<BR>
+可说出的话却是那样言不由衷<BR>
+听他们谈起梦想你努力作哑装聋<BR>
+你是别人口中碌碌无为的孙大剩<BR>
+你是掉进人堆也找不出来的孙大剩<BR>
+孙大剩<BR>
+你的爱人等你开着宝马去娶她<BR>
+孙大剩<BR>
+你多想在那皋兰山下有一个家<BR>
+孙大剩<BR>
+你也曾想过周游世界劈柴喂马<BR>
+孙大剩<BR>
+你期待种的摇钱树会生根发芽<BR>
+你没有学会七十二变的神通<BR>
+也没有学会满嘴鬼话的武功<BR>
+你总是很难挤出一个恰当的笑容<BR>
+三十岁的你内心总还波涛汹涌<BR>
+可说出的话却是那样言不由衷<BR>
+听他们谈起梦想你努力作哑装聋<BR>
+你是别人口中碌碌无为的孙大剩<BR>
+你是掉进人堆也找不出来的孙大剩<BR>
+孙大剩<BR>
+你的爱人等你开着宝马去娶她<BR>
+孙大剩<BR>
+你多想在那皋兰山下有一个家<BR>
+孙大剩<BR>
+你也曾想过周游世界劈柴喂马<BR>
+孙大剩<BR>
+你期待种的摇钱树会生根发芽<BR>
+孙大剩<BR>
+你抱起那把落满了尘土的吉他<BR>
+孙大剩<BR>
+你想起从前和你同甘共苦的她<BR>
+孙大剩<BR>
+你说过要把世界打的满地找牙<BR>
+孙大剩<BR>
+你却张着嘴巴留着眼泪说不出话<BR>
 </div>
-<script>document.write(f00yBelow01);</script>
-<script>document.write(comAdd);</script>
-<script>document.write(t0x);</script>
-<br />
-<script>document.write(twBs6);</script>
-<br />
-<dl>
-<dt style="text-align: center;"><a onclick="history.back();" class="homeA"> 回上一页 </a></dt>
-<dt style="text-align:center;"><a href="/cnznew.htm"><font color="#00CC00">Mojim.com<br />魔镜歌词网</font></a></dt>
-</dl>
-</td></tr></table>
-</div>
-<div style="max-width:200px" valign="top" id="ss_y_tb3_2" width="200px" >
-<br />
-<dl><dt>
-<div id='fsYY001' class='fsYY001'><a href="/cnh105923.htm" title="果味VC 共收藏 14张专辑 65首歌词">果味VC</a><br />阴天<br /><b>专辑歌曲</b><br /><span class="Ac1">1.</span><a href="/cny105923x14x1.htm" title="阴天 歌词"><font color="#990000">阴天</font></a> (<a target="_blank" href="/cnthx105923x14x1x1.htm" title="修改 【 阴天 】 歌词 谢谢您" class="X3" >修改</a>)<br /></div>
-</dt></dl>
-<hr class="hr1" style="min-width: 150px;">
-<div id='fsYY005' class='fsYY005'>
-<a href="/cnh105923.htm" title="果味VC 共收藏 14张专辑 65首歌词">果味VC</a><br />
-<b>热门歌曲</b><br />
-<span class="Ac1">&gt; </span><a href="/cny105923x9x2.htm" class="X3" title="优雅 歌词 果味VC">优雅</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x6x2.htm" class="X3" title="直到世界尽头 歌词 果味VC">直到世界尽头</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x12x1.htm" class="X3" title="日落 歌词 果味VC">日落</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x5.htm" class="X3" title="今夜要谁主宰我们的世界 歌词 果味VC">今夜要谁主宰我们的世界</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x9x4.htm" class="X3" title="海岸 歌词 果味VC">海岸</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x1x6.htm" class="X3" title="夜空多灿烂 歌词 果味VC">夜空多灿烂</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x10.htm" class="X3" title="哈利路亚 歌词 果味VC">哈利路亚</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x1.htm" class="X3" title="妈妈我要回来了 歌词 果味VC">妈妈我要回来了</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x8x3.htm" class="X3" title="年轻人 歌词 果味VC">年轻人</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x9.htm" class="X3" title="带我回家 歌词 果味VC">带我回家</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x8x10.htm" class="X3" title="双重生命 歌词 果味VC">双重生命</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x8x6.htm" class="X3" title="北欧洲 歌词 果味VC">北欧洲</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x2x1.htm" class="X3" title="冒险家 歌词 果味VC">冒险家</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x3.htm" class="X3" title="白色羽毛2017 歌词 果味VC">白色羽毛2017</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x8x2.htm" class="X3" title="超音速列车 歌词 果味VC">超音速列车</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x6.htm" class="X3" title="梦开始的人 歌词 果味VC">梦开始的人</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x4.htm" class="X3" title="生命之花 歌词 果味VC">生命之花</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x8x7.htm" class="X3" title="透明 歌词 果味VC">透明</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x9x5.htm" class="X3" title="零下 歌词 果味VC">零下</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x9x10.htm" class="X3" title="最后的诗 歌词 果味VC">最后的诗</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x8x9.htm" class="X3" title="十四层 歌词 果味VC">十四层</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x11x7.htm" class="X3" title="哪怕只剩一秒 歌词 果味VC">哪怕只剩一秒</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x7x1.htm" class="X3" title="tender 歌词 果味VC">tender</a><br /><span class="Ac1">&gt; </span><a href="/cny105923x6x9.htm" class="X3" title="我带你去看海的路上 歌词 果味VC">我带你去看海的路上</a><br />
-</div>
-<hr class="hr1" style="min-width: 150px;">
-<dl><dt>
-<script>document.write(U2tableA1);</script>
-<div id='fsYY002' class='fsYY002'><a href="/cnh105923.htm" title="果味VC 共收藏 14张专辑 65首歌词">果味VC</a><br /><b>所有专辑</b><br /><span class="Ac1">&gt; </span><a href="/cn105923x14.htm" class="X3" title="阴天 歌词 果味VC"><font color="#990000">阴天</font></a><br /><span class="Ac1">&gt; </span><a href="/cn105923x12.htm" class="X3" title="日落 歌词 果味VC">日落</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x11.htm" class="X3" title="果味VC (THE SUPERVC) 歌词 果味VC">果味VC (THE SUPERVC)</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x10.htm" class="X3" title="哪怕只剩一秒 歌词 果味VC">哪怕只剩一秒</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x7.htm" class="X3" title="tender 歌词 果味VC">tender</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x6.htm" class="X3" title="启示录 歌词 果味VC">启示录</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x13.htm" class="X3" title="2013 年网络红歌 歌词 果味VC">2013 年网络红歌</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x2.htm" class="X3" title="来自木星三号 歌词 果味VC">来自木星三号</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x4.htm" class="X3" title="mr must 歌词 果味VC">mr must</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x5.htm" class="X3" title="darling 歌词 果味VC">darling</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x3.htm" class="X3" title="正义红师 歌词 果味VC">正义红师</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x1.htm" class="X3" title="Great Restoration 歌词 果味VC">Great Restoration</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x9.htm" class="X3" title="来自vc的礼物 歌词 果味VC">来自vc的礼物</a><br /><span class="Ac1">&gt; </span><a href="/cn105923x8.htm" class="X3" title="双重生命 歌词 果味VC">双重生命</a><br /></div>
-</dt></dl>
-<hr class="hr1">
+            <div class="txtgc">编辑于2018/7/10更新<BR>孙大剩歌词完整版<BR></div>
+        </div>
+        <div class="fr_cont">
+            <strong>孙大剩LRC歌词</strong>
+            
+            <div class="lrcgc">孙大剩LRC歌词暂未录入<br></div>
+        </div>
+        <div class="cl"></div>
+        <script type="text/javascript">BAIDU_CLB_fillSlot("6102638");</script>
 
-</div>
-<div  valign="top" id="U2_mmmAA" width="0" >
-<script>document.write(U2tableA2);</script>
-</div>
+    </div>
+    <div class="otherBox">
+    	<div class="geshou_other">
+        	<div class="geshou_tit">大冰的小屋・白亮歌曲精选</div>
+            <ul class="geshou_cont">
+            	<li class="mg_r82">
+<span class="number">1</span>
+<span class="through">-</span>
+<a href="/play/3629/264804.shtml" class="geming" target="m">爱到尽头伤到心头</a>
+<a href="/getgeci/3629/264804.shtml" title="爱到尽头伤到心头歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/264804.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">2</span>
+<span class="through">-</span>
+<a href="/play/3629/264816.shtml" class="geming" target="m">我爱的是你我疼的是你</a>
+<a href="/getgeci/3629/264816.shtml" title="我爱的是你我疼的是你歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/264816.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li class="mg_r82">
+<span class="number">3</span>
+<span class="through">-</span>
+<a href="/play/3629/275520.shtml" class="geming" target="m">最远的距离</a>
+<a href="/getgeci/3629/275520.shtml" title="最远的距离歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/275520.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">4</span>
+<span class="through">-</span>
+<a href="/play/3629/268565.shtml" class="geming" target="m">香巴拉峡谷</a>
+<a href="/getgeci/3629/268565.shtml" title="香巴拉峡谷歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/268565.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li class="mg_r82">
+<span class="number">5</span>
+<span class="through">-</span>
+<a href="/play/3629/161856.shtml" class="geming" target="m">A Thousand Kisses Deep 千吻之深 C Leonard Cohen</a>
+<a href="/getgeci/3629/161856.shtml" title="A Thousand Kisses Deep 千吻之深 C Leonard Cohen歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/161856.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">6</span>
+<span class="through">-</span>
+<a href="/play/3629/275324.shtml" class="geming" target="m">雨花泪花-黄译萱</a>
+<a href="/getgeci/3629/275324.shtml" title="雨花泪花-黄译萱歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/275324.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li class="mg_r82">
+<span class="number">7</span>
+<span class="through">-</span>
+<a href="/play/3629/268559.shtml" class="geming" target="m">爱的部落</a>
+<a href="/getgeci/3629/268559.shtml" title="爱的部落歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/268559.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">8</span>
+<span class="through">-</span>
+<a href="/play/3629/275524.shtml" class="geming" target="m">亲爱的时光</a>
+<a href="/getgeci/3629/275524.shtml" title="亲爱的时光歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/275524.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li class="mg_r82">
+<span class="number">9</span>
+<span class="through">-</span>
+<a href="/play/3629/161853.shtml" class="geming" target="m">Not Ready to Make Nice 不准备作出尼斯</a>
+<a href="/getgeci/3629/161853.shtml" title="Not Ready to Make Nice 不准备作出尼斯歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/161853.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">10</span>
+<span class="through">-</span>
+<a href="/play/3629/275312.shtml" class="geming" target="m">弯弯的思念</a>
+<a href="/getgeci/3629/275312.shtml" title="弯弯的思念歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/3629/275312.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
 
-</td></tr></table>
-<ul><li style="text-align:center;"><font color="#E0C5A3"> 【 <a href="/cnza2.htm" title="亚洲 男生歌手 歌词列表" class="Z1">男生</a> | <a href="/cnzb2.htm" title="亚洲 女生歌手 歌词列表" class="Z1">女生</a> | <a href="/cnzc2.htm" title="亚洲 团体歌手 歌词列表" class="Z1">团体</a> | <a href="/cnzf2.htm" title="日韩歌手 歌词列表" class="Z1">日韩</a> | <a href="/cnze2.htm" title="欧美歌手 歌词列表" class="Z1">欧美</a> | <a href="/cnzz2.htm" title="其他歌手 歌词列表" class="Z1">其他</a> 】 【 <a href="/cnznew.htm" title="最新专辑 歌词列表" class="Z1">最新专辑</a> | <a href="/cnzhot-cd.htm" title="热门专辑 歌词列表" class="Z1">热门专辑</a> | <a href="/cnzhot-song.htm" title="热门歌手 歌词列表" class="Z1">热门歌手</a>  】 【 <a href="/search.php?m=g" title="搜寻 歌手 专辑 歌名 歌词" class="Z1">搜寻</a> | <a href="/cnznew.htm" title="※ Mojim.com 魔镜歌词网" class="Z1"> 首页</a> | <a href="/cnzsitemap.htm" title="网站总览" class="Z1">网站总览</a> 】</font></li></ul>
-<script>document.write(fc);</script>
+            </ul>
+        </div>
+        <div class="geshou_other">
+        	<div class="geshou_tit">置顶新歌榜</div>
+            <ul class="geshou_cont">
+            	<li class="mg_r82">
+<span class="number">1</span>
+<span class="through">-</span>
+<a href="/play/44631/432296.shtml" class="geming" target="m">思念家乡</a>
+<span class="geci_author"><a href="/mlist/44631.shtml" title="赵彪歌曲" target="_blank">赵彪</a></span>
+<a href="/getgeci/44631/432296.shtml" title="思念家乡歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/44631/432296.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">2</span>
+<span class="through">-</span>
+<a href="/play/44805/431854.shtml" class="geming" target="m">陈情令主题曲</a>
+<span class="geci_author"><a href="/mlist/44805.shtml" title="陈情令歌曲" target="_blank">陈情令</a></span>
+<a href="/getgeci/44805/431854.shtml" title="陈情令主题曲歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/44805/431854.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li class="mg_r82">
+<span class="number">3</span>
+<span class="through">-</span>
+<a href="/play/30638/439280.shtml" class="geming" target="m">青玉案</a>
+<span class="geci_author"><a href="/mlist/30638.shtml" title="南笙歌曲" target="_blank">南笙</a></span>
+<a href="/getgeci/30638/439280.shtml" title="青玉案歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/30638/439280.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">4</span>
+<span class="through">-</span>
+<a href="/play/10833/435587.shtml" class="geming" target="m">伤过的心谁来安慰</a>
+<span class="geci_author"><a href="/mlist/10833.shtml" title="望海高歌歌曲" target="_blank">望海高歌</a></span>
+<a href="/getgeci/10833/435587.shtml" title="伤过的心谁来安慰歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/10833/435587.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li class="mg_r82">
+<span class="number">5</span>
+<span class="through">-</span>
+<a href="/play/45813/435505.shtml" class="geming" target="m">三生三世爱你爱不完</a>
+<span class="geci_author"><a href="/mlist/45813.shtml" title="余永强歌曲" target="_blank">余永强</a></span>
+<a href="/getgeci/45813/435505.shtml" title="三生三世爱你爱不完歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/45813/435505.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+<li>
+<span class="number">6</span>
+<span class="through">-</span>
+<a href="/play/45875/435825.shtml" class="geming" target="m">危险迷宫</a>
+<span class="geci_author"><a href="/mlist/45875.shtml" title="牧洁歌曲" target="_blank">牧洁</a></span>
+<a href="/getgeci/45875/435825.shtml" title="危险迷宫歌词" class="geci_text" target="_blank">歌词</a>
+<a href="/play/45875/435825.shtml" class="gequ_btn" target="m" rel="nofollow"></a>
+</li>
+
+
+            </ul>
+        </div>
+    </div>
 </div>
-<div id="Ta2">
-<script>document.write(f1);</script><br />
+<script type="text/javascript">var uid=94;</script>
+<div id="footer" style="padding-bottom:0;">
+  <div style="display:none">
+	<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1b5ab692bf3dcc99a9ff4d3a916b0c59' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+    <script language="javascript" type="text/javascript" src="https://js.users.51.la/591322.js"></script>
+  </div>
+  <div style="height:28px;line-height:28px;border-bottom:1px solid #DDDDDD;margin-bottom:10px;width:960px;" align="center">
+		<a href="/about/us.shtml" rel="nofollow">网站介绍</a> | 
+		<a href="/about/copy.shtml" rel="nofollow">版权声明</a> | 
+		<a href="/about/company.shtml" rel="nofollow">合作单位</a> | 
+		<a href="/about/contact.shtml" rel="nofollow">联系方式</a> | 
+		<a href="/about/gctg.shtml" rel="nofollow">歌曲推广</a> | 
+		<a href="/about/ad.shtml" rel="nofollow">广告投放</a>
+	</div>
+  <div>
+    <div align="center">
+		<a href="http://www.yue365.com/" target="_blank">365音乐网</a> 在线音乐门户，分享最新网络歌曲，带给你最好听的新歌 <br />
+		记住我们的域名：www.yue365.com
+		<script language="javascript"> document.write("<a href='http://www.miitbeian.gov.cn/' target='_blank'>苏ICP备12037584号-2</a>");</script>&nbsp;&nbsp;
+		<script type="text/javascript" src="https://cbjs.baidu.com/js/s.js"></script>
+		<script type="text/javascript">BAIDU_CLB_singleFillSlot("117775");</script>
+		<!-- 鸿媒体 -->
+		<script type="text/javascript">BAIDU_CLB_fillSlot("243238");</script>
+		<div style="display:none;">
+		<script type="text/javascript" src="http://zy.yue365.com/js/tongji.js"></script>
+		<script type="text/javascript">
+if(typeof(uid)!="undefined"){var bjValue=uid;var addidArray=new Array();addidArray["a_91"]="18954029";addidArray["a_94"]="18904341";if(bjValue>=91||bjValue<=94){document.write('<script language="javascript" type="text/javascript" src="http://js.users.51.la/'+addidArray["a_"+bjValue]+'.js"><\/script>')}}
+</script>
+		</div>
+	  </div>
+  </div>
 </div>
-<script>document.write(f9);</script>
-<script>document.write(U2end);</script>
-<script>document.write(f8);</script>
-</div>
-<div id="Tb1">
-<br />
-<script type="text/javascript" src="/js_home_ileft.js?20180801"></script>
-</div>
-<div id="Tb2">
+<div id="ad_pop">
+  <div id="layerd" style="position: fixed; bottom: 0px; right: 0px; line-height: 0px; z-index: 1000; width:250px; height: 278px;">
+    <div onclick="jQuery('#ad_abc').hide();jQuery('.J_close').hide();" class="J_close layer_close" style="display:block;background-color:#efefef;padding:0px;color:#333;font:12px/24px Helvetica,Tahoma,Arial,sans-serif;text-align:right;">关闭</div>
+    <div id="ad_abc">
+<script>BAIDU_CLB_fillSlot("5821450");</script>
+    </div>
+  </div>
 </div>
 
 </body>

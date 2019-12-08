@@ -1,4 +1,5 @@
 import re
+import json
 import ssl
 import urllib.request
 
@@ -28,19 +29,20 @@ class GetLyrics:
         if song_name:
             self.song_name = song_name
                 
-    def get_html(self, url):
+    def get_html(self, url, charset='utf-8'):
         for i in range(len(self.websites)):
             if self.websites[i] in url:
                 self.current_website = self.websites[i]
 
         html_request = urllib.request.Request(url, headers=self.headers)
-        html = urllib.request.urlopen(html_request)
-        charset = 'utf-8'
-        charset_test = html.read(2000).decode(charset, errors='ignore')
-        if 'charset' in charset_test.lower():
-            temp = re.search(r'(?<=charset=).+?(?=")', charset_test, re.I)
-            if temp:
-                charset = temp.group().strip('"')
+        if charset == 'utf-8':
+            html = urllib.request.urlopen(html_request)
+            charset = 'utf-8'
+            charset_test = html.read(2000).decode(charset, errors='ignore')
+            if 'charset' in charset_test.lower():
+                temp = re.search(r'(?<=charset=).+?(?=")', charset_test, re.I)
+                if temp:
+                    charset = temp.group().strip('"')
                 
         html = urllib.request.urlopen(html_request)
         data = html.read().decode(charset, errors='ignore')
@@ -99,6 +101,30 @@ class GetLyrics:
                         temp_content += temp_.group().strip() + '--'
             if temp_content and temp_content.strip('--') not in self.contents:
                 self.contents.append(temp_content.strip('__'))
+
+    def get_options_from_yue365(self, url):
+        self.contents = []
+        self.lyrics_websites = []
+        data = self.get_html(url, charset='gb2312')
+
+        with open('../data/search_result_yue365.txt', 'w') as f:
+            f.write(data)
+
+        with open('../data/search_result_yue365.txt', 'r') as f:
+            data = []
+            for line in f:
+                temp = re.search(r'(?<=\[).+?(?=\])', line)
+                if temp:
+                    a = temp.group().split('},')
+                    b = [item+'}' for item in a[:-1]] + [a[-1]]
+                    for i in b:
+                        data.append(json.loads(i))
+        for i in data:
+            self.contents.append('{}-{}-{}'.format(i['mname'], i['gname'], i['zname']))
+            self.lyrics_websites.append('http://www.yue365.com/getgeci/{}/{}.shtml'.format(i['gid'], i['mid']))
+            
+        # self.contents.append('{}-{}-{}'.format(mname, gname, zname))
+        # self.lyrics_websites.append('http://www.yue365.com/getgeci/{}/{}.shtml'.format(gid, mid))
 
     def get_options_from_d777(self, url):
         self.contents = []
@@ -171,6 +197,21 @@ class GetLyrics:
                             lyrics.append(item)
                         lyrics = '<br/>'.join(lyrics)
                         w.write(lyrics)
+    @staticmethod
+    def get_lyrics_from_yue365():
+        with open('../data/lyrics.txt', 'w') as w:
+            with open('../data/chosen_result.txt', 'r') as f:
+                lyrics = False
+                for line in f:
+                    if '</div>' in line:
+                        lyrics = False
+                    if '<div class="txtgc" id="txtgc">' in line:
+                        lyrics = True
+                    if lyrics:
+                        if '<div class="txtgc" id="txtgc">' in line:
+                            w.write(re.search(r'(?<=">).+?(?=<)', line).group() + '<br/>')
+                            continue
+                        w.write(re.search(r'.+?(?=<)', line).group() + '<br/>')
 
     @staticmethod
     def get_lyrics_from_d777():
@@ -193,18 +234,8 @@ class GetLyrics:
         elif self.current_website and self.current_website == self.websites[1]:
             self.get_lyrics_from_mojim()
 
-        # elif self.current_website and self.current_website == self.websites[2]:
-        #     lyrics = False
-        #     for line in f:
-        #         if '</div>' in line:
-        #             lyrics = False
-        #         if '<div class="txtgc" id="txtgc">' in line:
-        #             lyrics = True
-        #         if lyrics:
-        #             if '<div class="txtgc" id="txtgc">' in line:
-        #                 w.write(re.search(r'(?<=">).+?(?=<)', line).group() + '<br/>')
-        #                 continue
-        #             w.write(re.search(r'.+?(?=<)', line).group() + '<br/>')
+        elif self.current_website and self.current_website == self.websites[2]:
+            self.get_lyrics_from_yue365()
 
         # elif self.current_website and self.current_website == self.websites[3]:
         #     lyrics = False

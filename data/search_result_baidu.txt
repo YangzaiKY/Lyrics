@@ -8,12 +8,12 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <meta name="referrer" content="always" />
-<meta name="description" content="阴天（overcast）：天空中，低云总云量在8/10及以上，阳光很少或不能透过云层， 天色阴暗的天空状况。 ...">
-<title>阴天（一种天气现象）_百度百科</title>
+<meta name="description" content="《LOVE SCENARIO》是韩国男子演唱组合iKON演唱的一首歌曲，由金韩彬、金知元、MOT MAL作词，金韩彬、MILLENNIUM、SEUNG作曲，收录在iKON第二张正规专辑《Return》中，是该专辑的主打曲，于2018年1月25日正式发行。2018年，iKON凭借该曲获得了《M! Countdown》等11个韩国音乐节目的一位。...">
+<title>LOVE SCENARIO_百度百科</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
 
-<meta name="keywords" content="阴天 overcast sky">
+<meta name="keywords" content="LOVE SCENARIO LOVE SCENARIO（中文版） LOVE SCENARIO创作背景 LOVE SCENARIO歌曲歌词 LOVE SCENARIO歌曲鉴赏 LOVE SCENARIO歌曲MV LOVE SCENARIO获奖记录 LOVE SCENARIO重要演出 LOVE SCENARIO发行信息">
 <meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
 <script type="text/javascript">
   // 配置 PD 监控。
@@ -46,7 +46,7 @@
   void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
 </script>
 <meta name="csrf-token" content="">
-<meta itemprop="dateUpdate" content="2018-09-07 13:48:05" />
+<meta itemprop="dateUpdate" content="2019-01-08 15:59:22" />
 
 <!--[if lte IE 9]>
 <script>
@@ -66,7 +66,7 @@
     })();
   </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_46b3d0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_9a9fb54.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_2890903.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_981c735.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_9d93046.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_1b0bc0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_9c411cd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_496a30a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_0d0a0e0.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_9a9fb54.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_2890903.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_981c735.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_9d93046.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_1b0bc0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_9c411cd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_496a30a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
 </head>
 
 <script type="text/javascript">
@@ -121,7 +121,7 @@
 <div class="search">
 <div class="form">
 <form id="searchForm" action="/search/word" method="GET" target="_self">
-<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="阴天" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="LOVE SCENARIO" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
 </form>
 <form id="searchLemmaForm" action="/search" method="GET" target="_self">
 <input id="searchLemmaQuery" name="word" type="hidden" />
@@ -226,30 +226,20 @@
 
 <div class="body-wrapper">
 <div class="before-content">
-<div class="polysemant-list polysemant-list-normal">
-<div class="polysemantList-header">
-<div class="polysemantList-header-title">
-<b class="polysemant-list-lemma-title">阴天</b>是一个<a href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%A4%9A%E4%B9%89%E8%AF%8D" target="_blank">多义词</a>，请在下列<a href="/item/%E4%B9%89%E9%A1%B9" target="_blank">义项</a>上选择浏览（<a href="/item/%E9%98%B4%E5%A4%A9?force=1" target="_blank">共4个义项</a>）<span class="polysemant-separator"></span>
-<a class="polysemant-button polysemant-button--add J-polysemant-button--add" href="javascript:;" data-href="/createsub/%E9%98%B4%E5%A4%A9">
-<span class="polysemant-button__text J-polysemant-button__text">添加义项</span>
-<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add polysemant-button__icon J-polysemant-button__icon"></em>
-</a>
-</div>
-</div>
-<ul class="polysemantList-wrapper cmn-clearfix" >
-<li class="item">▪<span class="selected">一种天气现象</span></li>
-<li class="item">▪<a title="李宗盛演唱歌曲" href='/item/%E9%98%B4%E5%A4%A9/13832688#viewPageContent'>李宗盛演唱歌曲</a></li>
-<li class="item">▪<a title="李尚朝诗歌" href='/item/%E9%98%B4%E5%A4%A9/4844240#viewPageContent'>李尚朝诗歌</a></li>
-<li class="item">▪<a title="莫文蔚演唱歌曲" href='/item/%E9%98%B4%E5%A4%A9/16124#viewPageContent'>莫文蔚演唱歌曲</a></li>
-</ul>
-</div>
 </div>
 <div class="content-wrapper">
 <div class="content">
 <div class="personal-content">
 </div>
 <div class="main-content">
+<a class="posterFlag excellent-icon" target="_blank" href="/tese" title="特色词条经过百科资深用户精心编写，是符合百科编辑精神的典范之作。"></a>
 <div class="top-tool ">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a href="/divideload/LOVE%20SCENARIO" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
 <div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
 <em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
 <span class="collect-text">收藏</span>
@@ -293,64 +283,638 @@
 </div>
 <div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
 <dd class="lemmaWgt-lemmaTitle-title">
-<h1 >阴天</h1>
-<h2>（一种天气现象）</h2>
+<h1 >LOVE SCENARIO</h1>
 <a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
 <a class="lock-lemma" nslog-type="10003105" target="_blank" href="javascript:;" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
-<a href="/planet/talk?lemmaId=10924880" target="_blank" class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" nslog-type="90000102"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num"></span></a>
+<a href="/planet/talk?lemmaId=22358232" target="_blank" class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" nslog-type="90000102"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num"></span></a>
 </dd>
 </dl><div class="promotion-declaration">
 </div><div class="lemma-summary" label-module="lemmaSummary">
-
+<div class="para" label-module="para">《LOVE SCENARIO》是韩国男子演唱组合<a target=_blank href="/item/iKON/2743559" data-lemmaid="2743559">iKON</a>演唱的一首歌曲，由<a target=_blank href="/item/%E9%87%91%E9%9F%A9%E5%BD%AC/8267717" data-lemmaid="8267717">金韩彬</a>、<a target=_blank href="/item/%E9%87%91%E7%9F%A5%E5%85%83/13582274" data-lemmaid="13582274">金知元</a>、MOT MAL作词，金韩彬、MILLENNIUM、SEUNG作曲，收录在iKON第二张正规专辑《<a target=_blank href="/item/Return/22358214" data-lemmaid="22358214">Return</a>》中，是该专辑的主打曲，于2018年1月25日正式发行<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_22978280">&nbsp;</a>
+。</div><div class="para" label-module="para">2018年，iKON凭借该曲获得了《<a target=_blank href="/item/M%21%20Countdown/8133527" data-lemmaid="8133527">M! Countdown</a>》等11个韩国音乐节目的一位<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_22978280">&nbsp;</a>
+。</div>
 </div>
 <div class="configModuleBanner">
 </div><div class="basic-info cmn-clearfix">
 <dl class="basicInfo-block basicInfo-left">
-<dt class="basicInfo-item name">中文名</dt>
+<dt class="basicInfo-item name">外文名称</dt>
 <dd class="basicInfo-item value">
-阴天
+LOVE SCENARIO
 </dd>
-<dt class="basicInfo-item name">外文名</dt>
+<dt class="basicInfo-item name">所属专辑</dt>
 <dd class="basicInfo-item value">
-overcast
+<a target=_blank href="/item/Return/22358214" data-lemmaid="22358214">Return</a>
+</dd>
+<dt class="basicInfo-item name">歌曲时长</dt>
+<dd class="basicInfo-item value">
+03:29
+</dd>
+<dt class="basicInfo-item name">发行时间</dt>
+<dd class="basicInfo-item value">
+2018年1月25日
+</dd>
+<dt class="basicInfo-item name">歌曲原唱</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/iKON/2743559" data-lemmaid="2743559">iKON</a>
 </dd>
 </dl><dl class="basicInfo-block basicInfo-right">
-<dt class="basicInfo-item name">类&nbsp;&nbsp;&nbsp;&nbsp;别</dt>
+<dt class="basicInfo-item name">填&nbsp;&nbsp;&nbsp;&nbsp;词</dt>
 <dd class="basicInfo-item value">
-一种天气现象
+金韩彬，金知元，MOT MAL
 </dd>
-<dt class="basicInfo-item name">释&nbsp;&nbsp;&nbsp;&nbsp;义</dt>
+<dt class="basicInfo-item name">谱&nbsp;&nbsp;&nbsp;&nbsp;曲</dt>
 <dd class="basicInfo-item value">
-天空中，<a target=_blank href="/item/%E4%BD%8E%E4%BA%91">低云</a>总云量在8/10及以上
+金韩彬，MILLENNIUM，SEUNG
+</dd>
+<dt class="basicInfo-item name">编&nbsp;&nbsp;&nbsp;&nbsp;曲</dt>
+<dd class="basicInfo-item value">
+MILLENNIUM
+</dd>
+<dt class="basicInfo-item name">音乐风格</dt>
+<dd class="basicInfo-item value">
+K-pop
+</dd>
+<dt class="basicInfo-item name">歌曲语言</dt>
+<dd class="basicInfo-item value">
+韩语
 </dd>
 </dl></div>
-<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">创作背景</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">歌曲歌词</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">歌曲鉴赏</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">歌曲MV</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">获奖记录</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">重要演出</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">7</span>
+<span class="text"><a href="#7">发行信息</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub22978280_1" class="lemma-anchor " ></a>
+<a name="创作背景" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">LOVE SCENARIO</span>创作背景</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">《LOVE SCENARIO》是iKON第二张正规专辑《<a target=_blank href="/item/Return/22358214" data-lemmaid="22358214">Return</a>》的主打曲，歌词中包含着了iKON对爱情的认真思考、失败，以及悲痛感。iKON回到初心，想要把出道后活动过程中的感悟用音乐表达出来<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
+[3]</sup><a class="sup-anchor" name="ref_[3]_22978280">&nbsp;</a>
+。</div>
+<div class="para" label-module="para">该歌曲的创作灵感来自于美国喜剧歌舞片《<a target=_blank href="/item/%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E/16846866" data-lemmaid="16846866">爱乐之城</a>》，金韩彬在电影的最后10分钟得到灵感。当电影结束的时候，主人公笑着放下对方，金韩彬突然有了一种感觉，觉得这样爱过就够了。随后金韩彬通过这一感觉制作了该歌曲<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_22978280">&nbsp;</a>
+。<div class="lemma-picture text-pic layout-center" style="width:500px; float: none; display: block; margin-left: auto; margin-right: auto;">
 <a class="image-link" nslog-type="9317" 
-			href="/pic/%E9%98%B4%E5%A4%A9/10924880/0/a686c9177f3e67097f2f8ad336c79f3df8dc55eb?fr=lemma&ct=single" target="_blank"
-		title="天气-阴天" style="width:220px;height:164px;">
-<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="http://g.hiphotos.baidu.com/baike/s%3D220/sign=c0d45df3c31b9d168ec79d63c3deb4eb/a686c9177f3e67097f2f8ad336c79f3df8dc55eb.jpg"  alt="天气-阴天" style="width:220px;height:164px;"/>
+			href="/pic/LOVE%20SCENARIO/22358232/0/1f178a82b9014a90c8c5ca36a4773912b21bee46?fr=lemma&ct=single" target="_blank"
+		title="iKON" style="width:500px;height:232px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=251314d5d0c451daf2f60ceb86fc52a5/1f178a82b9014a90c8c5ca36a4773912b21bee46.jpg"  alt="iKON" style="width:500px;height:232px;"/>
 </a>
 <span class="description">
-天气-阴天
+iKON
 </span>
-</div><b>阴天（overcast）</b>：天空中，低云总云量在8/10及以上，阳光很少或不能透过云层， 天色阴暗的<a target=_blank href="/item/%E5%A4%A9%E7%A9%BA%E7%8A%B6%E5%86%B5">天空状况</a>。</div>
-<div class="rs-container-foot">
-<a name="rs-1"></a>
-<a name="rs_6279745_35006" class="anchor-2"></a>
-<div id="rs-container-6279745-35006" class="rslazy rs-container" lazy-init="lemmars.tableAction(baidu.g('rs-6279745-35006'))"></div>
-</div><script type="text/javascript">
-        window.rsInsertData = window['rsInsertData'] || [];
-        var rsdataList = {"foot":[{"fentryTableId":35006,"fentryTableName":"\u5927\u6c14","fentryTableType":1,"entryId":2633743,"templateId":0,"entryTitle":"\u5927\u6c14","isManual":0,"isExpand":1}],"top":[]};
-
-        if (rsdataList.top || rsdataList.foot) {
-            rsInsertData.push([6279745, rsdataList]);
-        }
-    </script>
+</div></div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub22978280_2" class="lemma-anchor " ></a>
+<a name="歌曲歌词" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">LOVE SCENARIO</span>歌曲歌词</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table log-set-param="table_view" class="table-view log-set-param" width="658"><tr><th width="351">韩文版</th><th width="306">中文译文</th></tr><tr><td width="351" valign="top"><div class="para" label-module="para">사랑을 했다 우리가 만나</div>
+<div class="para" label-module="para">지우지 못할 추억이 됐다</div>
+<div class="para" label-module="para">볼만한 멜로드라마</div>
+<div class="para" label-module="para">괜찮은 결말</div>
+<div class="para" label-module="para">그거면 됐다 널 사랑했다</div>
+<div class="para" label-module="para">우리가 만든 love scenario</div>
+<div class="para" label-module="para">이젠 조명이 꺼지고</div>
+<div class="para" label-module="para">마지막 페이지를 넘기면</div>
+<div class="para" label-module="para">조용히 막을 내리죠</div>
+<div class="para" label-module="para">에이 괜찮지만은 않아</div>
+<div class="para" label-module="para">이별을 마주한다는 건</div>
+<div class="para" label-module="para">오늘이었던 우리의</div>
+<div class="para" label-module="para">어제에 더는 내일이 없다는 건</div>
+<div class="para" label-module="para">아프긴 해도 더 끌었음</div>
+<div class="para" label-module="para">상처가 덧나니까 ye</div>
+<div class="para" label-module="para">널 사랑했고 사랑 받았으니</div>
+<div class="para" label-module="para">난 이걸로 됐어</div>
+<div class="para" label-module="para">나 살아가면서 가끔씩 떠오를 기억</div>
+<div class="para" label-module="para">그 안에 네가 있다면 그거면 충분해</div>
+<div class="para" label-module="para">사랑을 했다 우리가 만나</div>
+<div class="para" label-module="para">지우지 못할 추억이 됐다</div>
+<div class="para" label-module="para">볼만한 멜로드라마</div>
+<div class="para" label-module="para">괜찮은 결말</div>
+<div class="para" label-module="para">그거면 됐다 널 사랑했다</div>
+<div class="para" label-module="para">우리가 만든 love scenario</div>
+<div class="para" label-module="para">이젠 조명이 꺼지고</div>
+<div class="para" label-module="para">마지막 페이지를 넘기면</div>
+<div class="para" label-module="para">조용히 막을 내리죠</div>
+<div class="para" label-module="para">갈비뼈 사이사이가</div>
+<div class="para" label-module="para">찌릿찌릿한 느낌</div>
+<div class="para" label-module="para">나 사랑받고 있음을 알게 해주는 눈빛</div>
+<div class="para" label-module="para">너에게 참 많이도 배웠다</div>
+<div class="para" label-module="para">반쪽을 채웠다</div>
+<div class="para" label-module="para">과거로 두기엔</div>
+<div class="para" label-module="para">너무 소중한 사람이었다</div>
+<div class="para" label-module="para">나 살아가면서 가끔씩 떠오를 기억</div>
+<div class="para" label-module="para">그 안에 네가 있다면 그거면 충분해</div>
+<div class="para" label-module="para">사랑을 했다 우리가 만나</div>
+<div class="para" label-module="para">지우지 못할 추억이 됐다</div>
+<div class="para" label-module="para">볼만한 멜로드라마</div>
+<div class="para" label-module="para">괜찮은 결말</div>
+<div class="para" label-module="para">그거면 됐다 널 사랑했다</div>
+<div class="para" label-module="para">네가 벌써 그립지만</div>
+<div class="para" label-module="para">그리워하지 않으려 해</div>
+<div class="para" label-module="para">한 편의 영화 따스했던</div>
+<div class="para" label-module="para">봄으로 너를 기억할게</div>
+<div class="para" label-module="para">우리가 만든 love scenario</div>
+<div class="para" label-module="para">이젠 조명이 꺼지고</div>
+<div class="para" label-module="para">마지막 페이지를 넘기면</div>
+<div class="para" label-module="para">조용히 막을 내리죠</div>
+<div class="para" label-module="para">우린 아파도 해봤고</div>
+<div class="para" label-module="para">우습게 질투도 했어</div>
+<div class="para" label-module="para">미친 듯이 사랑했고</div>
+<div class="para" label-module="para">우리 이 정도면 됐어</div>
+<div class="para" label-module="para">사랑을 했다</div>
+<div class="para" label-module="para">우리가 만나</div>
+<div class="para" label-module="para">그거면 됐다</div>
+<div class="para" label-module="para">널 사랑했다</div>
+</td><td width="306" valign="top"><div class="para" label-module="para">曾经相爱过 我们的相遇</div>
+<div class="para" label-module="para">成了无法抹去的回忆</div>
+<div class="para" label-module="para">值得一看的爱情剧</div>
+<div class="para" label-module="para">不错的结局</div>
+<div class="para" label-module="para">那就够了 我曾爱你</div>
+<div class="para" label-module="para">我们制造的love scenario</div>
+<div class="para" label-module="para">现在灯光也熄灭了</div>
+<div class="para" label-module="para">翻过了最后一页</div>
+<div class="para" label-module="para">悄悄地落下帷幕</div>
+<div class="para" label-module="para">哎哟 不是没关系</div>
+<div class="para" label-module="para">面对离别</div>
+<div class="para" label-module="para">我们的今天也成了昨天</div>
+<div class="para" label-module="para">再也没有了明天</div>
+<div class="para" label-module="para">即使疼痛也拖着</div>
+<div class="para" label-module="para">这样伤口才不会恶化</div>
+<div class="para" label-module="para">爱过你 也得到过爱</div>
+<div class="para" label-module="para">我觉得这样就够了</div>
+<div class="para" label-module="para">在以后的生活里偶尔浮现的记忆</div>
+<div class="para" label-module="para">如果在那里面有你那就足够了</div>
+<div class="para" label-module="para">曾经相爱过 我们的相遇</div>
+<div class="para" label-module="para">成了无法抹去的回忆</div>
+<div class="para" label-module="para">值得一看的爱情剧</div>
+<div class="para" label-module="para">不错的结局</div>
+<div class="para" label-module="para">那就够了 我曾爱你</div>
+<div class="para" label-module="para">我们制造的love scenario</div>
+<div class="para" label-module="para">现在灯光也熄灭了</div>
+<div class="para" label-module="para">翻过了最后一页</div>
+<div class="para" label-module="para">悄悄地落下帷幕</div>
+<div class="para" label-module="para">在肋骨之间</div>
+<div class="para" label-module="para">麻酥酥的感觉</div>
+<div class="para" label-module="para">让我知道我在被爱着的目光</div>
+<div class="para" label-module="para">跟你学的太多了</div>
+<div class="para" label-module="para">填满了我人生的一半</div>
+<div class="para" label-module="para">只能留在过去</div>
+<div class="para" label-module="para">你是我最珍贵的人</div>
+<div class="para" label-module="para">在以后的生活里偶尔浮现的记忆</div>
+<div class="para" label-module="para">如果在那里面有你那就足够了</div>
+<div class="para" label-module="para">曾经相爱过 我们的相遇</div>
+<div class="para" label-module="para">成了无法抹去的回忆</div>
+<div class="para" label-module="para">值得一看的爱情剧</div>
+<div class="para" label-module="para">不错的结局</div>
+<div class="para" label-module="para">那就够了 我曾爱你</div>
+<div class="para" label-module="para">虽然已经很想念你</div>
+<div class="para" label-module="para">但不想再想念你</div>
+<div class="para" label-module="para">我会用一部电影</div>
+<div class="para" label-module="para">和温暖的春天记住你</div>
+<div class="para" label-module="para">我们制造的love scenario</div>
+<div class="para" label-module="para">现在灯光也熄灭了</div>
+<div class="para" label-module="para">翻过了最后一页</div>
+<div class="para" label-module="para">悄悄地落下帷幕</div>
+<div class="para" label-module="para">我们即使疼痛也尝试过</div>
+<div class="para" label-module="para">也曾可笑的嫉妒过</div>
+<div class="para" label-module="para">疯了似的爱过</div>
+<div class="para" label-module="para">我们这程度就够了</div>
+<div class="para" label-module="para">曾经相爱过</div>
+<div class="para" label-module="para">我们的相遇</div>
+<div class="para" label-module="para">那就够了</div>
+<div class="para" label-module="para">我曾爱你</div>
+</td></tr></table><table log-set-param="table_view" class="table-view log-set-param" width="658"><tr><th width="327">日文版</th><th width="330">中文版</th></tr><tr><td width="327" valign="top"><div class="para" label-module="para">恋に落ちた仆たちは</div>
+<div class="para" label-module="para">消えはしない思い出になる</div>
+<div class="para" label-module="para">感动のメロドラマは</div>
+<div class="para" label-module="para">こうなるもんさ</div>
+<div class="para" label-module="para">本当にキミを爱してた</div>
+<div class="para" label-module="para">仆たちのラブシナリオ</div>
+<div class="para" label-module="para">消える照明さえも</div>
+<div class="para" label-module="para">最後のページめくれば</div>
+<div class="para" label-module="para">降りる幕ゆっくりと</div>
+<div class="para" label-module="para">Eh平気なフリしても</div>
+<div class="para" label-module="para">まだ痛む别れの後遗症</div>
+<div class="para" label-module="para">明日はないと</div>
+<div class="para" label-module="para">二人泣いていてもね</div>
+<div class="para" label-module="para">いつも通りの今日</div>
+<div class="para" label-module="para">长引くほど胸の伤は広がるんだ</div>
+<div class="para" label-module="para">辛いけど爱し爱された</div>
+<div class="para" label-module="para">それだけでいいんだ yeah eh eh</div>
+<div class="para" label-module="para">この先ずっと残るキミの记忆</div>
+<div class="para" label-module="para">そっと振り返るよそれで十分で</div>
+<div class="para" label-module="para">恋に落ちた仆たちは</div>
+<div class="para" label-module="para">消えはしない思い出になる</div>
+<div class="para" label-module="para">感动のメロドラマは こうなるもんさ</div>
+<div class="para" label-module="para">本当にキミを爱してた</div>
+<div class="para" label-module="para">仆たちのラブシナリオ</div>
+<div class="para" label-module="para">消える照明さえも</div>
+<div class="para" label-module="para">最後のページめくれば</div>
+<div class="para" label-module="para">降りる幕ゆっくりと</div>
+<div class="para" label-module="para">感情をくすぐるんだ</div>
+<div class="para" label-module="para">日に日に梦中に</div>
+<div class="para" label-module="para">爱してくれた仆をその瞳に映し</div>
+<div class="para" label-module="para">キミと二人でひとつだった</div>
+<div class="para" label-module="para">本当の爱を知った</div>
+<div class="para" label-module="para">过去に置いていけないほどに</div>
+<div class="para" label-module="para">大切过ぎた</div>
+<div class="para" label-module="para">この先ずっと残るキミの记忆</div>
+<div class="para" label-module="para">そっと振り返るよそれで十分で</div>
+<div class="para" label-module="para">恋に落ちた仆たちは</div>
+<div class="para" label-module="para">消えはしない思い出になる</div>
+<div class="para" label-module="para">感动のメロドラマは</div>
+<div class="para" label-module="para">こうなるもんさ</div>
+<div class="para" label-module="para">本当にキミを爱してた</div>
+<div class="para" label-module="para">キミのことを恋しがる</div>
+<div class="para" label-module="para">心の目を闭じて</div>
+<div class="para" label-module="para">いつかの映画</div>
+<div class="para" label-module="para">过ぎ行く春のような记忆へ</div>
+<div class="para" label-module="para">仆たちのラブシナリオ</div>
+<div class="para" label-module="para">消える照明さえも</div>
+<div class="para" label-module="para">最後のページめくれば</div>
+<div class="para" label-module="para">降りる幕ゆっくりと</div>
+<div class="para" label-module="para">苦しかった日々も</div>
+<div class="para" label-module="para">バカな嫉妬すらも</div>
+<div class="para" label-module="para">爱してたからでしょ</div>
+<div class="para" label-module="para">これ以上ないほど</div>
+<div class="para" label-module="para">恋に落ちた仆たちは</div>
+<div class="para" label-module="para">これでいいんだ</div>
+<div class="para" label-module="para">爱し合っていた</div>
+</td><td width="330" valign="top"><div class="para" label-module="para">当天气秋凉</div>
+<div class="para" label-module="para">当树叶泛黄</div>
+<div class="para" label-module="para">我们的爱变得冠冕堂皇</div>
+<div class="para" label-module="para">是谁怕对方受伤怕丢了主张</div>
+<div class="para" label-module="para">剧目拉开还没学会收场</div>
+<div class="para" label-module="para">我们一起写 love scenario</div>
+<div class="para" label-module="para">偏把结尾写到浪尖风口</div>
+<div class="para" label-module="para">能否再演一次 十指紧扣</div>
+<div class="para" label-module="para">留下你的味道 再放你走</div>
+<div class="para" label-module="para">에이 괜찮지만은 않아</div>
+<div class="para" label-module="para">이별을 마주한다는 건</div>
+<div class="para" label-module="para">오늘이었던 우리의 어제에</div>
+<div class="para" label-module="para">더는 내일이 없다는 건</div>
+<div class="para" label-module="para">아프긴 해도</div>
+<div class="para" label-module="para">더 끌었음 상처가 덧나니까 ye</div>
+<div class="para" label-module="para">널 사랑했고 사랑 받았으니</div>
+<div class="para" label-module="para">난 이걸로 됐어</div>
+<div class="para" label-module="para">未来未必再有你</div>
+<div class="para" label-module="para">无论平凡还是惊喜</div>
+<div class="para" label-module="para">偶尔总是会想起你始终在这里</div>
+<div class="para" label-module="para">当天气秋凉当树叶泛黄</div>
+<div class="para" label-module="para">我们的爱变得冠冕堂皇</div>
+<div class="para" label-module="para">是谁怕对方受伤怕丢了主张</div>
+<div class="para" label-module="para">剧目拉开还没学会收场</div>
+<div class="para" label-module="para">我们一起写 love scenario</div>
+<div class="para" label-module="para">偏把结尾写到浪尖风口</div>
+<div class="para" label-module="para">能否再演一次 十指紧扣</div>
+<div class="para" label-module="para">留下你的味道 再放你走</div>
+<div class="para" label-module="para">갈비뼈 사이사이가 찌릿찌릿한 느낌</div>
+<div class="para" label-module="para">나 사랑받고 있음을 알게 해주는 눈빛</div>
+<div class="para" label-module="para">너에게 참 많이도 배웠다</div>
+<div class="para" label-module="para">반쪽을 채웠다</div>
+<div class="para" label-module="para">과거로 두기엔</div>
+<div class="para" label-module="para">너무 소중한 사람이었다</div>
+<div class="para" label-module="para">未来未必再有你</div>
+<div class="para" label-module="para">无论平凡还是惊喜</div>
+<div class="para" label-module="para">偶尔总是会想起你始终在这里</div>
+<div class="para" label-module="para">当天气秋凉 当树叶泛黄</div>
+<div class="para" label-module="para">我们的爱变得冠冕堂皇</div>
+<div class="para" label-module="para">是谁怕对方受伤怕丢了主张</div>
+<div class="para" label-module="para">剧目拉开还没学会收场</div>
+<div class="para" label-module="para">Loving you my best time</div>
+<div class="para" label-module="para">台词不一定要多才好看</div>
+<div class="para" label-module="para">只要有爱怎么拍都不会太烂</div>
+<div class="para" label-module="para">精彩总短暂</div>
+<div class="para" label-module="para">我们一起写 love scenario</div>
+<div class="para" label-module="para">偏把结尾写到浪尖风口</div>
+<div class="para" label-module="para">能否再演一次 十指紧扣</div>
+<div class="para" label-module="para">留下你的味道</div>
+<div class="para" label-module="para">再放你走</div>
+<div class="para" label-module="para">哭过爱过笑过痛过</div>
+<div class="para" label-module="para">你的样子我都见过</div>
+<div class="para" label-module="para">疯狂刺激丢脸可笑</div>
+<div class="para" label-module="para">我的样子你都爱过</div>
+<div class="para" label-module="para">当天气秋凉当树叶泛黄</div>
+<div class="para" label-module="para">甜蜜的回忆我不会遗忘</div>
+</td></tr></table><div class="para" label-module="para"><i>（歌曲歌词参考资料<sup class="sup--normal" data-sup="1" data-ctrmap=":5,:1,:6,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_22978280">&nbsp;</a>
+<sup class="sup--normal" data-sup="5-6" data-ctrmap=":5,:1,:6,">
+[5-6]</sup><a class="sup-anchor" name="ref_[5-6]_22978280">&nbsp;</a>
+）</i></div><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub22978280_3" class="lemma-anchor " ></a>
+<a name="歌曲鉴赏" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">LOVE SCENARIO</span>歌曲鉴赏</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" title="iKON"  href="/pic/LOVE%20SCENARIO/22358232/24230584/6159252dd42a2834b9d5ba8056b5c9ea14cebfce?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:132px;">
+<img class="picture" alt="iKON" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8735bbb376f40ad111e4c0e1672d1151/6159252dd42a2834b9d5ba8056b5c9ea14cebfce.jpg" style="width:220px;height:132px;"/>
+</div>
+<div class="description">
+iKON<span class="number">(6张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+该歌曲与其他歌手同时期发布的青春活力的音乐相比，更能展现iKON成熟又感性的一面<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_22978280">&nbsp;</a>
+，以朦胧的情感和听后让人上瘾的旋律，深受音乐粉丝们的欢迎<sup class="sup--normal" data-sup="8" data-ctrmap=":8,">
+[8]</sup><a class="sup-anchor" name="ref_[8]_22978280">&nbsp;</a>
+。</div>
+<div class="para" label-module="para">《LOVE SCENARIO》是一首以大众化的键盘演奏重复段和打击乐器为主旋律的歌曲，将爱情的开始和结束比喻为人生的一幕，平静而隐约的歌词打动了听众的心弦，旋律给人留下深刻的印象，歌词让人陷入回忆的漩涡中，旋律与歌词完美相融<sup class="sup--normal" data-sup="9" data-ctrmap=":9,">
+[9]</sup><a class="sup-anchor" name="ref_[9]_22978280">&nbsp;</a>
+。</div>
+<div class="para" label-module="para">2018年1月，韩国歌手陆续回归，在此情况下，《LOVE SCENARIO》的成绩是非常难得的。该歌曲不仅成为了iKON代表歌曲，还成为2018年初韩国歌坛大事记。该歌曲的歌词讲述离别的恋人，将他们的爱情故事比喻为浪漫电视剧的剧本，旋律唯美而容易让人上瘾<sup class="sup--normal" data-sup="10" data-ctrmap=":10,">
+[10]</sup><a class="sup-anchor" name="ref_[10]_22978280">&nbsp;</a>
+。</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub22978280_4" class="lemma-anchor " ></a>
+<a name="歌曲MV" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">LOVE SCENARIO</span>歌曲MV</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">《LOVE SCENARIO》的预告视频及MV采用MCC手法<i>（动作控制摄像机）</i>进行了拍摄。背景使用充满怀旧色彩的布景和道具组合，如同一部话剧般，每个场面由自然连接的镜头组成，这样的制作手法为该MV增添了趣味性<sup class="sup--normal" data-sup="11" data-ctrmap=":11,">
+[11]</sup><a class="sup-anchor" name="ref_[11]_22978280">&nbsp;</a>
+。而就像iKON其他的MV一样，《LOVE SCENARIO》的MV也展示了iKON七名成员整齐划一的舞蹈，并以爱情故事作为背景，与歌词相互呼应。其中，MV内呈现了一段由上往下拍摄，展示了iKON的星星阵型舞蹈，被美国《告示牌杂志》指出是该MV的亮点<sup class="sup--normal" data-sup="12" data-ctrmap=":12,">
+[12]</sup><a class="sup-anchor" name="ref_[12]_22978280">&nbsp;</a>
+。</div><div class="anchor-list">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub22978280_5" class="lemma-anchor " ></a>
+<a name="获奖记录" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">LOVE SCENARIO</span>获奖记录</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table log-set-param="table_view" width="658" class="wikitable" data-sort="sortDisabled"><tr><th width="65">年份</th><th width="78">获奖时间</th><th width="265">电视台/主办方</th><th width="172">奖项</th><th width="77">获奖情况</th></tr><tr><td width="65" colspan="1" rowspan="14">2018年</td><td valign="top" align="left" width="78">2月1日</td><td valign="top" align="left" width="265">Mnet</td><td valign="top" align="left" width="172">《M! Countdown》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="13" data-ctrmap=":13,">
+[13]</sup><a class="sup-anchor" name="ref_[13]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">2月18日</td><td valign="top" align="left" width="265">SBS</td><td valign="top" align="left" width="172">《人气歌谣》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="14" data-ctrmap=":14,">
+[14]</sup><a class="sup-anchor" name="ref_[14]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">2月24日</td><td valign="top" align="left" width="265">MBC</td><td valign="top" align="left" width="172">《Show! 音乐中心》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="15" data-ctrmap=":15,">
+[15]</sup><a class="sup-anchor" name="ref_[15]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">2月25日</td><td valign="top" align="left" width="265">SBS</td><td valign="top" align="left" width="172">《人气歌谣》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="16" data-ctrmap=":16,">
+[16]</sup><a class="sup-anchor" name="ref_[16]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">3月1日</td><td valign="top" align="left" width="265">Mnet</td><td valign="top" align="left" width="172">《M! Countdown》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="17" data-ctrmap=":17,">
+[17]</sup><a class="sup-anchor" name="ref_[17]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">3月2日</td><td valign="top" align="left" width="265">KBS2</td><td valign="top" align="left" width="172">《音乐银行》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="18" data-ctrmap=":18,">
+[18]</sup><a class="sup-anchor" name="ref_[18]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">3月3日</td><td valign="top" align="left" width="265">MBC</td><td valign="top" align="left" width="172">《Show! 音乐中心》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="19" data-ctrmap=":19,">
+[19]</sup><a class="sup-anchor" name="ref_[19]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">3月4日</td><td valign="top" align="left" width="265">SBS</td><td valign="top" align="left" width="172">《人气歌谣》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="20" data-ctrmap=":20,">
+[20]</sup><a class="sup-anchor" name="ref_[20]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">3月7日</td><td valign="top" align="left" width="265">MBC Music</td><td valign="top" align="left" width="172">《Show Champion》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="21" data-ctrmap=":21,">
+[21]</sup><a class="sup-anchor" name="ref_[21]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">3月8日</td><td valign="top" align="left" width="265">Mnet</td><td valign="top" align="left" width="172">《M! Countdown》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="22" data-ctrmap=":22,">
+[22]</sup><a class="sup-anchor" name="ref_[22]_22978280">&nbsp;</a>
+</td></tr><tr><td valign="top" align="left" width="78">3月10日</td><td valign="top" align="left" width="265">MBC</td><td valign="top" align="left" width="172">《Show! 音乐中心》一位</td><td valign="top" align="left" width="77">获奖<sup class="sup--normal" data-sup="23" data-ctrmap=":23,">
+[23]</sup><a class="sup-anchor" name="ref_[23]_22978280">&nbsp;</a>
+</td></tr><tr><td width="78" colspan="1" rowspan="1">11月7日</td><td width="265" colspan="1" rowspan="1">2018MBC PLUS×Genie music AWARDS</td><td width="172" colspan="1" rowspan="1">最佳饶舌嘻哈音乐奖</td><td width="77" colspan="1" rowspan="1">获奖<sup class="sup--normal" data-sup="24" data-ctrmap=":24,">
+[24]</sup><a class="sup-anchor" name="ref_[24]_22978280">&nbsp;</a>
+</td></tr><tr><td width="78" colspan="1" rowspan="1">12月2日</td><td width="265" colspan="1" rowspan="1">2018Melon Music Awards</td><td width="172" colspan="1" rowspan="1">年度歌曲奖</td><td width="77" colspan="1" rowspan="1">获奖<sup class="sup--normal" data-sup="25" data-ctrmap=":25,">
+[25]</sup><a class="sup-anchor" name="ref_[25]_22978280">&nbsp;</a>
+</td></tr><tr><td width="78" colspan="1" rowspan="1">12月14日</td><td width="265" colspan="1" rowspan="1">2018Mnet亚洲音乐大奖</td><td width="172" colspan="1" rowspan="1">最佳演唱组合表演奖</td><td width="77" colspan="1" rowspan="1">获奖<sup class="sup--normal" data-sup="26" data-ctrmap=":26,">
+[26]</sup><a class="sup-anchor" name="ref_[26]_22978280">&nbsp;</a>
+</td></tr><tr><td colspan="1" rowspan="2">2019年</td><td colspan="1" rowspan="2">1月5日</td><td colspan="1" rowspan="2">第33届金唱片大赏</td><td colspan="1" rowspan="1">音源部门-本赏</td><td colspan="1" rowspan="2">获奖<sup class="sup--normal" data-sup="27" data-ctrmap=":27,">
+[27]</sup><a class="sup-anchor" name="ref_[27]_22978280">&nbsp;</a>
+</td></tr><tr><td colspan="1" rowspan="1">音源部门-大赏</td></tr></table><div class="anchor-list">
+<a name="6" class="lemma-anchor para-title" ></a>
+<a name="sub22978280_6" class="lemma-anchor " ></a>
+<a name="重要演出" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">LOVE SCENARIO</span>重要演出</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<table log-set-param="table_view" class="table-view log-set-param" width="658"><tr><th width="176">演出时间</th><th width="187">演出地点</th><th width="294">演出场合</th></tr><tr><td width="176" valign="top">2018年9月2日</td><td width="187" valign="top" colspan="1" rowspan="1">印度尼西亚雅加达</td><td width="294" valign="top"><a target=_blank href="/item/2018%E5%B9%B4%E9%9B%85%E5%8A%A0%E8%BE%BE%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F28/22848402" data-lemmaid="22848402">2018年雅加达亚运会闭幕式<sup class="sup--normal" data-sup="28" data-ctrmap=":28,">
+[28]</sup><a class="sup-anchor" name="ref_[28]_22978280">&nbsp;</a>
+</a></td></tr><tr><td width="176" valign="top" colspan="1" rowspan="1">2018年11月28日</td><td width="187" valign="top" colspan="1" rowspan="1">韩国仁川</td><td width="294" valign="top" colspan="1" rowspan="1">第三届亚洲明星盛典</td></tr><tr><td width="176" valign="top" colspan="1" rowspan="1">2018年12月2日</td><td width="187" valign="top" colspan="1" rowspan="1">韩国首尔</td><td width="294" valign="top" colspan="1" rowspan="1">2018Melon Music Awards</td></tr><tr><td width="176" valign="top" colspan="1" rowspan="1">2019年1月5日</td><td width="187" valign="top" colspan="1" rowspan="1">韩国首尔九老区</td><td width="294" valign="top" colspan="1" rowspan="1">第33届金唱片大赏</td></tr></table><div class="anchor-list">
+<a name="7" class="lemma-anchor para-title" ></a>
+<a name="sub22978280_7" class="lemma-anchor " ></a>
+<a name="发行信息" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">LOVE SCENARIO</span>发行信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="7" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><b>版本信息</b></div>
+<table log-set-param="table_view" width="658" data-sort="sortDisabled"><tr><th width="80">发行时间</th><th width="54">歌曲版本</th><th width="187">歌曲名称</th><th width="182">作词</th><th width="154">作曲</th></tr><tr><td width="80" align="left" valign="top">2018年1月25日</td><td width="54" align="left" valign="top" colspan="1" rowspan="1">韩文版</td><td width="187" align="left" valign="top">《LOVE SCENARIO（사랑을 했다）》</td><td width="182" align="left" valign="top" colspan="1" rowspan="1">金韩彬、金知元、MOT MAL<i><sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_22978280">&nbsp;</a>
+</i></td><td width="154" align="left" valign="top" colspan="1" rowspan="3">金韩彬、MILLENNIUM、SEUNG</td></tr><tr><td width="80" align="left" valign="top">2018年6月1日</td><td width="54" align="left" valign="top" colspan="1" rowspan="1">日文版</td><td width="187" align="left" valign="top">《LOVE SCENARIO（Japanese ver.）》</td><td width="182" align="left" valign="top" colspan="1" rowspan="1">金韩彬、金知元、MOT MAL、ZERO<i><sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+[5]</sup><a class="sup-anchor" name="ref_[5]_22978280">&nbsp;</a>
+</i></td></tr><tr><td width="80" align="left" valign="top">2018年8月2日</td><td width="54" align="left" valign="top" colspan="1" rowspan="1">中文版</td><td width="187" align="left" valign="top">《LOVE SCENARIO（中文版）》</td><td width="182" align="left" valign="top" colspan="1" rowspan="1">胡彦斌、金韩彬、金知元、MOT MAL<i><sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_22978280">&nbsp;</a>
+</i></td></tr></table><div class="para" label-module="para"><b>排行信息</b></div>
+<div class="para" label-module="para">《LOVE SCENARIO》一经发行便在Melon、Genie、Olleh Music、Bugs Music等韩国音乐榜单排名取得第一。与此同时，在亚美尼亚、文莱、柬埔寨、哥伦比亚、哥斯达黎加、爱沙尼亚、希腊、中国香港、印度尼西亚、哈萨克斯坦、泰国等17个国家和地区iTUNES专辑榜单上也排名第一。在美国音乐榜单登上第五名<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_22978280">&nbsp;</a>
+。</div>
+<div class="para" label-module="para">2018年3月1日，《LOVE SCENARIO》连续36天获得韩国音乐实时榜单一位，打破韩国2008年之后来最长时间居音源榜单一位的偶像组合<sup class="sup--normal" data-sup="29" data-ctrmap=":29,">
+[29]</sup><a class="sup-anchor" name="ref_[29]_22978280">&nbsp;</a>
+。与此同时，在中国QQ音乐的韩国地区周榜连续四周占据一位<sup class="sup--normal" data-sup="30" data-ctrmap=":30,">
+[30]</sup><a class="sup-anchor" name="ref_[30]_22978280">&nbsp;</a>
+。<div class="lemma-picture text-pic layout-center" style="width:500px; float: none; display: block; margin-left: auto; margin-right: auto;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/LOVE%20SCENARIO/22358232/0/1b4c510fd9f9d72ae8319f96d92a2834359bbbe0?fr=lemma&ct=single" target="_blank"
+		title="iKON" style="width:500px;height:333px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=95fdb0c00f087bf479ec57e9c2d2575e/1b4c510fd9f9d72ae8319f96d92a2834359bbbe0.jpg"  alt="iKON" style="width:500px;height:333px;"/>
+</a>
+<span class="description">
+iKON
+</span>
+</div></div>
+<div class="anchor-list">
+<a name="a" class="lemma-anchor a" ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/LOVE%20SCENARIO/22358232?fr=lemma" target="_blank" nslog-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1 " id="reference-[1]-22978280-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_22978280" id="refIndex_1_22978280" title="向上跳转" href="#ref_[1]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/ca3estDmMukjTpxwacKCm2WTRa7MUUfrACPJ1f1iAlM97U1dkYb60ZvBkwqoOoSJ2ldfnrye8IddEuN_iq7X7Afbs_aSZ6V5iUCocQ" target="_blank" class="text">LOVE SCENARIO<span class="linkout">&nbsp;</span></a>
+<span class="site">．QQ音乐</span><span>&#91;引用日期2018-09-24&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-22978280-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_22978280" id="refIndex_2_22978280" title="向上跳转" href="#ref_[2]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/bbbe-v41GS3l6p6s-6ZMcKHl1MMAU5ZaYBWEeeZoDRxgfzdtp1mlCXkSf2T4N99S0SRWTJc5hTrVbUfRG16gY6t-80OmljU9uwSSEvShZSq-zewGT34ydZCTKOy0Z_8" target="_blank" class="text">[DA:评论] 《音乐中心》iKON创11冠王大纪录（综合）<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[3]-22978280-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_22978280" id="refIndex_3_22978280" title="向上跳转" href="#ref_[3]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/db03bC4b7fMIhCZAXbhrvwK9wO7RlY0Slv0j15-Jcd1YzOuYNGwD0E6iVhdRAldmOTdXTgYMyAYvPVWBvsE6u9QCP6pV-L0N2fZ-KGgI5m5OgpkcQQ1rJYAz4c9DWuM" target="_blank" class="text">iKON从回归首周开始人气火爆…连续三天居主要音源榜单一位<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[4]-22978280-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor"  name="refIndex_4_22978280" id="refIndex_4_22978280" title="向上跳转" href="#ref_[4]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/0541HBY0UFNaFFHn_WvF7KvzsMOI8rDfOrYrQBJAW1G0gtkRh9fYgmAdjKxD2-hxmHdlQ3yXmBTzLZNKjaB0bdL-XsNyUsFU6bS2hoQAKp8gpKyC-rkWMHxTDgin-nI" target="_blank" class="text">iKON《一周的偶像》七人七色魅力大曝光<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[5]-22978280-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor"  name="refIndex_5_22978280" id="refIndex_5_22978280" title="向上跳转" href="#ref_[5]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/c60fhQR5khcQgmryekgrO3ckxPVF_NKB3llN5IeTfyjY_lW-9UyTsFN0QE44TZrVc15xc4crTQrIMABmBwG8gQz48j6AT38rJySUbA" target="_blank" class="text">LOVE SCENARIO (Japanese ver.)<span class="linkout">&nbsp;</span></a>
+<span class="site">．QQ音乐</span><span>&#91;引用日期2018-09-24&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[6]-22978280-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor"  name="refIndex_6_22978280" id="refIndex_6_22978280" title="向上跳转" href="#ref_[6]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/69c27FMDV7uZAqPMxjpjuU-7STa54fmivpyR2rw8hrXXn6sPd3lROVNyHnZYyI9F9hDcrp9G11fAeAJ6wNxoxpSIlBYH19JnHeBioQ" target="_blank" class="text">LOVE SCENARIO (中文版)<span class="linkout">&nbsp;</span></a>
+<span class="site">．QQ音乐</span><span>&#91;引用日期2018-09-24&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[7]-22978280-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor"  name="refIndex_7_22978280" id="refIndex_7_22978280" title="向上跳转" href="#ref_[7]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/f145_XoF87O822QZZA4ViDklYchxh4JE-pcK-q7tamo4MAOoJoaVW4xqPFLreRrVKvqEaTXweJdixh46gwzHMMuXNFNk8rQUcUgbL-vzwfoaxcM1h07Q6uQY8SNSwII" target="_blank" class="text">iKON华丽回归，瞬间席卷国内外榜单冠军<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[8]-22978280-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor"  name="refIndex_8_22978280" id="refIndex_8_22978280" title="向上跳转" href="#ref_[8]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/196699xKPsR_fmM1_O5Jeojzs7bwukC2Z5TQpnm6n_jnAWYjMJrqA05hJYzK4P9-Y7kFR2dj5rOjSMiZanN3EBuVhXKl7mnkJWISibCmh_Az6veH0Troom_6-Udb724" target="_blank" class="text">iKON连续10天榜单一位“长时间掌控”…MV点击突破1000万<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[9]-22978280-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor"  name="refIndex_9_22978280" id="refIndex_9_22978280" title="向上跳转" href="#ref_[9]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/939eAZhkZVBpAMBUQ0PYdbKjQBb-zfdezK16OXxKMZTBkqQBBKX8CzpcXCOTl8tTydtwcGbHsQS1GF59gQdrrGvAivSJTm1bekQzHwsyUHep1Em9z_x8vWoiKGez4qi8nmk" target="_blank" class="text">[차트 핫100] 아이콘 &#39;사랑을 했다&#39; 굳건한 1위..적수 없다<span class="linkout">&nbsp;</span></a>
+<span class="site">．heraldcorp</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[10]-22978280-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor"  name="refIndex_10_22978280" id="refIndex_10_22978280" title="向上跳转" href="#ref_[10]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/e7e8IvLKwezk1-6M8PDDgxyJIU-E5jaLXlkNpY0y0pi1DYq2hH52jn9VnZG0A_qOJNIQ4Cm5VfT6OE1-wHc1m6z5ITDJ4WVTtL9g_XUEv4iYefddSL0v3b35eiE6mLY" target="_blank" class="text">iKON重回各榜单榜首，今天出演《Young Street》<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-22978280-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor"  name="refIndex_11_22978280" id="refIndex_11_22978280" title="向上跳转" href="#ref_[11]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/b416SvxwCplG3ArYavQBhdeni1ybsZuoPz89dCInpv5A_Aazw3731iIKDgZBd_-6I8yvVHPghZoTKpoVpj1kEC_l7MzbdOENDyxNXIYW4EoF_0FU" target="_blank" class="text">아이콘, ‘취향저격’ 느낌물씬…‘사랑을 했다’ 티저 첫선<span class="linkout">&nbsp;</span></a>
+<span class="site">．naver娱乐</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-22978280-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor"  name="refIndex_12_22978280" id="refIndex_12_22978280" title="向上跳转" href="#ref_[12]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/0791uSTvTZ4ZRlJAQaD_jhFigPGsKQH1isuUIacsa2mnCPwlRpkKQz9AAaEULAwDPg_mH22-zghhPs_zP01k0sdN9KQISdEAnq6QAlp19yo0uVOzqNlUMNpFgnJYQbTiM_eUIu1Biygf1GPermWR9hhofgkFPA" target="_blank" class="text">iKon &#39;Return&#39; with New Album &amp; &#39;Love Scenario&#39; Single<span class="linkout">&nbsp;</span></a>
+<span class="site">．billboard</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[13]-22978280-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor"  name="refIndex_13_22978280" id="refIndex_13_22978280" title="向上跳转" href="#ref_[13]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/0e7eb2G5BubaKAt7eb0Q4PbGOtYnf4L4X1yasxgza83_VjOy6uehvK2UoXQFuFwwfyoV9j1c0pGB6hAefhmEuWRowY1YtdANoSK2h8YGzI_Hm5FH-BV8icOhT78VpyLn6uOEquX6Tbn9zY9ODZKei6jagg2udGT9SEh5ed4kgbLRBe35Q6h7SI-42UQLisqjCJ865HukwJI" target="_blank" class="text">20180201《M!Countdown》一位：善美 vs. iKON<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-22978280-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor"  name="refIndex_14_22978280" id="refIndex_14_22978280" title="向上跳转" href="#ref_[14]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/cfb0AeX53f7N3SDWU34MQqkWw1ZuMfvtleor1DFl-79LYsi_B81rKxf0ipHX603w2zA-tD-A62RHiEx2SgffvfxCXPplGl_We3xGZPuGGSxqUsgg_scEifmNSvivdvqVFuGFulukMqICXx8aFuJU53fmAUxhjlbciuvUcwadK8tCvNcKFAg6-K0c6ntqG_klHaj7y5fgXxm9YrFslk3yd2d57cr61xYPFPNfbp5g" target="_blank" class="text">20180218《人气歌谣》一位：RV vs. iKON vs. MOMOLAND<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[15]-22978280-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor"  name="refIndex_15_22978280" id="refIndex_15_22978280" title="向上跳转" href="#ref_[15]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/0ce2k8hSaUHqlWOx9O-yrYdMwiHNpc52bMAvtmw7nd3dFrnqCp0_cMSrIwB0SbTT22JwmEqCpMo2EsKoe7iTCF68pHIz5NP8MRmHOCpf6fi3chClE9Ma2Aqyfrp4xYQCjM1Bu8E01xnRM3sZmq5hiE8bHnQMr6gQR7sXmtMEQWwLs3KBMMQpWZ6zt1revQSfg_iiOVThgzDHyjOA6RC1mczroN0axSyNEFEqA802" target="_blank" class="text">20180224《音乐中心》一位：Roy Kim vs. MML vs. iKON<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[16]-22978280-wrap">
+<span class="index">16.</span>
+<a class="gotop anchor"  name="refIndex_16_22978280" id="refIndex_16_22978280" title="向上跳转" href="#ref_[16]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/f673fB_mDZ0wAZmkG1YujDIRlyu_L8nM7xzZyDk14_t95U7PaYmEgCTxYqcCDzOuzs63_cvlbJ6r9DzL4ymRApdmh8V5EEllveG9vl72t2mcwSySYUaCxuKtedeTPSKk42b-elpcgTu1xIGCcyNNARFTmekxQd5I_iFNrPortOBkg7AjkI78c8TuRgixq4E6U3UMtSUDtxuBkZIlWC1HCMHBjGByHODI5YF-gtJB" target="_blank" class="text">20180225《人气歌谣》一位：RV vs. iKON vs. MOMOLAND<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[17]-22978280-wrap">
+<span class="index">17.</span>
+<a class="gotop anchor"  name="refIndex_17_22978280" id="refIndex_17_22978280" title="向上跳转" href="#ref_[17]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/af91mLtIt_S__n7MD5D1bFVkNzKz5AwDtHfLLsKdBoa5Nwcv0lLD02LO2-8gJus1B2BGWjA8g2J8PmUMIEpQD6KynshwGnD2SXgrylJEGjgh2QOit6e1KW5WovEFLOn6eeSwBCYv4whB-DBeiJtb4o6XR1Voe8BXJ3zAxcAdfXgvEMFj90IXnmqEi6T6pg" target="_blank" class="text">20180301《M!Countdown》一位：MOMOLAND vs. iKON<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[18]-22978280-wrap">
+<span class="index">18.</span>
+<a class="gotop anchor"  name="refIndex_18_22978280" id="refIndex_18_22978280" title="向上跳转" href="#ref_[18]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/fc77GsSD42JPMMSPiXBJ4WflfUdA4ltjvABzUbttcYKqM3WmEvC3lbrtYue_JzVScxIwItX5Ru0AJdEeFQx6MZqYRMZpVJXOBnMOVC5Zl1zJpdmmDCAXOX8ZHdWOD7XEU7w1rnzYVuc4Ye48QxNZWS8UYTnpW2fZIO7ElcV7dZhj8oclj6wmjzGvp2-mUDaXGAO9cKA9jeDFHx1PNBcKNXxj9TDpZ9NN02gtmmv-eL5FQZkagUU" target="_blank" class="text">20180302 KBS《音乐银行》一位：耀燮 vs. iKON<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[19]-22978280-wrap">
+<span class="index">19.</span>
+<a class="gotop anchor"  name="refIndex_19_22978280" id="refIndex_19_22978280" title="向上跳转" href="#ref_[19]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/6daaHKP_r-Jau7M4fUvslCqXxJcb5cYN7KrXvylJyQQ6J-DrgrGkenpBs3KgDnb11hZjlmEoXuC5m30tdecR6XMZNw3wGQEqFG_LdYWZA3kOsZv_VVtZnR_HxqVgrWw_Tjq0SW0giFm6VmYpRGPP4qyYwNAflRfHyc_HSyrfW4Zafdiwl1je4KQzlQb8CCplGxXexWjRS-0wFiY7oL1wc0d28BbzW1bquw" target="_blank" class="text">20180303《音乐中心》一位：RV vs. MML vs. iKON<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[20]-22978280-wrap">
+<span class="index">20.</span>
+<a class="gotop anchor"  name="refIndex_20_22978280" id="refIndex_20_22978280" title="向上跳转" href="#ref_[20]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/891fY4dkUXri82AN7Bim0k-wBFqp-Jni56Iit69u4FiWgcn5Sfi21VxS1EYwe6FaEFiJ5TSn77e7wu5FgUoGqICZ6WcTQoJtaHND03x9a5ZVaoju7EyWMuy0vVXzp7uRHDRz5KWxC78UaMr1-HlifhV40CcuKlS5rl5N575HD9xOmf7QvOdADk2E_puemvWZb2SW5zHSw9Q5DmZFVRWZhQws3G5BCfmqEm0rBti5" target="_blank" class="text">20180304《人气歌谣》一位：RV vs. iKON vs. MOMOLAND<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[21]-22978280-wrap">
+<span class="index">21.</span>
+<a class="gotop anchor"  name="refIndex_21_22978280" id="refIndex_21_22978280" title="向上跳转" href="#ref_[21]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/988awdoK7DaCM9Wdobxy3eL8DDeNJuYooLzBh_6qroS4WyMnRCPIOG6DMS1pC_s5s1WjB5AkWhzdiDM4Wed8Sx6JkCrWqH9SnAAcMY4W_JyIMwXUmSnaJ0T99ZcbZ3Z0C3GZERhHDbD3iKTxh4PnOCQilSSX9vrYMzl-dbD0O6k-3r9HPdNHbmK14DHgd5AbIgTSAYKmLZwwcKyoUOngdWyBxEnaFmUtJZLo-LB84SrQ7iuhUhhq6w" target="_blank" class="text">iKON 以《LOVE SCENARIO》首获《Show Champion》一位！<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[22]-22978280-wrap">
+<span class="index">22.</span>
+<a class="gotop anchor"  name="refIndex_22_22978280" id="refIndex_22_22978280" title="向上跳转" href="#ref_[22]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/c1acUpSMTk74mGFBPZKkfcWjiwmfSglFssTGEBQppRJ2eb9xZespkra2RJmzX8l-YVHU5JBMRLi6UIk4FhtXcGex_s2ptIAfX7nZF24WqBGVzUc0vzHkc_IKNmaaPrs-DwX4Rh_057bDzKxa-0zyhRWg7zjwyJLp3jBROWGBpGvCPONv8WaP-uBTM6XzKA" target="_blank" class="text">20180308《M!Countdown》一位：MOMOLAND vs. iKON<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[23]-22978280-wrap">
+<span class="index">23.</span>
+<a class="gotop anchor"  name="refIndex_23_22978280" id="refIndex_23_22978280" title="向上跳转" href="#ref_[23]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/f973rlPWF67JLxnzwW-A9rILVOcMUn5A9OyQ4IwGlco6ugIHCXhvCNSYvvwhDiTC0iHHmVQ6nwwtEU7SGqIy8VZm9I4lv5fiGkVLnsNK4I_HhSlwyZRYx5LTvPrI-c9nw8bRvmpJQe2PjU1KXvfKWL-43QCii6yJxb7TkcuOjTfwPdlBaPdjzbH7oiPiCEs6BWpeowzfNoNyWZ6oxFyi3vGu2wskzR-unnnig1vu" target="_blank" class="text">20180310《音乐中心》一位：RV vs. MOMOLAND vs. iKON<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[24]-22978280-wrap">
+<span class="index">24.</span>
+<a class="gotop anchor"  name="refIndex_24_22978280" id="refIndex_24_22978280" title="向上跳转" href="#ref_[24]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/2075MZ-CZx49xxYTvlNsiFj-YLE_JaUlWyiv-lrcyGcLYum_bibuE6ARWaKY3_ohGmCnZTSnJTcggJYLGGDq2O8IakE43B-tCcIdAr507VNiBkbpgmixDtigvA2Z0jJ5KMSFUlRcDz6HdOW6P-OpxWLDT_Pu4pawJwis8uA5TA" target="_blank" class="text">《MGA》得奖名单，BTS 夺两大赏！Wanna One、TWICE 也拿大赏！<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-12-24&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[25]-22978280-wrap">
+<span class="index">25.</span>
+<a class="gotop anchor"  name="refIndex_25_22978280" id="refIndex_25_22978280" title="向上跳转" href="#ref_[25]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/8f59_ACJyWt04qxleVVHRexPfLrIEomeyxHIH3HKEP36d_HgATrRzfYN27WCuX2d9YDF5bjnH4GZjkKSalmrC31_ZmKreTsyLx-zEHJguUvAAkIJ295EFW6ug_HgYQK9b1koyAuMop51V47LqdjdpicYotA" target="_blank" class="text">《2018 MMA》得奖名单：贺 BTS、Wanna One、iKON 获得年度大赏<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-12-24&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[26]-22978280-wrap">
+<span class="index">26.</span>
+<a class="gotop anchor"  name="refIndex_26_22978280" id="refIndex_26_22978280" title="向上跳转" href="#ref_[26]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/4817N3Zr_n6G9LbHG4rCGIiw9i2cHOu2AVcUT_sM48wYf53dXVLs5uWOP9jYwESRm33I4fpJ2aKXMmmeGAjiryzjDfamV3FjkVy03wKK1m568rVKRB-q8jenb3KfCdRvxjc" target="_blank" class="text">《2018 MAMA》香港场得奖者与演出，BTS 得到最大赏年度艺人！<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2018-12-24&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[27]-22978280-wrap">
+<span class="index">27.</span>
+<a class="gotop anchor"  name="refIndex_27_22978280" id="refIndex_27_22978280" title="向上跳转" href="#ref_[27]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/cf15UvJvfv_-ELd2gY0O1gpdmsWnNEwPpu1qz6CVs6NP05mOpd2M4FHiQ02YcsmRCuMUxKanaoKaSCNKkBi4VaemTf35APVaiAof4xgFbyaPoomFZCEmb5-J2mrqI7aq3YXpBKiOz0mnvek" target="_blank" class="text">第33届《金唱片奖》音源部门得奖名单，恭喜 iKON 夺下年度音源大赏<span class="linkout">&nbsp;</span></a>
+<span class="site">．kpopn</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[28]-22978280-wrap">
+<span class="index">28.</span>
+<a class="gotop anchor"  name="refIndex_28_22978280" id="refIndex_28_22978280" title="向上跳转" href="#ref_[28]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/926eR9w8VLRgskJE-hJJxKdY-pmHRCtfgbCDQ5nLbFE8jGbJqs3t6kEA9FJeBQrAGkZJsxeVbacP5aWZ6qUzdCLvUkE5dYo" target="_blank" class="text">韩流引爆雅加达闭幕式 一名观众因情绪太过激动晕倒<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯体育</span><span>&#91;引用日期2018-09-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[29]-22978280-wrap">
+<span class="index">29.</span>
+<a class="gotop anchor"  name="refIndex_29_22978280" id="refIndex_29_22978280" title="向上跳转" href="#ref_[29]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/91ccEdpY8txIo8xWhzGhDBEQ_j9bkVT7SkOQRqe8goyrvyYSoffwbMWlRXz9Vk4DUrA7lBhyWloFk2TSbfNvk_ocNOtSFEUe8Bxs3Xvd0ybzkry0ls9b7wQ4cvwpTnU" target="_blank" class="text"> iKON在本日连续两年举办巨蛋演唱会<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[30]-22978280-wrap">
+<span class="index">30.</span>
+<a class="gotop anchor"  name="refIndex_30_22978280" id="refIndex_30_22978280" title="向上跳转" href="#ref_[30]_22978280">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/22358232/2bf5cmkDK_az8C7dACfvMvqjDbkGeIN5eYJZMNQPYSHuQK5mN_tnknDMQtVqvOsnlEckTW1HXjiTl9Sg3Ln55fvcJ_JXSiUd70WkNDW4TZL4sQIT7PH3I2MvHr7Ep7s" target="_blank" class="text">iKON连续四周居中国QQ音乐周榜一位<span class="linkout">&nbsp;</span></a>
+<span class="site">．yg-life</span><span>&#91;引用日期2019-01-08&#93;</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
 <div id="open-tag">
 <div class="open-tag-title">词条标签：</div>
 <dd id="open-tag-item">
 <span class="taglist">
-文化
+娱乐
 </span>
 </dd>
 <div class="open-tag-collapse" id="open-tag-collapse"></div>
@@ -358,6 +922,13 @@ overcast
 <div class="clear"></div>
 </div>
 <div class="side-content">
+<div class="summary-pic">
+<a href="/pic/LOVE%20SCENARIO/22358232/0/0ff41bd5ad6eddc43628e2f934dbb6fd536633e0?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=7dbe323dd4f9d72a1764171bec114f09/0ff41bd5ad6eddc43628e2f934dbb6fd536633e0.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>LOVE SCENARIO图册</div>
+</a>
+</div>
 <div class="lemmaWgt-promotion-vbaike">
 <div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
 <div class="promotion_viewport">
@@ -365,9 +936,9 @@ overcast
 </dl>
 <div class="promotion_viewport_pager"></div>
 </div>
-</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="10924880" data-lemmaTitle="阴天"></div><div class="lemmaWgt-sideRecommend">
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="22358232" data-lemmaTitle="LOVE SCENARIO"></div><div class="lemmaWgt-sideRecommend">
 <a name="zhixinWrap" class="qnAnchor"></a>
-<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="10924880">
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="22358232">
 </div>
 <form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
 <input class="js-url" name="fb_html_url" type="hidden" />
@@ -390,12 +961,16 @@ overcast
 <dd class="description split-line">
 <ul>
 <li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
-<li>编辑次数：5次<a href="/historylist/%E9%98%B4%E5%A4%A9/10924880" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>编辑次数：14次<a href="/historylist/LOVE%20SCENARIO/22358232" class="nslog:1021" target="_blank">历史版本</a></li>
 <li>
 <span class="latest-title">最近更新：</span>
 <span class="latest-content">
-<a class="show-userCard" data-uid="11995809" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=w_ou&from=lemma"
-                    nslog-type="1022">w_ou</a><span class="j-modified-time" style="display:none">（2018-09-07）</span>
+<a class="show-userCard" data-uid="1167639671" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=%E6%BE%A1%E6%BE%A1%E5%B0%8F%E7%86%8A%E7%8C%AB&from=lemma"
+                    nslog-type="1022">澡澡小熊猫</a><a href="https://baike.baidu.com/kedou" 
+                                title="百科蝌蚪团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_c1b820f.png" alt="" class="contribute-flag-icon">
+</a>
+<span class="j-modified-time" style="display:none">（2019-01-08）</span>
 </span>
 </li>
 </ul>
@@ -404,7 +979,18 @@ overcast
 <dd class="description excellent-description">
 <ul>
 <li>
-<a title="查看此用户资料" class="usercard show-userCard" data-uid="289443346" username="百科拆分专员" target="_blank" href="/usercenter/userpage?uname=%E7%99%BE%E7%A7%91%E6%8B%86%E5%88%86%E4%B8%93%E5%91%98&from=lemma">百科拆分专员</a>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="1167639671" username="澡澡小熊猫" target="_blank" href="/usercenter/userpage?uname=%E6%BE%A1%E6%BE%A1%E5%B0%8F%E7%86%8A%E7%8C%AB&from=lemma">澡澡小熊猫</a>
+<a href="https://baike.baidu.com/kedou" 
+                        title="百科蝌蚪团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_c1b820f.png" alt="" class="contribute-flag-icon">
+</a>
+<div class="right">
+<a target="_blank" href="http://baike.baidu.com/tese"><img align="absmiddle" title="特色词条" alt="特色词条" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/distinctiveIcon_a9a2d74.png"></a>
+<a target="_blank" href="http://baike.baidu.com/view/12878522.htm"><img align="absmiddle" alt="优质版本" title="优质版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/perfect_b3eae1e.png"></a>
+</div>
+</li>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="3439782329" username="诚信和便利连锁" target="_blank" href="/usercenter/userpage?uname=%E8%AF%9A%E4%BF%A1%E5%92%8C%E4%BE%BF%E5%88%A9%E8%BF%9E%E9%94%81&from=lemma">诚信和便利连锁</a>
 <div class="right">
 <a target="_blank" href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC"><img align="absmiddle" alt="创建版本" title="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png"></a>
 </div>
@@ -419,6 +1005,69 @@ overcast
 </div>
 <div class="catalog-scroller">
 <dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">创作背景</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">歌曲歌词</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">歌曲鉴赏</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">歌曲MV</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">获奖记录</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#6" class="title-link">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">重要演出</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#7" class="title-link">
+<span class="text">
+<span class="title-index">7</span>
+<span class="title-link" nslog-type="10002802">发行信息</span>
+</span>
+</a>
+</dt>
 <a class="arrow" href="javascript:void(0);"></a>
 </dl>
 </div>
@@ -461,7 +1110,7 @@ overcast
 <dl class="question">
 <dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
 <dd>
-<div><a id="J-bk-feedback-query" data-lemma="阴天" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
+<div><a id="J-bk-feedback-query" data-lemma="LOVE SCENARIO" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
 <div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
 <div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
 <div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
@@ -497,7 +1146,7 @@ overcast
 <div class="search">
 <div class="form">
 <form id="searchForm" action="/search/word" method="GET" target="_self">
-<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="阴天" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="LOVE SCENARIO" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
 </form>
 <form id="searchLemmaForm" action="/search" method="GET" target="_self">
 <input id="searchLemmaQuery" name="word" type="hidden" />
@@ -516,7 +1165,7 @@ overcast
 </div>
 <div class="tool-buttons">
 <a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
-<a class="toolButtons-discussion button j-discussion-link" href="/planet/talk?lemmaId=10924880" target="_blank" nslog-type="90000103"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-hollow"></em>讨论&nbsp;<span class="num"></span></a>
+<a class="toolButtons-discussion button j-discussion-link" href="/planet/talk?lemmaId=22358232" target="_blank" nslog-type="90000103"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-hollow"></em>讨论&nbsp;<span class="num"></span></a>
 <a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
 <a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
 </div>
@@ -560,8 +1209,8 @@ overcast
 <script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script>
 
 </body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
-<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_d400227.js"></script>
-<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_73e487b.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_e7172a1.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_d400227.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_2503841.js"></script>
 <script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_ea4d2ff.js"></script>
 <script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
     userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
@@ -605,20 +1254,49 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
   $('.wgt-navbar').removeClass('wgt-navbar-hover');
 });
 }();
-!function(){        require('wiki-lemma:widget/lemma_content/mainContent/polysemantList/polysemantList')('阴天');
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('22358232', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '22358232',                    lemmaTitle:"LOVE SCENARIO",                    lemmaDesc:null,                    versionId: '135286716',                    subLemmaId: '22978280'                });
+            }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+        // 展现策略
+        rightCheck.editView('22358232', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
     }();
 !function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
 	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
 		collect({
-            newLemmaId:"10924880",
-			lemmaId:"344341",
-			subLemmaId:"6279745"
+            newLemmaId:"22358232",
+			lemmaId:"21173525",
+			subLemmaId:"22978280"
 		});
 	});
 }();
 !function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
         topShare({
-            newLemmaId: '10924880'
+            newLemmaId: '22358232'
         });
     });
 }();
@@ -628,7 +1306,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
     var Dialog = require("wiki-common:widget/ui/dialog/dialog");
     
     // 展现策略
-    rightCheck.editView('10924880', function(res) {
+    rightCheck.editView('22358232', function(res) {
         if (!res.errno) {
             if (res.data.edit) {
                 $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
@@ -694,13 +1372,13 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
                 ],
                 onBtnClick: function(btnKey){
                     if (btnKey === 'discussion') {
-                        window.location.href = '/planet/talk?lemmaId=10924880&category=1';
+                        window.location.href = '/planet/talk?lemmaId=22358232&category=1';
                     }
                 }
             }).show();
         });
         // 获取讨论数
-        $.get('/discussion/api/getdiscussioncount?lemmaId=10924880', function (res) {
+        $.get('/discussion/api/getdiscussioncount?lemmaId=22358232', function (res) {
             if (res && res.errno === 0 && res.data.discussionCount > 0) {
                 var numText = res.data.discussionCount <= 99 ? res.data.discussionCount : '99+';
                 $('.j-discussion-link .num').text(numText).show();
@@ -711,21 +1389,160 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         });
         // 讨论按钮展现量
         nsLog(90000101, window.location.href, {
-            lemmaid: 10924880
+            lemmaid: 22358232
         });
     }
 }();
 !function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
 }();
-!function(){        require.async(['wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert'], function(init) {
-            init({ // 关系化统计需求--传参  shangwenbin
-                lemmaId: "344341",
-                newLemmaId: "10924880",
-                subLemmaId: "6279745",
-                lemmaTitle: "阴天"
-            });
-        });
-    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('22358232', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('22358232', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('22358232', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('22358232', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('22358232', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('22358232', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('22358232', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery","wiki-lemma:widget/lemma_content/mainContent/albumList/albumList","wiki-common:widget/component/nslog/nslog"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"22358232",
+			lemmaTitle:"LOVE SCENARIO",
+			lemmaId:"21173525",
+			subLemmaId:"22978280",
+			data:{"24230584":{"coverpic":"6159252dd42a2834b9d5ba8056b5c9ea14cebfce","desc":"iKON","albumTag":"","height":753,"width":1251,"total":6,"coverurl":"https:\/\/gss1.bdstatic.com\/-vo3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=7f9dee971cdfa9ecf92e511457d1f754\/6159252dd42a2834b9d5ba8056b5c9ea14cebfce.jpg","toppics":[{"src":"c995d143ad4bd11354cc3bb957afa40f4bfb0533","owner":"\u6fa1\u6fa1\u5c0f\u718a\u732b","desc":"iKON","height":755,"width":1252},{"src":"6159252dd42a2834b9d5ba8056b5c9ea14cebfce","owner":"\u6fa1\u6fa1\u5c0f\u718a\u732b","desc":"iKON","height":753,"width":1251},{"src":"b21bb051f81986187062630f47ed2e738bd4e610","owner":"\u6fa1\u6fa1\u5c0f\u718a\u732b","desc":"iKON","height":735,"width":1248}]},"0":{"coverpic":"0ff41bd5ad6eddc43628e2f934dbb6fd536633e0","width":815,"height":816,"desc":"\u8bcd\u6761\u56fe\u7247","total":3,"coverurl":"https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=0b73e33814d8bc3ec20801c9b78aa6c8\/0ff41bd5ad6eddc43628e2f934dbb6fd536633e0.jpg"}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"22978280"
+			});
+			new ReferenceTip({
+				subLemmaId:"22358232",
+				lemmaTitle:"LOVE SCENARIO",
+				reference:[{"type":"1","title":"LOVE SCENARIO","url":"\/reference\/22358232\/ca3estDmMukjTpxwacKCm2WTRa7MUUfrACPJ1f1iAlM97U1dkYb60ZvBkwqoOoSJ2ldfnrye8IddEuN_iq7X7Afbs_aSZ6V5iUCocQ","site":"QQ\u97f3\u4e50","publishDate":"","refDate":"2018-09-24","index":1,"count":"3"},{"type":"1","title":"[DA:\u8bc4\u8bba] \u300a\u97f3\u4e50\u4e2d\u5fc3\u300biKON\u521b11\u51a0\u738b\u5927\u7eaa\u5f55\uff08\u7efc\u5408\uff09","url":"\/reference\/22358232\/bbbe-v41GS3l6p6s-6ZMcKHl1MMAU5ZaYBWEeeZoDRxgfzdtp1mlCXkSf2T4N99S0SRWTJc5hTrVbUfRG16gY6t-80OmljU9uwSSEvShZSq-zewGT34ydZCTKOy0Z_8","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":2},{"type":"1","title":"iKON\u4ece\u56de\u5f52\u9996\u5468\u5f00\u59cb\u4eba\u6c14\u706b\u7206\u2026\u8fde\u7eed\u4e09\u5929\u5c45\u4e3b\u8981\u97f3\u6e90\u699c\u5355\u4e00\u4f4d","url":"\/reference\/22358232\/db03bC4b7fMIhCZAXbhrvwK9wO7RlY0Slv0j15-Jcd1YzOuYNGwD0E6iVhdRAldmOTdXTgYMyAYvPVWBvsE6u9QCP6pV-L0N2fZ-KGgI5m5OgpkcQQ1rJYAz4c9DWuM","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":3},{"type":"1","title":"iKON\u300a\u4e00\u5468\u7684\u5076\u50cf\u300b\u4e03\u4eba\u4e03\u8272\u9b45\u529b\u5927\u66dd\u5149","url":"\/reference\/22358232\/0541HBY0UFNaFFHn_WvF7KvzsMOI8rDfOrYrQBJAW1G0gtkRh9fYgmAdjKxD2-hxmHdlQ3yXmBTzLZNKjaB0bdL-XsNyUsFU6bS2hoQAKp8gpKyC-rkWMHxTDgin-nI","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":4},{"type":"1","title":"LOVE SCENARIO (Japanese ver.)","url":"\/reference\/22358232\/c60fhQR5khcQgmryekgrO3ckxPVF_NKB3llN5IeTfyjY_lW-9UyTsFN0QE44TZrVc15xc4crTQrIMABmBwG8gQz48j6AT38rJySUbA","site":"QQ\u97f3\u4e50","publishDate":"","refDate":"2018-09-24","index":5},{"type":"1","title":"LOVE SCENARIO (\u4e2d\u6587\u7248)","url":"\/reference\/22358232\/69c27FMDV7uZAqPMxjpjuU-7STa54fmivpyR2rw8hrXXn6sPd3lROVNyHnZYyI9F9hDcrp9G11fAeAJ6wNxoxpSIlBYH19JnHeBioQ","site":"QQ\u97f3\u4e50","publishDate":"","refDate":"2018-09-24","index":6,"count":"2"},{"type":"1","title":"iKON\u534e\u4e3d\u56de\u5f52\uff0c\u77ac\u95f4\u5e2d\u5377\u56fd\u5185\u5916\u699c\u5355\u51a0\u519b","url":"\/reference\/22358232\/f145_XoF87O822QZZA4ViDklYchxh4JE-pcK-q7tamo4MAOoJoaVW4xqPFLreRrVKvqEaTXweJdixh46gwzHMMuXNFNk8rQUcUgbL-vzwfoaxcM1h07Q6uQY8SNSwII","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":7},{"type":"1","title":"iKON\u8fde\u7eed10\u5929\u699c\u5355\u4e00\u4f4d\u201c\u957f\u65f6\u95f4\u638c\u63a7\u201d\u2026MV\u70b9\u51fb\u7a81\u78341000\u4e07","url":"\/reference\/22358232\/196699xKPsR_fmM1_O5Jeojzs7bwukC2Z5TQpnm6n_jnAWYjMJrqA05hJYzK4P9-Y7kFR2dj5rOjSMiZanN3EBuVhXKl7mnkJWISibCmh_Az6veH0Troom_6-Udb724","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":8},{"type":"1","title":"[\ucc28\ud2b8 \ud56b100] \uc544\uc774\ucf58 '\uc0ac\ub791\uc744 \ud588\ub2e4' \uad73\uac74\ud55c 1\uc704..\uc801\uc218 \uc5c6\ub2e4","url":"\/reference\/22358232\/939eAZhkZVBpAMBUQ0PYdbKjQBb-zfdezK16OXxKMZTBkqQBBKX8CzpcXCOTl8tTydtwcGbHsQS1GF59gQdrrGvAivSJTm1bekQzHwsyUHep1Em9z_x8vWoiKGez4qi8nmk","site":"heraldcorp","publishDate":"","refDate":"2019-01-08","index":9},{"type":"1","title":"iKON\u91cd\u56de\u5404\u699c\u5355\u699c\u9996\uff0c\u4eca\u5929\u51fa\u6f14\u300aYoung Street\u300b","url":"\/reference\/22358232\/e7e8IvLKwezk1-6M8PDDgxyJIU-E5jaLXlkNpY0y0pi1DYq2hH52jn9VnZG0A_qOJNIQ4Cm5VfT6OE1-wHc1m6z5ITDJ4WVTtL9g_XUEv4iYefddSL0v3b35eiE6mLY","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":10},{"type":"1","title":"\uc544\uc774\ucf58, \u2018\ucde8\ud5a5\uc800\uaca9\u2019 \ub290\ub08c\ubb3c\uc52c\u2026\u2018\uc0ac\ub791\uc744 \ud588\ub2e4\u2019 \ud2f0\uc800 \uccab\uc120","url":"\/reference\/22358232\/b416SvxwCplG3ArYavQBhdeni1ybsZuoPz89dCInpv5A_Aazw3731iIKDgZBd_-6I8yvVHPghZoTKpoVpj1kEC_l7MzbdOENDyxNXIYW4EoF_0FU","site":"naver\u5a31\u4e50","publishDate":"","refDate":"2019-01-08","index":11},{"type":"1","title":"iKon 'Return' with New Album & 'Love Scenario' Single","url":"\/reference\/22358232\/0791uSTvTZ4ZRlJAQaD_jhFigPGsKQH1isuUIacsa2mnCPwlRpkKQz9AAaEULAwDPg_mH22-zghhPs_zP01k0sdN9KQISdEAnq6QAlp19yo0uVOzqNlUMNpFgnJYQbTiM_eUIu1Biygf1GPermWR9hhofgkFPA","site":"billboard","publishDate":"","refDate":"2019-01-08","index":12},{"type":"1","title":"20180201\u300aM!Countdown\u300b\u4e00\u4f4d\uff1a\u5584\u7f8e vs. iKON","url":"\/reference\/22358232\/0e7eb2G5BubaKAt7eb0Q4PbGOtYnf4L4X1yasxgza83_VjOy6uehvK2UoXQFuFwwfyoV9j1c0pGB6hAefhmEuWRowY1YtdANoSK2h8YGzI_Hm5FH-BV8icOhT78VpyLn6uOEquX6Tbn9zY9ODZKei6jagg2udGT9SEh5ed4kgbLRBe35Q6h7SI-42UQLisqjCJ865HukwJI","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":13},{"type":"1","title":"20180218\u300a\u4eba\u6c14\u6b4c\u8c23\u300b\u4e00\u4f4d\uff1aRV vs. iKON vs. MOMOLAND","url":"\/reference\/22358232\/cfb0AeX53f7N3SDWU34MQqkWw1ZuMfvtleor1DFl-79LYsi_B81rKxf0ipHX603w2zA-tD-A62RHiEx2SgffvfxCXPplGl_We3xGZPuGGSxqUsgg_scEifmNSvivdvqVFuGFulukMqICXx8aFuJU53fmAUxhjlbciuvUcwadK8tCvNcKFAg6-K0c6ntqG_klHaj7y5fgXxm9YrFslk3yd2d57cr61xYPFPNfbp5g","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":14},{"type":"1","title":"20180224\u300a\u97f3\u4e50\u4e2d\u5fc3\u300b\u4e00\u4f4d\uff1aRoy Kim vs. MML vs. iKON","url":"\/reference\/22358232\/0ce2k8hSaUHqlWOx9O-yrYdMwiHNpc52bMAvtmw7nd3dFrnqCp0_cMSrIwB0SbTT22JwmEqCpMo2EsKoe7iTCF68pHIz5NP8MRmHOCpf6fi3chClE9Ma2Aqyfrp4xYQCjM1Bu8E01xnRM3sZmq5hiE8bHnQMr6gQR7sXmtMEQWwLs3KBMMQpWZ6zt1revQSfg_iiOVThgzDHyjOA6RC1mczroN0axSyNEFEqA802","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":15},{"type":"1","title":"20180225\u300a\u4eba\u6c14\u6b4c\u8c23\u300b\u4e00\u4f4d\uff1aRV vs. iKON vs. MOMOLAND","url":"\/reference\/22358232\/f673fB_mDZ0wAZmkG1YujDIRlyu_L8nM7xzZyDk14_t95U7PaYmEgCTxYqcCDzOuzs63_cvlbJ6r9DzL4ymRApdmh8V5EEllveG9vl72t2mcwSySYUaCxuKtedeTPSKk42b-elpcgTu1xIGCcyNNARFTmekxQd5I_iFNrPortOBkg7AjkI78c8TuRgixq4E6U3UMtSUDtxuBkZIlWC1HCMHBjGByHODI5YF-gtJB","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":16},{"type":"1","title":"20180301\u300aM!Countdown\u300b\u4e00\u4f4d\uff1aMOMOLAND vs. iKON","url":"\/reference\/22358232\/af91mLtIt_S__n7MD5D1bFVkNzKz5AwDtHfLLsKdBoa5Nwcv0lLD02LO2-8gJus1B2BGWjA8g2J8PmUMIEpQD6KynshwGnD2SXgrylJEGjgh2QOit6e1KW5WovEFLOn6eeSwBCYv4whB-DBeiJtb4o6XR1Voe8BXJ3zAxcAdfXgvEMFj90IXnmqEi6T6pg","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":17,"count":"2"},{"type":"1","title":"20180302 KBS\u300a\u97f3\u4e50\u94f6\u884c\u300b\u4e00\u4f4d\uff1a\u8000\u71ee vs. iKON","url":"\/reference\/22358232\/fc77GsSD42JPMMSPiXBJ4WflfUdA4ltjvABzUbttcYKqM3WmEvC3lbrtYue_JzVScxIwItX5Ru0AJdEeFQx6MZqYRMZpVJXOBnMOVC5Zl1zJpdmmDCAXOX8ZHdWOD7XEU7w1rnzYVuc4Ye48QxNZWS8UYTnpW2fZIO7ElcV7dZhj8oclj6wmjzGvp2-mUDaXGAO9cKA9jeDFHx1PNBcKNXxj9TDpZ9NN02gtmmv-eL5FQZkagUU","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":18},{"type":"1","title":"20180303\u300a\u97f3\u4e50\u4e2d\u5fc3\u300b\u4e00\u4f4d\uff1aRV vs. MML vs. iKON","url":"\/reference\/22358232\/6daaHKP_r-Jau7M4fUvslCqXxJcb5cYN7KrXvylJyQQ6J-DrgrGkenpBs3KgDnb11hZjlmEoXuC5m30tdecR6XMZNw3wGQEqFG_LdYWZA3kOsZv_VVtZnR_HxqVgrWw_Tjq0SW0giFm6VmYpRGPP4qyYwNAflRfHyc_HSyrfW4Zafdiwl1je4KQzlQb8CCplGxXexWjRS-0wFiY7oL1wc0d28BbzW1bquw","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":19},{"type":"1","title":"20180304\u300a\u4eba\u6c14\u6b4c\u8c23\u300b\u4e00\u4f4d\uff1aRV vs. iKON vs. MOMOLAND","url":"\/reference\/22358232\/891fY4dkUXri82AN7Bim0k-wBFqp-Jni56Iit69u4FiWgcn5Sfi21VxS1EYwe6FaEFiJ5TSn77e7wu5FgUoGqICZ6WcTQoJtaHND03x9a5ZVaoju7EyWMuy0vVXzp7uRHDRz5KWxC78UaMr1-HlifhV40CcuKlS5rl5N575HD9xOmf7QvOdADk2E_puemvWZb2SW5zHSw9Q5DmZFVRWZhQws3G5BCfmqEm0rBti5","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":20},{"type":"1","title":"iKON \u4ee5\u300aLOVE SCENARIO\u300b\u9996\u83b7\u300aShow Champion\u300b\u4e00\u4f4d\uff01","url":"\/reference\/22358232\/988awdoK7DaCM9Wdobxy3eL8DDeNJuYooLzBh_6qroS4WyMnRCPIOG6DMS1pC_s5s1WjB5AkWhzdiDM4Wed8Sx6JkCrWqH9SnAAcMY4W_JyIMwXUmSnaJ0T99ZcbZ3Z0C3GZERhHDbD3iKTxh4PnOCQilSSX9vrYMzl-dbD0O6k-3r9HPdNHbmK14DHgd5AbIgTSAYKmLZwwcKyoUOngdWyBxEnaFmUtJZLo-LB84SrQ7iuhUhhq6w","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":21},{"type":"1","title":"20180308\u300aM!Countdown\u300b\u4e00\u4f4d\uff1aMOMOLAND vs. iKON","url":"\/reference\/22358232\/c1acUpSMTk74mGFBPZKkfcWjiwmfSglFssTGEBQppRJ2eb9xZespkra2RJmzX8l-YVHU5JBMRLi6UIk4FhtXcGex_s2ptIAfX7nZF24WqBGVzUc0vzHkc_IKNmaaPrs-DwX4Rh_057bDzKxa-0zyhRWg7zjwyJLp3jBROWGBpGvCPONv8WaP-uBTM6XzKA","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":22},{"type":"1","title":"20180310\u300a\u97f3\u4e50\u4e2d\u5fc3\u300b\u4e00\u4f4d\uff1aRV vs. MOMOLAND vs. iKON","url":"\/reference\/22358232\/f973rlPWF67JLxnzwW-A9rILVOcMUn5A9OyQ4IwGlco6ugIHCXhvCNSYvvwhDiTC0iHHmVQ6nwwtEU7SGqIy8VZm9I4lv5fiGkVLnsNK4I_HhSlwyZRYx5LTvPrI-c9nw8bRvmpJQe2PjU1KXvfKWL-43QCii6yJxb7TkcuOjTfwPdlBaPdjzbH7oiPiCEs6BWpeowzfNoNyWZ6oxFyi3vGu2wskzR-unnnig1vu","site":"kpopn","publishDate":"","refDate":"2018-09-25","index":23},{"type":"1","title":"\u300aMGA\u300b\u5f97\u5956\u540d\u5355\uff0cBTS \u593a\u4e24\u5927\u8d4f\uff01Wanna One\u3001TWICE \u4e5f\u62ff\u5927\u8d4f\uff01","url":"\/reference\/22358232\/2075MZ-CZx49xxYTvlNsiFj-YLE_JaUlWyiv-lrcyGcLYum_bibuE6ARWaKY3_ohGmCnZTSnJTcggJYLGGDq2O8IakE43B-tCcIdAr507VNiBkbpgmixDtigvA2Z0jJ5KMSFUlRcDz6HdOW6P-OpxWLDT_Pu4pawJwis8uA5TA","site":"kpopn","publishDate":"","refDate":"2018-12-24","index":24},{"type":"1","title":"\u300a2018 MMA\u300b\u5f97\u5956\u540d\u5355\uff1a\u8d3a BTS\u3001Wanna One\u3001iKON \u83b7\u5f97\u5e74\u5ea6\u5927\u8d4f","url":"\/reference\/22358232\/8f59_ACJyWt04qxleVVHRexPfLrIEomeyxHIH3HKEP36d_HgATrRzfYN27WCuX2d9YDF5bjnH4GZjkKSalmrC31_ZmKreTsyLx-zEHJguUvAAkIJ295EFW6ug_HgYQK9b1koyAuMop51V47LqdjdpicYotA","site":"kpopn","publishDate":"","refDate":"2018-12-24","index":25},{"type":"1","title":"\u300a2018 MAMA\u300b\u9999\u6e2f\u573a\u5f97\u5956\u8005\u4e0e\u6f14\u51fa\uff0cBTS \u5f97\u5230\u6700\u5927\u8d4f\u5e74\u5ea6\u827a\u4eba\uff01","url":"\/reference\/22358232\/4817N3Zr_n6G9LbHG4rCGIiw9i2cHOu2AVcUT_sM48wYf53dXVLs5uWOP9jYwESRm33I4fpJ2aKXMmmeGAjiryzjDfamV3FjkVy03wKK1m568rVKRB-q8jenb3KfCdRvxjc","site":"kpopn","publishDate":"","refDate":"2018-12-24","index":26},{"type":"1","title":"\u7b2c33\u5c4a\u300a\u91d1\u5531\u7247\u5956\u300b\u97f3\u6e90\u90e8\u95e8\u5f97\u5956\u540d\u5355\uff0c\u606d\u559c iKON \u593a\u4e0b\u5e74\u5ea6\u97f3\u6e90\u5927\u8d4f","url":"\/reference\/22358232\/cf15UvJvfv_-ELd2gY0O1gpdmsWnNEwPpu1qz6CVs6NP05mOpd2M4FHiQ02YcsmRCuMUxKanaoKaSCNKkBi4VaemTf35APVaiAof4xgFbyaPoomFZCEmb5-J2mrqI7aq3YXpBKiOz0mnvek","site":"kpopn","publishDate":"","refDate":"2019-01-08","index":27},{"type":"1","title":"\u97e9\u6d41\u5f15\u7206\u96c5\u52a0\u8fbe\u95ed\u5e55\u5f0f \u4e00\u540d\u89c2\u4f17\u56e0\u60c5\u7eea\u592a\u8fc7\u6fc0\u52a8\u6655\u5012","url":"\/reference\/22358232\/926eR9w8VLRgskJE-hJJxKdY-pmHRCtfgbCDQ5nLbFE8jGbJqs3t6kEA9FJeBQrAGkZJsxeVbacP5aWZ6qUzdCLvUkE5dYo","site":"\u817e\u8baf\u4f53\u80b2","publishDate":"","refDate":"2018-09-25","index":28,"count":"1"},{"type":"1","title":" iKON\u5728\u672c\u65e5\u8fde\u7eed\u4e24\u5e74\u4e3e\u529e\u5de8\u86cb\u6f14\u5531\u4f1a","url":"\/reference\/22358232\/91ccEdpY8txIo8xWhzGhDBEQ_j9bkVT7SkOQRqe8goyrvyYSoffwbMWlRXz9Vk4DUrA7lBhyWloFk2TSbfNvk_ocNOtSFEUe8Bxs3Xvd0ybzkry0ls9b7wQ4cvwpTnU","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":29},{"type":"1","title":"iKON\u8fde\u7eed\u56db\u5468\u5c45\u4e2d\u56fdQQ\u97f3\u4e50\u5468\u699c\u4e00\u4f4d","url":"\/reference\/22358232\/2bf5cmkDK_az8C7dACfvMvqjDbkGeIN5eYJZMNQPYSHuQK5mN_tnknDMQtVqvOsnlEckTW1HXjiTl9Sg3Ln55fvcJ_JXSiUd70WkNDW4TZL4sQIT7PH3I2MvHr7Ep7s","site":"yg-life","publishDate":"","refDate":"2019-01-08","index":30}]
+			});
+		});
+	}();
 !function(){        require.async(["wiki-common:widget/lib/jquery/jquery"],function($){
             function openTagToggle(node) {
                 if ($(node).hasClass("collapse")) {
@@ -745,25 +1562,27 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         });
     }();
 !function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
-            10924880,
-            '阴天'
+            22358232,
+            'LOVE SCENARIO'
         );
     }();
 !function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
         init({
-            newLemmaIdEnc:"ab5d18ce594a7385fb136691"
+            newLemmaIdEnc:"7a42871dba828bfc79e93f0f"
         });
     });
 }();
 !function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
-		new SideCatalog();
+		new SideCatalog({
+			isMemorial: null
+		});
 	});
 }();
 !function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
             init({
-                newLemmaId: "10924880",
-                lemmaTitle: "阴天",
-                encodeLemmaTitle: "%D2%F5%CC%EC",
+                newLemmaId: "22358232",
+                lemmaTitle: "LOVE SCENARIO",
+                encodeLemmaTitle: "LOVE%20SCENARIO",
                 adManager: null
             }, {
                 errFn: unionAd,
@@ -773,7 +1592,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
     }();
 !function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
             app.init({
-                lemmaTitle: '阴天',
+                lemmaTitle: 'LOVE SCENARIO',
                 adManager: null
             });
         });
@@ -789,8 +1608,8 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         var enterpriseOwnerUserId = 0;
     
     var userId = 0;
-    var editUrl = '/edit/' + encodeURIComponent('阴天') + '/' + '10924880';
-    var pgcUrl = '/enterprise/editpgc?lemmaId=10924880';
+    var editUrl = '/edit/' + encodeURIComponent('LOVE SCENARIO') + '/' + '22358232';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=22358232';
     var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
 
     userLogin.regist({
@@ -901,7 +1720,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
                         btns: btns,
                         onBtnClick: function(btnKey){
                             if (btnKey === 'discussion') {
-                                window.location.href = '/planet/talk?lemmaId=10924880&category=1';
+                                window.location.href = '/planet/talk?lemmaId=22358232&category=1';
                             } else if (btnKey === 'task') {
                                 window.location.href = '/usercenter#guide';
                             } else if (btnKey === 'join') {
@@ -948,7 +1767,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
                         btns: btns,
                         onBtnClick: function(btnKey){
                             if (btnKey === 'discussion') {
-                                window.location.href = '/planet/talk?lemmaId=10924880&category=1';
+                                window.location.href = '/planet/talk?lemmaId=22358232&category=1';
                             } else if (btnKey === 'task') {
                                 window.location.href = '/usercenter#guide';
                             } else if (btnKey === 'join') {
@@ -989,7 +1808,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
             var url = editUrl;
         }
 
-        rightCheck.preeditCheck('10924880', '阴天', '一种天气现象', '133008837', '', function(res) {
+        rightCheck.preeditCheck('22358232', 'LOVE SCENARIO', 'LOVE SCENARIO', '135286716', '', function(res) {
             if (!checkUserLegal(res)) {
                 return;
             }
@@ -1008,7 +1827,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 !function(){  require.async(["wiki-common:widget/lib/jquery/jquery","wiki-common:widget/component/footer/footer_feedback"], function($, feedback){
     feedback({el: '#J-bk-feedback-main',
       proData: {
-        "extend_feedback_channel": null
+        "extend_feedback_channel": 33429
       }
     });
     feedback({el: '#J-bk-feedback-query', config: {
@@ -1029,9 +1848,9 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
   }();
 !function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
         init({
-            lemmaId:"344341",
-            subLemmaId:"6279745",
-            newLemmaId:"10924880"
+            lemmaId:"21173525",
+            subLemmaId:"22978280",
+            newLemmaId:"22358232"
         });
     });
 }();
@@ -1092,13 +1911,13 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 !function(){    require.async(['wiki-lemma:widget/tools/newSideShare/qzopensl']);
     require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
         taskShare.init({
-            title: '阴天',
-            desc: "\u9634\u5929\uff08overcast\uff09\uff1a\u5929\u7a7a\u4e2d\uff0c\u4f4e\u4e91\u603b\u4e91\u91cf\u57288\\\/10\u53ca\u4ee5\u4e0a\uff0c\u9633\u5149\u5f88\u5c11\u6216\u4e0d\u80fd\u900f\u8fc7\u4e91\u5c42\uff0c \u5929\u8272\u9634\u6697\u7684\u5929\u7a7a\u72b6\u51b5\u3002 ",
-            pic: '',
+            title: 'LOVE SCENARIO',
+            desc: "\u300aLOVE SCENARIO\u300b\u662f\u97e9\u56fd\u7537\u5b50\u6f14\u5531\u7ec4\u5408iKON\u6f14\u5531\u7684\u4e00\u9996\u6b4c\u66f2\uff0c\u7531\u91d1\u97e9\u5f6c\u3001\u91d1\u77e5\u5143\u3001MOT MAL\u4f5c\u8bcd\uff0c\u91d1\u97e9\u5f6c\u3001MILLENNIUM\u3001SEUNG\u4f5c\u66f2\uff0c\u6536\u5f55\u5728iKON\u7b2c\u4e8c\u5f20\u6b63\u89c4\u4e13\u8f91\u300aReturn\u300b\u4e2d\uff0c\u662f\u8be5\u4e13\u8f91\u7684\u4e3b\u6253\u66f2\uff0c\u4e8e2018\u5e741\u670825\u65e5\u6b63\u5f0f\u53d1\u884c\u30022018\u5e74\uff0ciKON\u51ed\u501f\u8be5\u66f2\u83b7\u5f97\u4e86\u300aM! Countdown\u300b\u7b4911\u4e2a\u97e9\u56fd\u97f3\u4e50\u8282\u76ee\u7684\u4e00\u4f4d\u3002",
+            pic: 'https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/w%3D268\/sign=c1eccbe1f01f4134e03702781d1e95c1\/0ff41bd5ad6eddc43628e2f934dbb6fd536633e0.jpg',
             url: '',
-            qqPic: '',
-            newLemmaId: '10924880',
-            lemmaTitle: '阴天'
+            qqPic: 'https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D815%2C815%2C0\/sign=30de72eda4ec8a13144f04a0913ea9be\/0ff41bd5ad6eddc43628e2f934dbb6fd536633e0.jpg',
+            newLemmaId: '22358232',
+            lemmaTitle: 'LOVE SCENARIO'
         });
     });
 }();
@@ -1122,10 +1941,10 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 
     require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery'], function(nslog, $) {
         nslog().setGlobal({
-            lemmaId: "344341",
-            newLemmaId: "10924880",
-            subLemmaId: "6279745",
-            lemmaTitle: "阴天"
+            lemmaId: "21173525",
+            newLemmaId: "22358232",
+            subLemmaId: "22978280",
+            lemmaTitle: "LOVE SCENARIO"
         });
 
         // 词条页 pv
@@ -1253,7 +2072,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         api: 'lemma-ad',
         action: 'request'
     });
-    var tags = [{"tagId":0,"tagName":"\u6587\u5316"}];
+    var tags = [{"tagId":0,"tagName":"\u5a31\u4e50"}];
     var tagsArray = [];
     for (var key in tags) {
         tagsArray.push(tags[key].tagName);
@@ -1262,7 +2081,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
         type: 'GET',
         url: '/api/wikiad/getsquirrels',
         data: {
-            lemmaId: 10924880,
+            lemmaId: 22358232,
             tags: tagsArray.join()
         },
         cache: false,
@@ -1403,9 +2222,9 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
 
     // 设置分享内容
     window.BKShare.setCommon({
-        bdText: "\u3010\u9634\u5929_\u767e\u5ea6\u767e\u79d1\u3011\u9634\u5929\uff08overcast\uff09\uff1a\u5929\u7a7a\u4e2d\uff0c\u4f4e\u4e91\u603b\u4e91\u91cf\u57288\/10\u53ca\u4ee5\u4e0a\uff0c\u9633\u5149\u5f88\u5c11\u6216\u4e0d\u80fd\u900f\u8fc7\u4e91\u5c42\uff0c \u5929\u8272\u9634\u6697\u7684\u5929\u7a7a\u72b6\u51b5\u3002 .....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdText: "\u3010LOVE SCENARIO_\u767e\u5ea6\u767e\u79d1\u3011\u300aLOVE SCENARIO\u300b\u662f\u97e9\u56fd\u7537\u5b50\u6f14\u5531\u7ec4\u5408iKON\u6f14\u5531\u7684\u4e00\u9996\u6b4c\u66f2\uff0c\u7531\u91d1\u97e9\u5f6c\u3001\u91d1\u77e5\u5143\u3001MOT MAL\u4f5c\u8bcd\uff0c\u91d1\u97e9\u5f6c\u3001MILLENNIUM\u3001SEUNG\u4f5c\u66f2\uff0c\u6536\u5f55\u5728iKON\u7b2c\u4e8c\u5f20\u6b63\u89c4\u4e13\u8f91\u300aReturn\u300b\u4e2d\uff0c\u662f\u8be5\u4e13\u8f91\u7684\u4e3b\u6253\u66f2\uff0c\u4e8e2018\u5e741\u670825\u65e5\u6b63\u5f0f\u53d1\u884c\u30022018\u5e74\uff0ciKON\u51ed\u501f\u8be5\u66f2\u83b7\u5f97\u4e86\u300aM! Countdown\u300b\u7b4911\u4e2a\u97e9\u56fd\u97f3\u4e50\u8282\u76ee\u7684\u4e00\u4f4d\u3002.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
         bdDesc: '',
-        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E9%98%B4%E5%A4%A9\/10924880',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/LOVE%20SCENARIO\/22358232',
         bdPic: '',
         onBeforeClick: function (){
             $('.bdshare_dialog_box').hide();
@@ -1415,7 +2234,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
     // 底部投诉带入当前页面 url
     var map = [1, 2, 6, 5];
     $('.wgt-footer-main .suggestion').find('a').each(function(i) {
-        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E9%98%B4%E5%A4%A9' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=LOVE%20SCENARIO' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
     });
 
     // 为超出预设内容的表格添加table-responsive控制
@@ -1432,7 +2251,7 @@ $('.wgt-navbar').on('mouseenter', 'dl', function() {
   var Hunter = window.Hunter || {};
   Hunter.userConfig = Hunter.userConfig || [];
   </script>
-<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=18211" defer></script><script type="text/javascript">
+<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=18236" defer></script><script type="text/javascript">
   // DOM Ready时，统计用户可操作时间。
   alog('speed.set', 'drt', +new Date);
 

@@ -1,27 +1,28 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
 <head>
-<title>【 阴天 】 【 歌名 】共有 50笔相关歌名</title>
+<title>【 孙大剩 】 【 歌名 】没有符合的,请重新输入</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="keywords" content="阴天 歌词, 歌词 阴天, 阴天, 歌词" />
-<meta name="description" content="阴天 歌词 阴天的秘密 歌词 阴天里划彩虹 歌词 阴天王国 歌词 阴天(颜嘉侬) 歌词 阴天 歌词 阴天快乐 歌词 阴天假期(卫兰) 歌词 阴天 歌词 阴天里的德布西 歌词 阴天 歌词 阴天的向日葵 歌词 阴天(莫文蔚) 歌词 阴天的向日葵 歌词 阴天假期 歌词 阴天气球 歌词 阴天 歌词 阴天假期 歌词 阴天假期 歌" />
-<meta name="robots" content="all" />
+<meta name="keywords" content="孙大剩 歌词, 歌词 孙大剩, 孙大剩, 歌词" />
+<meta name="description" content="" />
+<meta name="robots" content="none" />
+<meta name="googlebot" content="noindex, nofollow" />
 <meta name="distribution" content="GLOBAL" />
 <meta name="rating" content="general" />
 <LINK REL="SHORTCUT ICON" HREF="/favicon-g.ico">
-<link rel="alternate" hreflang="zh-Hans" href="https://mojim.com/阴天.html?g3" />
-<link rel="alternate" hreflang="zh-Hant" href="https://mojim.com/阴天.html?t3" />
-<link rel="alternate" hreflang="ja" href="https://mojim.com/阴天.html?j3" />
-<link rel="alternate" hreflang="en" href="https://mojim.com/阴天.html?u3" />
+<link rel="alternate" hreflang="zh-Hans" href="https://mojim.com/孙大剩.html?g3" />
+<link rel="alternate" hreflang="zh-Hant" href="https://mojim.com/孙大剩.html?t3" />
+<link rel="alternate" hreflang="ja" href="https://mojim.com/孙大剩.html?j3" />
+<link rel="alternate" hreflang="en" href="https://mojim.com/孙大剩.html?u3" />
 <base target="_blank">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, user-scalable=yes"/>
 </head>
 <body>
 <script>
-var AdxUU = ",ad_x1,ad_x2,ad_x3,";
-var sexA = "";var sexB = "0";var nA = "50";
+var AdxUU = ",ad_end,";
+var sexA = "";var sexB = "0";var nA = "0";
 var LGx0="cn";var LGx1="g";var LGx2="sh";
-var seaA = "";var modeA = "3";var keyA = "阴天";</script>
+var seaA = "";var modeA = "3";var keyA = "孙大剩";</script>
 <script type="text/javascript" src="/js_home_LG.js"></script>
 <script type="text/javascript" src="/js_home_isearch.js?20171228"></script>
 <table border="0" cellpadding="0" cellspacing="0" style="max-width:800px;width:auto;border-collapse: collapse" ><tr><td>
@@ -39,7 +40,7 @@ var seaA = "";var modeA = "3";var keyA = "阴天";</script>
 <script>document.write(f2);</script>
 <table width="100%" align="center"><tr>
 <td>
-<p align="center">【<b><font color="#D34805"> <font size="5">阴天</font> </font></b>】 【<font color=#D34805> 歌名 </font>】 共有 <font color="#D34805">50</font>笔相关歌名 </p>
+<p align="center">【<b><font color="#D34805"> <font size="5">孙大剩</font> </font></b>】 【<font color=#D34805> 歌名 </font>】 没有符合的,请重新输入 </p>
 </td></tr>
 </table>
 					<table width="100%" align="center">
@@ -55,361 +56,11 @@ var seaA = "";var modeA = "3";var keyA = "阴天";</script>
 <span class="mxsh_ss4"><font color="#990000" size="3">歌名 </font>( 页面连结 )</span>
 <span class="mxsh_ss5"><font size="3">发行日期</font></span>
 </dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">1</span>
-<span class="mxsh_ss2"><a href="/cnh105923.htm" title="歌词" >果味VC</a></span>
-<span class="mxsh_ss3"><a href="/cn105923x14.htm" title="阴天 歌词 果味VC" >阴天</a></span>
-<span class="mxsh_ss4"><a href="/cny105923x14x1.htm" title="阴天 歌词 果味VC" >1.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2018-12</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">2</span>
-<span class="mxsh_ss2"><a href="/cnh201063.htm" title="歌词" >先宇</a></span>
-<span class="mxsh_ss3"><a href="/cn201063x1.htm" title="阴天的秘密 歌词 先宇" >阴天的秘密</a></span>
-<span class="mxsh_ss4"><a href="/cny201063x1x1.htm" title="阴天的秘密 歌词 先宇" >1.<font color="#D34805">阴天</font>的秘密</a></span>
-<span class="mxsh_ss5">2017-08</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">3</span>
-<span class="mxsh_ss2"><a href="/cnh109449.htm" title="歌词" >铁树兰乐团</a></span>
-<span class="mxsh_ss3"><a href="/cn109449x3.htm" title="自白 歌词 铁树兰乐团" >自白</a></span>
-<span class="mxsh_ss4"><a href="/cny109449x3x1.htm" title="阴天里划彩虹 歌词 铁树兰乐团" ><span class="shx_ss4"> 1.<font color="#D34805">阴天</font>里划彩虹</span></a></span>
-<span class="mxsh_ss5">2017-02</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">4</span>
-<span class="mxsh_ss2"><a href="/cnh182458.htm" title="歌词" >不优雅先生</a></span>
-<span class="mxsh_ss3"><a href="/cn182458x1.htm" title="阴天王国 歌词 不优雅先生" >阴天王国</a></span>
-<span class="mxsh_ss4"><a href="/cny182458x1x10.htm" title="阴天王国 歌词 不优雅先生" >10.<font color="#D34805">阴天</font>王国</a></span>
-<span class="mxsh_ss5">2017-01</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">5</span>
-<span class="mxsh_ss2"><a href="/cnh161021.htm" title="歌词" >校园抒情金曲精选 - 01</a></span>
-<span class="mxsh_ss3"><a href="/cn161021x81.htm" title="校园抒情金曲精选 - 01 歌词 校园抒情金曲精选 - 01" >校园抒情金曲精选 - 01</a></span>
-<span class="mxsh_ss4"><a href="/cny161021x81x5.htm" title="阴天(颜嘉侬) 歌词 校园抒情金曲精选 - 01" >5.<font color="#D34805">阴天</font>(颜嘉侬)</a></span>
-<span class="mxsh_ss5">2016-10</span>
-</dd>
-<dd><p align="center"><script>document.write(ad_x1);</script></p></dd><dd class="mxsh_dd2">
-<span class="mxsh_ss1">6</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x48.htm" title="我的．莫文蔚 五光十色 最精彩选辑 歌词 莫文蔚" >我的．莫文蔚 五光十色 最精彩选辑</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x48x11.htm" title="阴天 歌词 莫文蔚" >11.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2015-07</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">7</span>
-<span class="mxsh_ss2"><a href="/cnh100111.htm" title="歌词" >陈奕迅</a></span>
-<span class="mxsh_ss3"><a href="/cn100111x82.htm" title="Rice & Shine 歌词 陈奕迅" >Rice & Shine</a></span>
-<span class="mxsh_ss4"><a href="/cny100111x82x9.htm" title="阴天快乐 歌词 陈奕迅" >9.<font color="#D34805">阴天</font>快乐</a></span>
-<span class="mxsh_ss5">2014-05</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">8</span>
-<span class="mxsh_ss2"><a href="/cnh101423.htm" title="歌词" >雷颂德</a></span>
-<span class="mxsh_ss3"><a href="/cn101423x7.htm" title="雷颂德 20 歌词 雷颂德" >雷颂德 20</a></span>
-<span class="mxsh_ss4"><a href="/cny101423x7x58.htm" title="阴天假期(卫兰) 歌词 雷颂德" >58.<font color="#D34805">阴天</font>假期(卫兰)</a></span>
-<span class="mxsh_ss5">2013-07</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">9</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x40.htm" title="回蔚莫文蔚巡回演唱会 @ 台北小巨蛋 歌词 莫文蔚" >回蔚莫文蔚巡回演唱会 @ 台北小巨蛋</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x40x10.htm" title="阴天 歌词 莫文蔚" >10.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2012-03</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">10</span>
-<span class="mxsh_ss2"><a href="/cnh110811.htm" title="歌词" >风迷藏</a></span>
-<span class="mxsh_ss3"><a href="/cn110811x1.htm" title="阴天里的德布西 歌词 风迷藏" >阴天里的德布西</a></span>
-<span class="mxsh_ss4"><a href="/cny110811x1x3.htm" title="阴天里的德布西 歌词 风迷藏" >3.<font color="#D34805">阴天</font>里的德布西</a></span>
-<span class="mxsh_ss5">2012-02</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">11</span>
-<span class="mxsh_ss2"><a href="/cnh109227.htm" title="歌词" >卢凯彤</a></span>
-<span class="mxsh_ss3"><a href="/cn109227x4.htm" title="一个人回家 single CD＋2011掀起连场音乐会Live CD 歌词 卢凯彤" >一个人回家 single CD＋2011掀起连场音乐会Live CD</a></span>
-<span class="mxsh_ss4"><a href="/cny109227x4x14.htm" title="阴天 歌词 卢凯彤" >14.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2012-01</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">12</span>
-<span class="mxsh_ss2"><a href="/cnh106665.htm" title="歌词" >韦礼安</a></span>
-<span class="mxsh_ss3"><a href="/cn106665x3.htm" title="两脚书橱的逃亡 演唱会live 2CD 歌词 韦礼安" >两脚书橱的逃亡 演唱会live 2CD</a></span>
-<span class="mxsh_ss4"><a href="/cny106665x3x20.htm" title="阴天的向日葵 歌词 韦礼安" >20.<font color="#D34805">阴天</font>的向日葵</a></span>
-<span class="mxsh_ss5">2011-06</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">13</span>
-<span class="mxsh_ss2"><a href="/cnh108091.htm" title="歌词" >滚石三十 青春音乐记事簿</a></span>
-<span class="mxsh_ss3"><a href="/cn108091x35.htm" title="灯火阑珊 歌词 滚石三十 青春音乐记事簿" >灯火阑珊</a></span>
-<span class="mxsh_ss4"><a href="/cny108091x35x9.htm" title="阴天(莫文蔚) 歌词 滚石三十 青春音乐记事簿" >9.<font color="#D34805">阴天</font>(莫文蔚)</a></span>
-<span class="mxsh_ss5">2010-11</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">14</span>
-<span class="mxsh_ss2"><a href="/cnh106665.htm" title="歌词" >韦礼安</a></span>
-<span class="mxsh_ss3"><a href="/cn106665x2.htm" title="首张同名创作专辑 歌词 韦礼安" >首张同名创作专辑</a></span>
-<span class="mxsh_ss4"><a href="/cny106665x2x8.htm" title="阴天的向日葵 歌词 韦礼安" >8.<font color="#D34805">阴天</font>的向日葵</a></span>
-<span class="mxsh_ss5">2010-06</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">15</span>
-<span class="mxsh_ss2"><a href="/cnh104518.htm" title="歌词" >卫兰</a></span>
-<span class="mxsh_ss3"><a href="/cn104518x14.htm" title="Wish (第二版) 歌词 卫兰" >Wish (第二版)</a></span>
-<span class="mxsh_ss4"><a href="/cny104518x14x28.htm" title="阴天假期 歌词 卫兰" >28.<font color="#D34805">阴天</font>假期</a></span>
-<span class="mxsh_ss5">2010-02</span>
-</dd>
-<dd><p align="center"><script>document.write(ad_x2);</script></p></dd><dd class="mxsh_dd2">
-<span class="mxsh_ss1">16</span>
-<span class="mxsh_ss2"><a href="/cnh106234.htm" title="歌词" >乔任梁</a></span>
-<span class="mxsh_ss3"><a href="/cn106234x3.htm" title="钻石 歌词 乔任梁" >钻石</a></span>
-<span class="mxsh_ss4"><a href="/cny106234x3x4.htm" title="阴天气球 歌词 乔任梁" >4.<font color="#D34805">阴天</font>气球</a></span>
-<span class="mxsh_ss5">2009-12</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">17</span>
-<span class="mxsh_ss2"><a href="/cnh107413.htm" title="歌词" >意淋</a></span>
-<span class="mxsh_ss3"><a href="/cn107413x1.htm" title="天使 歌词 意淋" >天使</a></span>
-<span class="mxsh_ss4"><a href="/cny107413x1x10.htm" title="阴天 歌词 意淋" ><span class="shx_ss4"> 10.<font color="#D34805">阴天</font></span></a></span>
-<span class="mxsh_ss5">2009-05</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">18</span>
-<span class="mxsh_ss2"><a href="/cnh104518.htm" title="歌词" >卫兰</a></span>
-<span class="mxsh_ss3"><a href="/cn104518x9.htm" title="Serving You 歌词 卫兰" >Serving You</a></span>
-<span class="mxsh_ss4"><a href="/cny104518x9x3.htm" title="阴天假期 歌词 卫兰" >3.<font color="#D34805">阴天</font>假期</a></span>
-<span class="mxsh_ss5">2008-11</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">19</span>
-<span class="mxsh_ss2"><a href="/cnh104518.htm" title="歌词" >卫兰</a></span>
-<span class="mxsh_ss3"><a href="/cn104518x8.htm" title="阴天假期 歌词 卫兰" >阴天假期</a></span>
-<span class="mxsh_ss4"><a href="/cny104518x8x1.htm" title="阴天假期 歌词 卫兰" >1.<font color="#D34805">阴天</font>假期</a></span>
-<span class="mxsh_ss5">2008-09</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">20</span>
-<span class="mxsh_ss2"><a href="/cnh100168.htm" title="歌词" >郑中基</a></span>
-<span class="mxsh_ss3"><a href="/cn100168x22.htm" title="怪胎(新曲+精选) 歌词 郑中基" >怪胎(新曲+精选)</a></span>
-<span class="mxsh_ss4"><a href="/cny100168x22x5.htm" title="晴天阴天雨天(广东) 歌词 郑中基" >5.晴天<font color="#D34805">阴天</font>雨天(广东)</a></span>
-<span class="mxsh_ss5">2008-09</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">21</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x34.htm" title="就i Karen 莫文蔚精选 歌词 莫文蔚" >就i Karen 莫文蔚精选</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x34x2.htm" title="阴天 歌词 莫文蔚" >2.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2008-06</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">22</span>
-<span class="mxsh_ss2"><a href="/cnh105581.htm" title="歌词" >校园金曲</a></span>
-<span class="mxsh_ss3"><a href="/cn105581x1.htm" title="校园金曲(超级创作排行榜) 歌词 校园金曲" >校园金曲(超级创作排行榜)</a></span>
-<span class="mxsh_ss4"><a href="/cny105581x1x1.htm" title="阴天 / 颜嘉侬(吴玉菁+蔡奇龙创作) 歌词 校园金曲" >1.<font color="#D34805">阴天</font> / 颜嘉侬(吴玉菁+蔡奇龙创作)</a></span>
-<span class="mxsh_ss5">2008-02</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">23</span>
-<span class="mxsh_ss2"><a href="/cnh100041.htm" title="歌词" >李宗盛</a></span>
-<span class="mxsh_ss3"><a href="/cn100041x12.htm" title="理性与感性 (作品音乐会)CD1 歌词 李宗盛" >理性与感性 (作品音乐会)CD1</a></span>
-<span class="mxsh_ss4"><a href="/cny100041x12x12.htm" title="阴天 歌词 李宗盛" >12.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2007-09</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">24</span>
-<span class="mxsh_ss2"><a href="/cnh100168.htm" title="歌词" >郑中基</a></span>
-<span class="mxsh_ss3"><a href="/cn100168x19.htm" title="正宗K(新曲+精选) 歌词 郑中基" >正宗K(新曲+精选)</a></span>
-<span class="mxsh_ss4"><a href="/cny100168x19x20.htm" title="晴天阴天雨天 歌词 郑中基" >20.晴天<font color="#D34805">阴天</font>雨天</a></span>
-<span class="mxsh_ss5">2006-12</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">25</span>
-<span class="mxsh_ss2"><a href="/cnh101283.htm" title="歌词" >S.H.E</a></span>
-<span class="mxsh_ss3"><a href="/cn101283x15.htm" title="S.H.E 2006移动城堡演唱会CD LIVE@H.K. 歌词 S.H.E" >S.H.E 2006移动城堡演唱会CD LIVE@H.K.</a></span>
-<span class="mxsh_ss4"><a href="/cny101283x15x22.htm" title="阴天(Ella) 歌词 S.H.E" >22.<font color="#D34805">阴天</font>(Ella)</a></span>
-<span class="mxsh_ss5">2006-12</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">26</span>
-<span class="mxsh_ss2"><a href="/cnh106473.htm" title="歌词" >郑阳</a></span>
-<span class="mxsh_ss3"><a href="/cn106473x2.htm" title="雏菊 歌词 郑阳" >雏菊</a></span>
-<span class="mxsh_ss4"><a href="/cny106473x2x7.htm" title="阴天 歌词 郑阳" >7.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2006-12</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">27</span>
-<span class="mxsh_ss2"><a href="/cnh100301.htm" title="歌词" >王识贤</a></span>
-<span class="mxsh_ss3"><a href="/cn100301x13.htm" title="爱你一千一万年 歌词 王识贤" >爱你一千一万年</a></span>
-<span class="mxsh_ss4"><a href="/cny100301x13x7.htm" title="黑阴天 歌词 王识贤" >7.黑<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2006-11</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">28</span>
-<span class="mxsh_ss2"><a href="/cnh104726.htm" title="歌词" >合辑</a></span>
-<span class="mxsh_ss3"><a href="/cn104726x35.htm" title="最爱一生百万纪录巨星精选-失恋情伤 歌词 合辑" >最爱一生百万纪录巨星精选-失恋情伤</a></span>
-<span class="mxsh_ss4"><a href="/cny104726x35x5.htm" title="阴天 歌词 合辑" >5.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2004-12</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">29</span>
-<span class="mxsh_ss2"><a href="/cnh100041.htm" title="歌词" >李宗盛</a></span>
-<span class="mxsh_ss3"><a href="/cn100041x10.htm" title="爱情论[爱的代价] 歌词 李宗盛" >爱情论[爱的代价]</a></span>
-<span class="mxsh_ss4"><a href="/cny100041x10x23.htm" title="阴天(爱情论Iii) 歌词 李宗盛" >23.<font color="#D34805">阴天</font>(爱情论Iii)</a></span>
-<span class="mxsh_ss5">2004-08</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">30</span>
-<span class="mxsh_ss2"><a href="/cnh100489.htm" title="歌词" >电视原声带</a></span>
-<span class="mxsh_ss3"><a href="/cn100489x60.htm" title="嗨亲爱的 歌词 电视原声带" >嗨亲爱的</a></span>
-<span class="mxsh_ss4"><a href="/cny100489x60x9.htm" title="阴天 歌词 电视原声带" >9.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2004-01</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">31</span>
-<span class="mxsh_ss2"><a href="/cnh104725.htm" title="歌词" >合辑</a></span>
-<span class="mxsh_ss3"><a href="/cn104725x26.htm" title="情感万花筒 歌词 合辑" >情感万花筒</a></span>
-<span class="mxsh_ss4"><a href="/cny104725x26x15.htm" title="阴天 歌词 合辑" >15.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2003-09</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">32</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x25.htm" title="滚石香港黄金十年[莫文蔚精选] 歌词 莫文蔚" >滚石香港黄金十年[莫文蔚精选]</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x25x1.htm" title="阴天 歌词 莫文蔚" >1.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2003-02</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">33</span>
-<span class="mxsh_ss2"><a href="/cnh100401.htm" title="歌词" >滚石</a></span>
-<span class="mxsh_ss3"><a href="/cn100401x36.htm" title="K歌王国-女人K歌 歌词 滚石" >K歌王国-女人K歌</a></span>
-<span class="mxsh_ss4"><a href="/cny100401x36x4.htm" title="阴天 歌词 滚石" >4.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2002-04</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">34</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x22.htm" title="恋恋不忘 歌词 莫文蔚" >恋恋不忘</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x22x8.htm" title="阴天 歌词 莫文蔚" >8.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2002-04</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">35</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x20.htm" title="含情莫莫(全精选辑) 歌词 莫文蔚" >含情莫莫(全精选辑)</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x20x7.htm" title="阴天 歌词 莫文蔚" >7.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2002-03</span>
-</dd>
-<dd><p align="center"><script>document.write(ad_x3);</script></p></dd><dd class="mxsh_dd2">
-<span class="mxsh_ss1">36</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x10.htm" title="Karen More[No 1新曲精选全记录] 歌词 莫文蔚" >Karen More[No 1新曲精选全记录]</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x10x18.htm" title="阴天 歌词 莫文蔚" >18.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2000-06</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">37</span>
-<span class="mxsh_ss2"><a href="/cnh100168.htm" title="歌词" >郑中基</a></span>
-<span class="mxsh_ss3"><a href="/cn100168x11.htm" title="缘份无边界 歌词 郑中基" >缘份无边界</a></span>
-<span class="mxsh_ss4"><a href="/cny100168x11x2.htm" title="晴天阴天雨天 歌词 郑中基" >2.晴天<font color="#D34805">阴天</font>雨天</a></span>
-<span class="mxsh_ss5">2000-03</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">38</span>
-<span class="mxsh_ss2"><a href="/cnh100093.htm" title="歌词" >梁咏琪</a></span>
-<span class="mxsh_ss3"><a href="/cn100093x11.htm" title="903狂热份子[音乐会] 歌词 梁咏琪" >903狂热份子[音乐会]</a></span>
-<span class="mxsh_ss4"><a href="/cny100093x11x1.htm" title="阴天 歌词 梁咏琪" >1.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2000-03</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">39</span>
-<span class="mxsh_ss2"><a href="/cnh100424.htm" title="歌词" >百代</a></span>
-<span class="mxsh_ss3"><a href="/cn100424x19.htm" title="畅销金曲[Now国际中文版] 歌词 百代" >畅销金曲[Now国际中文版]</a></span>
-<span class="mxsh_ss4"><a href="/cny100424x19x9.htm" title="阴天 歌词 百代" >9.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">2000-02</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">40</span>
-<span class="mxsh_ss2"><a href="/cnh100612.htm" title="歌词" >环球</a></span>
-<span class="mxsh_ss3"><a href="/cn100612x22.htm" title="环球有情人 歌词 环球" >环球有情人</a></span>
-<span class="mxsh_ss4"><a href="/cny100612x22x4.htm" title="晴天阴天雨天 歌词 环球" >4.晴天<font color="#D34805">阴天</font>雨天</a></span>
-<span class="mxsh_ss5">2000-01</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">41</span>
-<span class="mxsh_ss2"><a href="/cnh100168.htm" title="歌词" >郑中基</a></span>
-<span class="mxsh_ss3"><a href="/cn100168x10.htm" title="One More Time 歌词 郑中基" >One More Time</a></span>
-<span class="mxsh_ss4"><a href="/cny100168x10x2.htm" title="晴天阴天雨天 歌词 郑中基" >2.晴天<font color="#D34805">阴天</font>雨天</a></span>
-<span class="mxsh_ss5">1999-12</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">42</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x28.htm" title="带莫文蔚回家音乐会 歌词 莫文蔚" >带莫文蔚回家音乐会</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x28x10.htm" title="阴天 歌词 莫文蔚" >10.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">1999-12</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">43</span>
-<span class="mxsh_ss2"><a href="/cnh100041.htm" title="歌词" >李宗盛</a></span>
-<span class="mxsh_ss3"><a href="/cn100041x2.htm" title="精选集 歌词 李宗盛" >精选集</a></span>
-<span class="mxsh_ss4"><a href="/cny100041x2x19.htm" title="阴天 歌词 李宗盛" >19.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">1999-11</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">44</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x17.htm" title="You Can 歌词 莫文蔚" >You Can</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x17x4.htm" title="阴天 歌词 莫文蔚" >4.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">1999-05</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">45</span>
-<span class="mxsh_ss2"><a href="/cnh100098.htm" title="歌词" >莫文蔚</a></span>
-<span class="mxsh_ss3"><a href="/cn100098x5.htm" title="你可以[You Can] 歌词 莫文蔚" >你可以[You Can]</a></span>
-<span class="mxsh_ss4"><a href="/cny100098x5x3.htm" title="阴天 歌词 莫文蔚" >3.<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">1999-04</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">46</span>
-<span class="mxsh_ss2"><a href="/cnh100059.htm" title="歌词" >林叶亭</a></span>
-<span class="mxsh_ss3"><a href="/cn100059x1.htm" title="Subway 歌词 林叶亭" >Subway</a></span>
-<span class="mxsh_ss4"><a href="/cny100059x1x4.htm" title="阴天，思念，含着泪 歌词 林叶亭" >4.<font color="#D34805">阴天</font>，思念，含着泪</a></span>
-<span class="mxsh_ss5">1993-05</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">47</span>
-<span class="mxsh_ss2"><a href="/cnh104513.htm" title="歌词" >傅振辉</a></span>
-<span class="mxsh_ss3"><a href="/cn104513x8.htm" title="我是我你是你 歌词 傅振辉" >我是我你是你</a></span>
-<span class="mxsh_ss4"><a href="/cny104513x8x2.htm" title="黑阴天 歌词 傅振辉" >2.黑<font color="#D34805">阴天</font></a></span>
-<span class="mxsh_ss5">1993</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">48</span>
-<span class="mxsh_ss2"><a href="/cnh134231.htm" title="歌词" >方丽盈</a></span>
-<span class="mxsh_ss3"><a href="/cn134231x2.htm" title="不要走 歌词 方丽盈" >不要走</a></span>
-<span class="mxsh_ss4"><a href="/cny134231x2x3.htm" title="又是有雨阴天 歌词 方丽盈" ><span class="shx_ss4"> 3.又是有雨<font color="#D34805">阴天</font></span></a></span>
-<span class="mxsh_ss5">1991</span>
-</dd>
-<dd class="mxsh_dd1">
-<span class="mxsh_ss1">49</span>
-<span class="mxsh_ss2"><a href="/cnh100144.htm" title="歌词" >温兆伦</a></span>
-<span class="mxsh_ss3"><a href="/cn100144x11.htm" title="今生无悔 歌词 温兆伦" >今生无悔</a></span>
-<span class="mxsh_ss4"><a href="/cny100144x11x5.htm" title="晴天、阴天、下雨天 歌词 温兆伦" >5.晴天、<font color="#D34805">阴天</font>、下雨天</a></span>
-<span class="mxsh_ss5">1991</span>
-</dd>
-<dd class="mxsh_dd2">
-<span class="mxsh_ss1">50</span>
-<span class="mxsh_ss2"><a href="/cnh102162.htm" title="歌词" >金佩姗</a></span>
-<span class="mxsh_ss3"><a href="/cn102162x5.htm" title="最美丽的折磨 歌词 金佩姗" >最美丽的折磨</a></span>
-<span class="mxsh_ss4"><a href="/cny102162x5x7.htm" title="爱是晴天，离是阴天 歌词 金佩姗" ><span class="shx_ss4"> 7.爱是晴天，离是<font color="#D34805">阴天</font></span></a></span>
-<span class="mxsh_ss5"></span>
-</dd>
 </dl>
 </div>
 </td></tr>
 </table>
-
+<p align="left">　</p><script>document.write(ad_end);</script>
 <script>document.write(bA);</script>
 <table border="0" cellpadding="0" cellspacing="0" style="max-width:800px;width:100%;"><tr><td>
 <script>document.write(gA);</script>
